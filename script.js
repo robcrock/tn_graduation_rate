@@ -23,7 +23,7 @@ const xScale = d3.scaleLinear()
     .rangeRound([0, innerHeight])
     .paddingInner(0.05),
   zScale = d3.scaleOrdinal()
-    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00", "#ff8c00"]);
+    .range(['#6493A8', '#1D5169']);
 
 d3.csv('tn_four_year_bach.csv', function(error, raw) {
   if (error) throw error;
@@ -71,8 +71,9 @@ d3.csv('tn_four_year_bach.csv', function(error, raw) {
   data = data.filter(function(row) {
     return row.year === 2012 &&
       row.institution_type === 'Private for-profit' &&
-      row.gender === 'M' &&
-      row.race === 'White';
+      row.gender === 'M';
+      //  &&
+      // row.race === 'White';
   });
 
   const stack = d3.stack();
