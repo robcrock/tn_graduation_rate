@@ -1,0 +1,1261 @@
+state,state_abbr,control,year,gender,race,num_of_students,num_grad_in_4,num_grad_in_6,perc_grad_in_4,perc_grad_in_6
+Tennessee,TN,Private for-profit,2011,B,A,8,0,2,0,25
+Tennessee,TN,Private for-profit,2011,B,Ai,3,0,2,0,66.7
+Tennessee,TN,Private for-profit,2011,B,B,182,5,22,2.7,12.1
+Tennessee,TN,Private for-profit,2011,B,H,16,3,4,18.8,25
+Tennessee,TN,Private for-profit,2011,B,W,254,22,42,8.7,16.5
+Tennessee,TN,Private for-profit,2011,B,X,581,30,89,5.2,15.3
+Tennessee,TN,Private for-profit,2011,F,A,3,0,0,0,0
+Tennessee,TN,Private for-profit,2011,F,Ai,2,0,1,0,50
+Tennessee,TN,Private for-profit,2011,F,B,119,4,17,3.4,14.3
+Tennessee,TN,Private for-profit,2011,F,H,6,1,1,16.7,16.7
+Tennessee,TN,Private for-profit,2011,F,W,123,8,26,6.5,21.1
+Tennessee,TN,Private for-profit,2011,F,X,336,13,56,3.9,16.7
+Tennessee,TN,Private for-profit,2011,M,A,5,0,2,0,40
+Tennessee,TN,Private for-profit,2011,M,Ai,1,0,1,0,100
+Tennessee,TN,Private for-profit,2011,M,B,63,1,5,1.6,7.9
+Tennessee,TN,Private for-profit,2011,M,H,10,2,3,20,30
+Tennessee,TN,Private for-profit,2011,M,W,131,14,16,10.7,12.2
+Tennessee,TN,Private for-profit,2011,M,X,245,17,33,6.9,13.5
+Tennessee,TN,Private for-profit,2012,B,A,8,0,0,0,0
+Tennessee,TN,Private for-profit,2012,B,Ai,3,0,0,0,0
+Tennessee,TN,Private for-profit,2012,B,B,229,8,29,3.5,12.7
+Tennessee,TN,Private for-profit,2012,B,H,12,1,3,8.3,25
+Tennessee,TN,Private for-profit,2012,B,W,251,23,38,9.2,15.1
+Tennessee,TN,Private for-profit,2012,B,X,627,32,82,5.1,13.1
+Tennessee,TN,Private for-profit,2012,F,A,5,0,0,0,0
+Tennessee,TN,Private for-profit,2012,F,Ai,1,0,0,0,0
+Tennessee,TN,Private for-profit,2012,F,B,149,4,17,2.7,11.4
+Tennessee,TN,Private for-profit,2012,F,H,8,0,2,0,25
+Tennessee,TN,Private for-profit,2012,F,W,108,12,22,11.1,20.4
+Tennessee,TN,Private for-profit,2012,F,X,345,16,51,4.6,14.8
+Tennessee,TN,Private for-profit,2012,M,A,3,0,0,0,0
+Tennessee,TN,Private for-profit,2012,M,Ai,2,0,0,0,0
+Tennessee,TN,Private for-profit,2012,M,B,80,4,12,5,15
+Tennessee,TN,Private for-profit,2012,M,H,4,1,1,25,25
+Tennessee,TN,Private for-profit,2012,M,W,143,11,16,7.7,11.2
+Tennessee,TN,Private for-profit,2012,M,X,282,16,31,5.7,11
+Tennessee,TN,Private for-profit,2013,B,A,4,1,2,25,50
+Tennessee,TN,Private for-profit,2013,B,Ai,5,0,1,0,20
+Tennessee,TN,Private for-profit,2013,B,B,245,10,38,4.1,15.5
+Tennessee,TN,Private for-profit,2013,B,H,20,1,6,5,30
+Tennessee,TN,Private for-profit,2013,B,W,218,51,59,23.4,27.1
+Tennessee,TN,Private for-profit,2013,B,X,659,64,127,9.7,19.3
+Tennessee,TN,Private for-profit,2013,F,A,3,0,1,0,33.3
+Tennessee,TN,Private for-profit,2013,F,Ai,2,0,0,0,0
+Tennessee,TN,Private for-profit,2013,F,B,168,5,31,3,18.5
+Tennessee,TN,Private for-profit,2013,F,H,11,0,4,0,36.4
+Tennessee,TN,Private for-profit,2013,F,W,104,12,20,11.5,19.2
+Tennessee,TN,Private for-profit,2013,F,X,403,17,74,4.2,18.4
+Tennessee,TN,Private for-profit,2013,M,A,1,1,1,100,100
+Tennessee,TN,Private for-profit,2013,M,Ai,3,0,1,0,33.3
+Tennessee,TN,Private for-profit,2013,M,B,77,5,7,6.5,9.1
+Tennessee,TN,Private for-profit,2013,M,H,9,1,2,11.1,22.2
+Tennessee,TN,Private for-profit,2013,M,W,114,39,39,34.2,34.2
+Tennessee,TN,Private for-profit,2013,M,X,256,47,53,18.4,20.7
+Tennessee,TN,Private not-for-profit,2011,B,A,243,142,183,58.4,75.3
+Tennessee,TN,Private not-for-profit,2011,B,Ai,38,19,20,50,52.6
+Tennessee,TN,Private not-for-profit,2011,B,B,1423,372,591,26.1,41.5
+Tennessee,TN,Private not-for-profit,2011,B,H,316,152,191,48.1,60.4
+Tennessee,TN,Private not-for-profit,2011,B,W,7572,3812,4655,50.3,61.5
+Tennessee,TN,Private not-for-profit,2011,B,X,10230,4812,6020,47,58.8
+Tennessee,TN,Private not-for-profit,2011,F,A,133,80,97,60.2,72.9
+Tennessee,TN,Private not-for-profit,2011,F,Ai,22,12,13,54.5,59.1
+Tennessee,TN,Private not-for-profit,2011,F,B,783,275,375,35.1,47.9
+Tennessee,TN,Private not-for-profit,2011,F,H,185,103,127,55.7,68.6
+Tennessee,TN,Private not-for-profit,2011,F,W,4256,2237,2672,52.6,62.8
+Tennessee,TN,Private not-for-profit,2011,F,X,5681,2864,3470,50.4,61.1
+Tennessee,TN,Private not-for-profit,2011,M,A,110,62,86,56.4,78.2
+Tennessee,TN,Private not-for-profit,2011,M,Ai,16,7,7,43.8,43.8
+Tennessee,TN,Private not-for-profit,2011,M,B,640,97,216,15.2,33.8
+Tennessee,TN,Private not-for-profit,2011,M,H,131,49,64,37.4,48.9
+Tennessee,TN,Private not-for-profit,2011,M,W,3316,1575,1983,47.5,59.8
+Tennessee,TN,Private not-for-profit,2011,M,X,4549,1948,2550,42.8,56.1
+Tennessee,TN,Private not-for-profit,2012,B,A,226,153,175,67.7,77.4
+Tennessee,TN,Private not-for-profit,2012,B,Ai,38,17,20,44.7,52.6
+Tennessee,TN,Private not-for-profit,2012,B,B,1429,402,601,28.1,42.1
+Tennessee,TN,Private not-for-profit,2012,B,H,287,130,183,45.3,63.8
+Tennessee,TN,Private not-for-profit,2012,B,W,7346,3624,4537,49.3,61.8
+Tennessee,TN,Private not-for-profit,2012,B,X,10103,4722,5998,46.7,59.4
+Tennessee,TN,Private not-for-profit,2012,F,A,133,90,102,67.7,76.7
+Tennessee,TN,Private not-for-profit,2012,F,Ai,23,12,14,52.2,60.9
+Tennessee,TN,Private not-for-profit,2012,F,B,760,288,392,37.9,51.6
+Tennessee,TN,Private not-for-profit,2012,F,H,138,77,99,55.8,71.7
+Tennessee,TN,Private not-for-profit,2012,F,W,4120,2186,2644,53.1,64.2
+Tennessee,TN,Private not-for-profit,2012,F,X,5541,2863,3503,51.7,63.2
+Tennessee,TN,Private not-for-profit,2012,M,A,93,63,73,67.7,78.5
+Tennessee,TN,Private not-for-profit,2012,M,Ai,15,5,6,33.3,40
+Tennessee,TN,Private not-for-profit,2012,M,B,669,114,209,17,31.2
+Tennessee,TN,Private not-for-profit,2012,M,H,149,53,84,35.6,56.4
+Tennessee,TN,Private not-for-profit,2012,M,W,3226,1438,1893,44.6,58.7
+Tennessee,TN,Private not-for-profit,2012,M,X,4562,1859,2495,40.7,54.7
+Tennessee,TN,Private not-for-profit,2013,B,A,271,158,210,58.3,77.5
+Tennessee,TN,Private not-for-profit,2013,B,Ai,40,14,16,35,40
+Tennessee,TN,Private not-for-profit,2013,B,B,1689,458,694,27.1,41.1
+Tennessee,TN,Private not-for-profit,2013,B,H,314,149,194,47.5,61.8
+Tennessee,TN,Private not-for-profit,2013,B,W,7485,3738,4681,49.9,62.5
+Tennessee,TN,Private not-for-profit,2013,B,X,10583,4923,6277,46.5,59.3
+Tennessee,TN,Private not-for-profit,2013,F,A,149,85,117,57,78.5
+Tennessee,TN,Private not-for-profit,2013,F,Ai,23,12,12,52.2,52.2
+Tennessee,TN,Private not-for-profit,2013,F,B,915,302,425,33,46.4
+Tennessee,TN,Private not-for-profit,2013,F,H,174,90,113,51.7,64.9
+Tennessee,TN,Private not-for-profit,2013,F,W,4241,2290,2790,54,65.8
+Tennessee,TN,Private not-for-profit,2013,F,X,5866,2985,3694,50.9,63
+Tennessee,TN,Private not-for-profit,2013,M,A,122,73,93,59.8,76.2
+Tennessee,TN,Private not-for-profit,2013,M,Ai,17,2,4,11.8,23.5
+Tennessee,TN,Private not-for-profit,2013,M,B,774,156,269,20.2,34.8
+Tennessee,TN,Private not-for-profit,2013,M,H,140,59,81,42.1,57.9
+Tennessee,TN,Private not-for-profit,2013,M,W,3244,1448,1891,44.6,58.3
+Tennessee,TN,Private not-for-profit,2013,M,X,4717,1938,2583,41.1,54.8
+Tennessee,TN,Public,2011,B,A,351,100,187,28.5,53.3
+Tennessee,TN,Public,2011,B,Ai,65,13,28,20,43.1
+Tennessee,TN,Public,2011,B,B,3469,392,1251,11.3,36.1
+Tennessee,TN,Public,2011,B,H,286,42,121,14.7,42.3
+Tennessee,TN,Public,2011,B,W,12860,3006,6492,23.4,50.5
+Tennessee,TN,Public,2011,B,X,17469,3622,8258,20.7,47.3
+Tennessee,TN,Public,2011,F,A,205,61,115,29.8,56.1
+Tennessee,TN,Public,2011,F,Ai,32,8,17,25,53.1
+Tennessee,TN,Public,2011,F,B,2221,278,838,12.5,37.7
+Tennessee,TN,Public,2011,F,H,161,27,71,16.8,44.1
+Tennessee,TN,Public,2011,F,W,6800,1882,3591,27.7,52.8
+Tennessee,TN,Public,2011,F,X,9647,2305,4730,23.9,49
+Tennessee,TN,Public,2011,M,A,146,39,72,26.7,49.3
+Tennessee,TN,Public,2011,M,Ai,33,5,11,15.2,33.3
+Tennessee,TN,Public,2011,M,B,1248,114,413,9.1,33.1
+Tennessee,TN,Public,2011,M,H,125,15,50,12,40
+Tennessee,TN,Public,2011,M,W,6060,1124,2901,18.5,47.9
+Tennessee,TN,Public,2011,M,X,7822,1317,3528,16.8,45.1
+Tennessee,TN,Public,2012,B,A,367,96,221,26.2,60.2
+Tennessee,TN,Public,2012,B,Ai,60,11,28,18.3,46.7
+Tennessee,TN,Public,2012,B,B,3651,386,1279,10.6,35
+Tennessee,TN,Public,2012,B,H,345,46,145,13.3,42
+Tennessee,TN,Public,2012,B,W,13276,3043,6844,22.9,51.6
+Tennessee,TN,Public,2012,B,X,18152,3651,8683,20.1,47.8
+Tennessee,TN,Public,2012,F,A,171,51,107,29.8,62.6
+Tennessee,TN,Public,2012,F,Ai,38,8,17,21.1,44.7
+Tennessee,TN,Public,2012,F,B,2319,294,871,12.7,37.6
+Tennessee,TN,Public,2012,F,H,183,24,77,13.1,42.1
+Tennessee,TN,Public,2012,F,W,7004,1925,3759,27.5,53.7
+Tennessee,TN,Public,2012,F,X,9950,2344,4921,23.6,49.5
+Tennessee,TN,Public,2012,M,A,196,45,114,23,58.2
+Tennessee,TN,Public,2012,M,Ai,22,3,11,13.6,50
+Tennessee,TN,Public,2012,M,B,1332,92,408,6.9,30.6
+Tennessee,TN,Public,2012,M,H,162,22,68,13.6,42
+Tennessee,TN,Public,2012,M,W,6272,1118,3085,17.8,49.2
+Tennessee,TN,Public,2012,M,X,8202,1307,3762,15.9,45.9
+Tennessee,TN,Public,2013,B,A,432,118,236,27.3,54.6
+Tennessee,TN,Public,2013,B,Ai,64,11,22,17.2,34.4
+Tennessee,TN,Public,2013,B,B,3758,365,1338,9.7,35.6
+Tennessee,TN,Public,2013,B,H,337,61,146,18.1,43.3
+Tennessee,TN,Public,2013,B,W,13897,3315,7155,23.9,51.5
+Tennessee,TN,Public,2013,B,X,19080,3969,9139,20.8,47.9
+Tennessee,TN,Public,2013,F,A,226,75,136,33.2,60.2
+Tennessee,TN,Public,2013,F,Ai,35,7,11,20,31.4
+Tennessee,TN,Public,2013,F,B,2326,260,888,11.2,38.2
+Tennessee,TN,Public,2013,F,H,192,44,88,22.9,45.8
+Tennessee,TN,Public,2013,F,W,7226,2046,3925,28.3,54.3
+Tennessee,TN,Public,2013,F,X,10320,2499,5187,24.2,50.3
+Tennessee,TN,Public,2013,M,A,206,43,100,20.9,48.5
+Tennessee,TN,Public,2013,M,Ai,29,4,11,13.8,37.9
+Tennessee,TN,Public,2013,M,B,1432,105,450,7.3,31.4
+Tennessee,TN,Public,2013,M,H,145,17,58,11.7,40
+Tennessee,TN,Public,2013,M,W,6671,1269,3230,19,48.4
+Tennessee,TN,Public,2013,M,X,8760,1470,3952,16.8,45.1
+Tennessee,TN,Private for-profit,2002,B,A,0,0,0,,
+Tennessee,TN,Private for-profit,2002,B,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2002,B,B,12,1,2,8.3,16.7
+Tennessee,TN,Private for-profit,2002,B,H,0,0,0,,
+Tennessee,TN,Private for-profit,2002,B,W,45,4,9,8.9,20
+Tennessee,TN,Private for-profit,2002,B,X,57,5,11,8.8,19.3
+Tennessee,TN,Private for-profit,2002,F,A,0,0,0,,
+Tennessee,TN,Private for-profit,2002,F,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2002,F,B,10,1,2,10,20
+Tennessee,TN,Private for-profit,2002,F,H,0,0,0,,
+Tennessee,TN,Private for-profit,2002,F,W,30,3,6,10,20
+Tennessee,TN,Private for-profit,2002,F,X,40,4,8,10,20
+Tennessee,TN,Private for-profit,2002,M,A,0,0,0,,
+Tennessee,TN,Private for-profit,2002,M,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2002,M,B,2,0,0,0,0
+Tennessee,TN,Private for-profit,2002,M,H,0,0,0,,
+Tennessee,TN,Private for-profit,2002,M,W,15,1,3,6.7,20
+Tennessee,TN,Private for-profit,2002,M,X,17,1,3,5.9,17.6
+Tennessee,TN,Private for-profit,2003,B,A,0,0,0,,
+Tennessee,TN,Private for-profit,2003,B,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2003,B,B,20,0,0,0,0
+Tennessee,TN,Private for-profit,2003,B,H,0,0,0,,
+Tennessee,TN,Private for-profit,2003,B,W,31,0,0,0,0
+Tennessee,TN,Private for-profit,2003,B,X,51,0,0,0,0
+Tennessee,TN,Private for-profit,2003,F,A,0,0,0,,
+Tennessee,TN,Private for-profit,2003,F,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2003,F,B,13,0,0,0,0
+Tennessee,TN,Private for-profit,2003,F,H,0,0,0,,
+Tennessee,TN,Private for-profit,2003,F,W,21,0,0,0,0
+Tennessee,TN,Private for-profit,2003,F,X,34,0,0,0,0
+Tennessee,TN,Private for-profit,2003,M,A,0,0,0,,
+Tennessee,TN,Private for-profit,2003,M,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2003,M,B,7,0,0,0,0
+Tennessee,TN,Private for-profit,2003,M,H,0,0,0,,
+Tennessee,TN,Private for-profit,2003,M,W,10,0,0,0,0
+Tennessee,TN,Private for-profit,2003,M,X,17,0,0,0,0
+Tennessee,TN,Private for-profit,2004,B,A,0,0,0,,
+Tennessee,TN,Private for-profit,2004,B,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2004,B,B,36,0,0,0,0
+Tennessee,TN,Private for-profit,2004,B,H,0,0,0,,
+Tennessee,TN,Private for-profit,2004,B,W,25,0,0,0,0
+Tennessee,TN,Private for-profit,2004,B,X,63,0,0,0,0
+Tennessee,TN,Private for-profit,2004,F,A,0,0,0,,
+Tennessee,TN,Private for-profit,2004,F,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2004,F,B,21,0,0,0,0
+Tennessee,TN,Private for-profit,2004,F,H,0,0,0,,
+Tennessee,TN,Private for-profit,2004,F,W,14,0,0,0,0
+Tennessee,TN,Private for-profit,2004,F,X,35,0,0,0,0
+Tennessee,TN,Private for-profit,2004,M,A,0,0,0,,
+Tennessee,TN,Private for-profit,2004,M,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2004,M,B,15,0,0,0,0
+Tennessee,TN,Private for-profit,2004,M,H,0,0,0,,
+Tennessee,TN,Private for-profit,2004,M,W,11,0,0,0,0
+Tennessee,TN,Private for-profit,2004,M,X,28,0,0,0,0
+Tennessee,TN,Private for-profit,2005,B,A,1,0,1,0,100
+Tennessee,TN,Private for-profit,2005,B,Ai,1,0,0,0,0
+Tennessee,TN,Private for-profit,2005,B,B,49,17,19,34.7,38.8
+Tennessee,TN,Private for-profit,2005,B,H,0,0,0,,
+Tennessee,TN,Private for-profit,2005,B,W,70,3,7,4.3,10
+Tennessee,TN,Private for-profit,2005,B,X,124,20,28,16.1,22.6
+Tennessee,TN,Private for-profit,2005,F,A,1,0,1,0,100
+Tennessee,TN,Private for-profit,2005,F,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2005,F,B,31,8,9,25.8,29
+Tennessee,TN,Private for-profit,2005,F,H,0,0,0,,
+Tennessee,TN,Private for-profit,2005,F,W,21,2,5,9.5,23.8
+Tennessee,TN,Private for-profit,2005,F,X,53,10,15,18.9,28.3
+Tennessee,TN,Private for-profit,2005,M,A,0,0,0,,
+Tennessee,TN,Private for-profit,2005,M,Ai,1,0,0,0,0
+Tennessee,TN,Private for-profit,2005,M,B,18,9,10,50,55.6
+Tennessee,TN,Private for-profit,2005,M,H,0,0,0,,
+Tennessee,TN,Private for-profit,2005,M,W,49,1,2,2,4.1
+Tennessee,TN,Private for-profit,2005,M,X,71,10,13,14.1,18.3
+Tennessee,TN,Private for-profit,2006,B,A,1,0,0,0,0
+Tennessee,TN,Private for-profit,2006,B,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2006,B,B,32,7,10,21.9,31.3
+Tennessee,TN,Private for-profit,2006,B,H,0,0,0,,
+Tennessee,TN,Private for-profit,2006,B,W,30,2,7,6.7,23.3
+Tennessee,TN,Private for-profit,2006,B,X,65,9,17,13.8,26.2
+Tennessee,TN,Private for-profit,2006,F,A,1,0,0,0,0
+Tennessee,TN,Private for-profit,2006,F,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2006,F,B,21,3,6,14.3,28.6
+Tennessee,TN,Private for-profit,2006,F,H,0,0,0,,
+Tennessee,TN,Private for-profit,2006,F,W,16,2,5,12.5,31.3
+Tennessee,TN,Private for-profit,2006,F,X,38,5,11,13.2,28.9
+Tennessee,TN,Private for-profit,2006,M,A,0,0,0,,
+Tennessee,TN,Private for-profit,2006,M,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2006,M,B,11,4,4,36.4,36.4
+Tennessee,TN,Private for-profit,2006,M,H,0,0,0,,
+Tennessee,TN,Private for-profit,2006,M,W,14,0,2,0,14.3
+Tennessee,TN,Private for-profit,2006,M,X,27,4,6,14.8,22.2
+Tennessee,TN,Private for-profit,2007,B,A,0,0,0,,
+Tennessee,TN,Private for-profit,2007,B,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2007,B,B,29,5,6,17.2,20.7
+Tennessee,TN,Private for-profit,2007,B,H,3,2,2,66.7,66.7
+Tennessee,TN,Private for-profit,2007,B,W,65,30,34,46.2,52.3
+Tennessee,TN,Private for-profit,2007,B,X,105,39,44,37.1,41.9
+Tennessee,TN,Private for-profit,2007,F,A,0,0,0,,
+Tennessee,TN,Private for-profit,2007,F,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2007,F,B,16,3,4,18.8,25
+Tennessee,TN,Private for-profit,2007,F,H,1,0,0,0,0
+Tennessee,TN,Private for-profit,2007,F,W,15,6,8,40,53.3
+Tennessee,TN,Private for-profit,2007,F,X,35,9,12,25.7,34.3
+Tennessee,TN,Private for-profit,2007,M,A,0,0,0,,
+Tennessee,TN,Private for-profit,2007,M,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2007,M,B,13,2,2,15.4,15.4
+Tennessee,TN,Private for-profit,2007,M,H,2,2,2,100,100
+Tennessee,TN,Private for-profit,2007,M,W,50,24,26,48,52
+Tennessee,TN,Private for-profit,2007,M,X,70,30,32,42.9,45.7
+Tennessee,TN,Private for-profit,2008,B,A,2,0,0,0,0
+Tennessee,TN,Private for-profit,2008,B,Ai,1,0,0,0,0
+Tennessee,TN,Private for-profit,2008,B,B,74,0,6,0,8.1
+Tennessee,TN,Private for-profit,2008,B,H,3,0,0,0,0
+Tennessee,TN,Private for-profit,2008,B,W,167,16,21,9.6,12.6
+Tennessee,TN,Private for-profit,2008,B,X,272,16,28,5.9,10.3
+Tennessee,TN,Private for-profit,2008,F,A,0,0,0,,
+Tennessee,TN,Private for-profit,2008,F,Ai,1,0,0,0,0
+Tennessee,TN,Private for-profit,2008,F,B,39,0,5,0,12.8
+Tennessee,TN,Private for-profit,2008,F,H,2,0,0,0,0
+Tennessee,TN,Private for-profit,2008,F,W,76,4,5,5.3,6.6
+Tennessee,TN,Private for-profit,2008,F,X,137,4,11,2.9,8
+Tennessee,TN,Private for-profit,2008,M,A,2,0,0,0,0
+Tennessee,TN,Private for-profit,2008,M,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2008,M,B,35,0,1,0,2.9
+Tennessee,TN,Private for-profit,2008,M,H,1,0,0,0,0
+Tennessee,TN,Private for-profit,2008,M,W,91,12,16,13.2,17.6
+Tennessee,TN,Private for-profit,2008,M,X,135,12,17,8.9,12.6
+Tennessee,TN,Private for-profit,2009,B,A,2,0,1,0,50
+Tennessee,TN,Private for-profit,2009,B,Ai,1,0,1,0,100
+Tennessee,TN,Private for-profit,2009,B,B,153,9,20,5.9,13.1
+Tennessee,TN,Private for-profit,2009,B,H,9,1,1,11.1,11.1
+Tennessee,TN,Private for-profit,2009,B,W,151,10,21,6.6,13.9
+Tennessee,TN,Private for-profit,2009,B,X,345,20,45,5.8,13
+Tennessee,TN,Private for-profit,2009,F,A,1,0,0,0,0
+Tennessee,TN,Private for-profit,2009,F,Ai,0,0,0,,
+Tennessee,TN,Private for-profit,2009,F,B,105,7,16,6.7,15.2
+Tennessee,TN,Private for-profit,2009,F,H,4,0,0,0,0
+Tennessee,TN,Private for-profit,2009,F,W,71,7,14,9.9,19.7
+Tennessee,TN,Private for-profit,2009,F,X,196,14,31,7.1,15.8
+Tennessee,TN,Private for-profit,2009,M,A,1,0,1,0,100
+Tennessee,TN,Private for-profit,2009,M,Ai,1,0,1,0,100
+Tennessee,TN,Private for-profit,2009,M,B,48,2,4,4.2,8.3
+Tennessee,TN,Private for-profit,2009,M,H,5,1,1,20,20
+Tennessee,TN,Private for-profit,2009,M,W,80,3,7,3.8,8.8
+Tennessee,TN,Private for-profit,2009,M,X,149,6,14,4,9.4
+Tennessee,TN,Private for-profit,2010,B,A,5,0,0,0,0
+Tennessee,TN,Private for-profit,2010,B,Ai,3,0,0,0,0
+Tennessee,TN,Private for-profit,2010,B,B,164,3,21,1.8,12.8
+Tennessee,TN,Private for-profit,2010,B,H,10,2,3,20,30
+Tennessee,TN,Private for-profit,2010,B,W,236,16,39,6.8,16.5
+Tennessee,TN,Private for-profit,2010,B,X,453,22,65,4.9,14.3
+Tennessee,TN,Private for-profit,2010,F,A,3,0,0,0,0
+Tennessee,TN,Private for-profit,2010,F,Ai,2,0,0,0,0
+Tennessee,TN,Private for-profit,2010,F,B,109,1,13,0.9,11.9
+Tennessee,TN,Private for-profit,2010,F,H,6,1,2,16.7,33.3
+Tennessee,TN,Private for-profit,2010,F,W,109,4,19,3.7,17.4
+Tennessee,TN,Private for-profit,2010,F,X,250,7,36,2.8,14.4
+Tennessee,TN,Private for-profit,2010,M,A,2,0,0,0,0
+Tennessee,TN,Private for-profit,2010,M,Ai,1,0,0,0,0
+Tennessee,TN,Private for-profit,2010,M,B,55,2,8,3.6,14.5
+Tennessee,TN,Private for-profit,2010,M,H,4,1,1,25,25
+Tennessee,TN,Private for-profit,2010,M,W,127,12,20,9.4,15.7
+Tennessee,TN,Private for-profit,2010,M,X,203,15,29,7.4,14.3
+Tennessee,TN,Private not-for-profit,2002,B,A,146,24,112,16.4,76.7
+Tennessee,TN,Private not-for-profit,2002,B,Ai,25,5,13,20,52
+Tennessee,TN,Private not-for-profit,2002,B,B,1064,211,385,19.8,36.2
+Tennessee,TN,Private not-for-profit,2002,B,H,116,18,76,15.5,65.5
+Tennessee,TN,Private not-for-profit,2002,B,W,6337,2056,3748,32.4,59.1
+Tennessee,TN,Private not-for-profit,2002,B,X,8061,2374,4560,29.5,56.6
+Tennessee,TN,Private not-for-profit,2002,F,A,63,11,45,17.5,71.4
+Tennessee,TN,Private not-for-profit,2002,F,Ai,11,2,6,18.2,54.5
+Tennessee,TN,Private not-for-profit,2002,F,B,602,148,241,24.6,40
+Tennessee,TN,Private not-for-profit,2002,F,H,56,12,41,21.4,73.2
+Tennessee,TN,Private not-for-profit,2002,F,W,3557,1285,2148,36.1,60.4
+Tennessee,TN,Private not-for-profit,2002,F,X,4457,1491,2595,33.5,58.2
+Tennessee,TN,Private not-for-profit,2002,M,A,83,13,67,15.7,80.7
+Tennessee,TN,Private not-for-profit,2002,M,Ai,14,3,7,21.4,50
+Tennessee,TN,Private not-for-profit,2002,M,B,462,63,144,13.6,31.2
+Tennessee,TN,Private not-for-profit,2002,M,H,60,6,35,10,58.3
+Tennessee,TN,Private not-for-profit,2002,M,W,2780,771,1600,27.7,57.6
+Tennessee,TN,Private not-for-profit,2002,M,X,3604,883,1965,24.5,54.5
+Tennessee,TN,Private not-for-profit,2003,B,A,134,67,83,50,61.9
+Tennessee,TN,Private not-for-profit,2003,B,Ai,13,5,6,38.5,46.2
+Tennessee,TN,Private not-for-profit,2003,B,B,833,214,374,25.7,44.9
+Tennessee,TN,Private not-for-profit,2003,B,H,121,53,75,43.8,62
+Tennessee,TN,Private not-for-profit,2003,B,W,6834,3082,4010,45.1,58.7
+Tennessee,TN,Private not-for-profit,2003,B,X,8330,3595,4768,43.2,57.2
+Tennessee,TN,Private not-for-profit,2003,F,A,69,34,45,49.3,65.2
+Tennessee,TN,Private not-for-profit,2003,F,Ai,8,3,4,37.5,50
+Tennessee,TN,Private not-for-profit,2003,F,B,451,145,241,32.2,53.4
+Tennessee,TN,Private not-for-profit,2003,F,H,65,28,39,43.1,60
+Tennessee,TN,Private not-for-profit,2003,F,W,3850,1879,2350,48.8,61
+Tennessee,TN,Private not-for-profit,2003,F,X,4611,2174,2776,47.1,60.2
+Tennessee,TN,Private not-for-profit,2003,M,A,65,33,38,50.8,58.5
+Tennessee,TN,Private not-for-profit,2003,M,Ai,5,2,2,40,40
+Tennessee,TN,Private not-for-profit,2003,M,B,382,69,133,18.1,34.8
+Tennessee,TN,Private not-for-profit,2003,M,H,56,25,36,44.6,64.3
+Tennessee,TN,Private not-for-profit,2003,M,W,2984,1203,1660,40.3,55.6
+Tennessee,TN,Private not-for-profit,2003,M,X,3719,1421,1992,38.2,53.6
+Tennessee,TN,Private not-for-profit,2004,B,A,167,102,122,61.1,73.1
+Tennessee,TN,Private not-for-profit,2004,B,Ai,28,10,15,35.7,53.6
+Tennessee,TN,Private not-for-profit,2004,B,B,998,278,407,27.9,40.8
+Tennessee,TN,Private not-for-profit,2004,B,H,174,72,97,41.4,55.7
+Tennessee,TN,Private not-for-profit,2004,B,W,7053,3256,4206,46.2,59.6
+Tennessee,TN,Private not-for-profit,2004,B,X,8849,3905,5079,44.1,57.4
+Tennessee,TN,Private not-for-profit,2004,F,A,89,58,67,65.2,75.3
+Tennessee,TN,Private not-for-profit,2004,F,Ai,9,3,4,33.3,44.4
+Tennessee,TN,Private not-for-profit,2004,F,B,524,190,254,36.3,48.5
+Tennessee,TN,Private not-for-profit,2004,F,H,103,44,56,42.7,54.4
+Tennessee,TN,Private not-for-profit,2004,F,W,3953,1964,2433,49.7,61.5
+Tennessee,TN,Private not-for-profit,2004,F,X,4880,2355,2921,48.3,59.9
+Tennessee,TN,Private not-for-profit,2004,M,A,78,44,55,56.4,70.5
+Tennessee,TN,Private not-for-profit,2004,M,Ai,19,7,11,36.8,57.9
+Tennessee,TN,Private not-for-profit,2004,M,B,474,88,153,18.6,32.3
+Tennessee,TN,Private not-for-profit,2004,M,H,71,28,41,39.4,57.7
+Tennessee,TN,Private not-for-profit,2004,M,W,3100,1292,1773,41.7,57.2
+Tennessee,TN,Private not-for-profit,2004,M,X,3969,1550,2158,39.1,54.4
+Tennessee,TN,Private not-for-profit,2005,B,A,186,130,146,69.9,78.5
+Tennessee,TN,Private not-for-profit,2005,B,Ai,29,8,12,27.6,41.4
+Tennessee,TN,Private not-for-profit,2005,B,B,1186,292,447,24.6,37.7
+Tennessee,TN,Private not-for-profit,2005,B,H,168,79,100,47,59.5
+Tennessee,TN,Private not-for-profit,2005,B,W,7307,3579,4465,49,61.1
+Tennessee,TN,Private not-for-profit,2005,B,X,9294,4277,5404,46,58.1
+Tennessee,TN,Private not-for-profit,2005,F,A,93,71,74,76.3,79.6
+Tennessee,TN,Private not-for-profit,2005,F,Ai,20,8,12,40,60
+Tennessee,TN,Private not-for-profit,2005,F,B,695,193,281,27.8,40.4
+Tennessee,TN,Private not-for-profit,2005,F,H,91,41,54,45.1,59.3
+Tennessee,TN,Private not-for-profit,2005,F,W,4181,2181,2634,52.2,63
+Tennessee,TN,Private not-for-profit,2005,F,X,5289,2592,3169,49,59.9
+Tennessee,TN,Private not-for-profit,2005,M,A,93,59,72,63.4,77.4
+Tennessee,TN,Private not-for-profit,2005,M,Ai,9,0,0,0,0
+Tennessee,TN,Private not-for-profit,2005,M,B,491,99,166,20.2,33.8
+Tennessee,TN,Private not-for-profit,2005,M,H,77,38,46,49.4,59.7
+Tennessee,TN,Private not-for-profit,2005,M,W,3126,1398,1831,44.7,58.6
+Tennessee,TN,Private not-for-profit,2005,M,X,4005,1685,2235,42.1,55.8
+Tennessee,TN,Private not-for-profit,2006,B,A,184,112,133,60.9,72.3
+Tennessee,TN,Private not-for-profit,2006,B,Ai,51,10,20,19.6,39.2
+Tennessee,TN,Private not-for-profit,2006,B,B,1141,201,487,17.6,42.7
+Tennessee,TN,Private not-for-profit,2006,B,H,193,81,107,42,55.4
+Tennessee,TN,Private not-for-profit,2006,B,W,7458,3591,4491,48.1,60.2
+Tennessee,TN,Private not-for-profit,2006,B,X,9516,4219,5518,44.3,58
+Tennessee,TN,Private not-for-profit,2006,F,A,86,54,64,62.8,74.4
+Tennessee,TN,Private not-for-profit,2006,F,Ai,25,7,12,28,48
+Tennessee,TN,Private not-for-profit,2006,F,B,650,135,318,20.8,48.9
+Tennessee,TN,Private not-for-profit,2006,F,H,103,50,65,48.5,63.1
+Tennessee,TN,Private not-for-profit,2006,F,W,4242,2175,2598,51.3,61.2
+Tennessee,TN,Private not-for-profit,2006,F,X,5336,2531,3191,47.4,59.8
+Tennessee,TN,Private not-for-profit,2006,M,A,98,58,69,59.2,70.4
+Tennessee,TN,Private not-for-profit,2006,M,Ai,26,3,8,11.5,30.8
+Tennessee,TN,Private not-for-profit,2006,M,B,491,66,169,13.4,34.4
+Tennessee,TN,Private not-for-profit,2006,M,H,90,31,42,34.4,46.7
+Tennessee,TN,Private not-for-profit,2006,M,W,3216,1416,1893,44,58.9
+Tennessee,TN,Private not-for-profit,2006,M,X,4180,1688,2327,40.4,55.7
+Tennessee,TN,Private not-for-profit,2007,B,A,204,124,149,60.8,73
+Tennessee,TN,Private not-for-profit,2007,B,Ai,29,9,11,31,37.9
+Tennessee,TN,Private not-for-profit,2007,B,B,1105,247,453,22.4,41
+Tennessee,TN,Private not-for-profit,2007,B,H,177,90,100,50.8,56.5
+Tennessee,TN,Private not-for-profit,2007,B,W,7207,3529,4509,49,62.6
+Tennessee,TN,Private not-for-profit,2007,B,X,9145,4179,5462,45.7,59.7
+Tennessee,TN,Private not-for-profit,2007,F,A,118,77,90,65.3,76.3
+Tennessee,TN,Private not-for-profit,2007,F,Ai,14,4,5,28.6,35.7
+Tennessee,TN,Private not-for-profit,2007,F,B,577,166,271,28.8,47
+Tennessee,TN,Private not-for-profit,2007,F,H,101,51,57,50.5,56.4
+Tennessee,TN,Private not-for-profit,2007,F,W,4112,2111,2674,51.3,65
+Tennessee,TN,Private not-for-profit,2007,F,X,5113,2490,3201,48.7,62.6
+Tennessee,TN,Private not-for-profit,2007,M,A,86,47,59,54.7,68.6
+Tennessee,TN,Private not-for-profit,2007,M,Ai,15,5,6,33.3,40
+Tennessee,TN,Private not-for-profit,2007,M,B,528,81,182,15.3,34.5
+Tennessee,TN,Private not-for-profit,2007,M,H,76,39,43,51.3,56.6
+Tennessee,TN,Private not-for-profit,2007,M,W,3095,1418,1835,45.8,59.3
+Tennessee,TN,Private not-for-profit,2007,M,X,4032,1689,2261,41.9,56.1
+Tennessee,TN,Private not-for-profit,2008,B,A,209,129,151,61.7,72.2
+Tennessee,TN,Private not-for-profit,2008,B,Ai,40,14,20,35,50
+Tennessee,TN,Private not-for-profit,2008,B,B,1161,314,501,27,43.2
+Tennessee,TN,Private not-for-profit,2008,B,H,209,84,113,40.2,54.1
+Tennessee,TN,Private not-for-profit,2008,B,W,7167,3534,4462,49.3,62.3
+Tennessee,TN,Private not-for-profit,2008,B,X,9263,4291,5522,46.3,59.6
+Tennessee,TN,Private not-for-profit,2008,F,A,96,60,70,62.5,72.9
+Tennessee,TN,Private not-for-profit,2008,F,Ai,23,11,14,47.8,60.9
+Tennessee,TN,Private not-for-profit,2008,F,B,615,205,300,33.3,48.8
+Tennessee,TN,Private not-for-profit,2008,F,H,116,47,57,40.5,49.1
+Tennessee,TN,Private not-for-profit,2008,F,W,4105,2174,2644,53,64.4
+Tennessee,TN,Private not-for-profit,2008,F,X,5170,2601,3214,50.3,62.2
+Tennessee,TN,Private not-for-profit,2008,M,A,113,69,81,61.1,71.7
+Tennessee,TN,Private not-for-profit,2008,M,Ai,17,3,6,17.6,35.3
+Tennessee,TN,Private not-for-profit,2008,M,B,546,109,201,20,36.8
+Tennessee,TN,Private not-for-profit,2008,M,H,93,37,56,39.8,60.2
+Tennessee,TN,Private not-for-profit,2008,M,W,3062,1360,1818,44.4,59.4
+Tennessee,TN,Private not-for-profit,2008,M,X,4093,1690,2308,41.3,56.4
+Tennessee,TN,Private not-for-profit,2009,B,A,202,118,153,58.4,75.7
+Tennessee,TN,Private not-for-profit,2009,B,Ai,24,9,14,37.5,58.3
+Tennessee,TN,Private not-for-profit,2009,B,B,1216,293,470,24.1,38.7
+Tennessee,TN,Private not-for-profit,2009,B,H,230,98,140,42.6,60.9
+Tennessee,TN,Private not-for-profit,2009,B,W,7112,3405,4366,47.9,61.4
+Tennessee,TN,Private not-for-profit,2009,B,X,9269,4136,5415,44.6,58.4
+Tennessee,TN,Private not-for-profit,2009,F,A,114,69,91,60.5,79.8
+Tennessee,TN,Private not-for-profit,2009,F,Ai,15,8,11,53.3,73.3
+Tennessee,TN,Private not-for-profit,2009,F,B,691,211,310,30.5,44.9
+Tennessee,TN,Private not-for-profit,2009,F,H,121,52,65,43,53.7
+Tennessee,TN,Private not-for-profit,2009,F,W,4106,2090,2584,50.9,62.9
+Tennessee,TN,Private not-for-profit,2009,F,X,5300,2552,3211,48.2,60.6
+Tennessee,TN,Private not-for-profit,2009,M,A,88,49,62,55.7,70.5
+Tennessee,TN,Private not-for-profit,2009,M,Ai,9,1,3,11.1,33.3
+Tennessee,TN,Private not-for-profit,2009,M,B,525,82,160,15.6,30.5
+Tennessee,TN,Private not-for-profit,2009,M,H,109,46,75,42.2,68.8
+Tennessee,TN,Private not-for-profit,2009,M,W,3006,1315,1782,43.7,59.3
+Tennessee,TN,Private not-for-profit,2009,M,X,3969,1584,2204,39.9,55.5
+Tennessee,TN,Private not-for-profit,2010,B,A,226,137,161,60.6,71.2
+Tennessee,TN,Private not-for-profit,2010,B,Ai,26,9,13,34.6,50
+Tennessee,TN,Private not-for-profit,2010,B,B,1334,373,528,28,39.6
+Tennessee,TN,Private not-for-profit,2010,B,H,245,105,152,42.9,62
+Tennessee,TN,Private not-for-profit,2010,B,W,7579,3757,4652,49.6,61.4
+Tennessee,TN,Private not-for-profit,2010,B,X,10058,4674,5859,46.5,58.3
+Tennessee,TN,Private not-for-profit,2010,F,A,116,73,85,62.9,73.3
+Tennessee,TN,Private not-for-profit,2010,F,Ai,15,5,8,33.3,53.3
+Tennessee,TN,Private not-for-profit,2010,F,B,629,240,293,38.2,46.6
+Tennessee,TN,Private not-for-profit,2010,F,H,126,58,81,46,64.3
+Tennessee,TN,Private not-for-profit,2010,F,W,4250,2206,2693,51.9,63.4
+Tennessee,TN,Private not-for-profit,2010,F,X,5450,2735,3341,50.2,61.3
+Tennessee,TN,Private not-for-profit,2010,M,A,110,64,76,58.2,69.1
+Tennessee,TN,Private not-for-profit,2010,M,Ai,11,4,5,36.4,45.5
+Tennessee,TN,Private not-for-profit,2010,M,B,705,133,235,18.9,33.3
+Tennessee,TN,Private not-for-profit,2010,M,H,119,47,71,39.5,59.7
+Tennessee,TN,Private not-for-profit,2010,M,W,3329,1551,1959,46.6,58.8
+Tennessee,TN,Private not-for-profit,2010,M,X,4608,1939,2518,42.1,54.6
+Tennessee,TN,Public,2002,B,A,228,68,121,29.8,53.1
+Tennessee,TN,Public,2002,B,Ai,56,3,12,5.4,21.4
+Tennessee,TN,Public,2002,B,B,2431,470,992,19.3,40.8
+Tennessee,TN,Public,2002,B,H,116,27,42,23.3,36.2
+Tennessee,TN,Public,2002,B,W,10755,2339,4845,21.7,45
+Tennessee,TN,Public,2002,B,X,13713,2925,6063,21.3,44.2
+Tennessee,TN,Public,2002,F,A,128,54,76,42.2,59.4
+Tennessee,TN,Public,2002,F,Ai,26,3,6,11.5,23.1
+Tennessee,TN,Public,2002,F,B,1523,366,709,24,46.6
+Tennessee,TN,Public,2002,F,H,59,18,28,30.5,47.5
+Tennessee,TN,Public,2002,F,W,5755,1578,2810,27.4,48.8
+Tennessee,TN,Public,2002,F,X,7544,2033,3654,26.9,48.4
+Tennessee,TN,Public,2002,M,A,100,14,45,14,45
+Tennessee,TN,Public,2002,M,Ai,30,0,6,0,20
+Tennessee,TN,Public,2002,M,B,908,104,283,11.5,31.2
+Tennessee,TN,Public,2002,M,H,57,9,14,15.8,24.6
+Tennessee,TN,Public,2002,M,W,5000,761,2035,15.2,40.7
+Tennessee,TN,Public,2002,M,X,6169,892,2409,14.5,39.1
+Tennessee,TN,Public,2003,B,A,267,59,126,22.1,47.2
+Tennessee,TN,Public,2003,B,Ai,53,8,19,15.1,35.8
+Tennessee,TN,Public,2003,B,B,2747,461,1111,16.8,40.4
+Tennessee,TN,Public,2003,B,H,145,20,56,13.8,38.6
+Tennessee,TN,Public,2003,B,W,11217,1755,5055,15.6,45.1
+Tennessee,TN,Public,2003,B,X,14571,2330,6414,16,44
+Tennessee,TN,Public,2003,F,A,125,32,64,25.6,51.2
+Tennessee,TN,Public,2003,F,Ai,26,3,11,11.5,42.3
+Tennessee,TN,Public,2003,F,B,1743,364,792,20.9,45.4
+Tennessee,TN,Public,2003,F,H,73,13,32,17.8,43.8
+Tennessee,TN,Public,2003,F,W,6027,1164,2909,19.3,48.3
+Tennessee,TN,Public,2003,F,X,8056,1590,3829,19.7,47.5
+Tennessee,TN,Public,2003,M,A,142,27,62,19,43.7
+Tennessee,TN,Public,2003,M,Ai,27,5,8,18.5,29.6
+Tennessee,TN,Public,2003,M,B,1004,97,319,9.7,31.8
+Tennessee,TN,Public,2003,M,H,72,7,24,9.7,33.3
+Tennessee,TN,Public,2003,M,W,5190,591,2146,11.4,41.3
+Tennessee,TN,Public,2003,M,X,6515,740,2585,11.4,39.7
+Tennessee,TN,Public,2004,B,A,239,61,120,25.5,50.2
+Tennessee,TN,Public,2004,B,Ai,56,8,17,14.3,30.4
+Tennessee,TN,Public,2004,B,B,3013,275,1186,9.1,39.4
+Tennessee,TN,Public,2004,B,H,143,24,57,16.8,39.9
+Tennessee,TN,Public,2004,B,W,11220,2245,4912,20,43.8
+Tennessee,TN,Public,2004,B,X,14814,2635,6332,17.8,42.7
+Tennessee,TN,Public,2004,F,A,136,36,70,26.5,51.5
+Tennessee,TN,Public,2004,F,Ai,28,2,9,7.1,32.1
+Tennessee,TN,Public,2004,F,B,1929,212,835,11,43.3
+Tennessee,TN,Public,2004,F,H,79,19,39,24.1,49.4
+Tennessee,TN,Public,2004,F,W,6042,1544,2873,25.6,47.6
+Tennessee,TN,Public,2004,F,X,8279,1826,3847,22.1,46.5
+Tennessee,TN,Public,2004,M,A,103,25,50,24.3,48.5
+Tennessee,TN,Public,2004,M,Ai,28,6,8,21.4,28.6
+Tennessee,TN,Public,2004,M,B,1084,63,351,5.8,32.4
+Tennessee,TN,Public,2004,M,H,64,5,18,7.8,28.1
+Tennessee,TN,Public,2004,M,W,5178,701,2039,13.5,39.4
+Tennessee,TN,Public,2004,M,X,6535,809,2485,12.4,38
+Tennessee,TN,Public,2005,B,A,328,80,170,24.4,51.8
+Tennessee,TN,Public,2005,B,Ai,50,6,13,12,26
+Tennessee,TN,Public,2005,B,B,3113,650,1245,20.9,40
+Tennessee,TN,Public,2005,B,H,165,31,71,18.8,43
+Tennessee,TN,Public,2005,B,W,11361,2444,5213,21.5,45.9
+Tennessee,TN,Public,2005,B,X,15186,3237,6766,21.3,44.6
+Tennessee,TN,Public,2005,F,A,177,50,93,28.2,52.5
+Tennessee,TN,Public,2005,F,Ai,26,4,5,15.4,19.2
+Tennessee,TN,Public,2005,F,B,1889,475,858,25.1,45.4
+Tennessee,TN,Public,2005,F,H,96,24,48,25,50
+Tennessee,TN,Public,2005,F,W,6015,1595,3005,26.5,50
+Tennessee,TN,Public,2005,F,X,8294,2163,4040,26.1,48.7
+Tennessee,TN,Public,2005,M,A,151,30,77,19.9,51
+Tennessee,TN,Public,2005,M,Ai,24,2,8,8.3,33.3
+Tennessee,TN,Public,2005,M,B,1224,175,387,14.3,31.6
+Tennessee,TN,Public,2005,M,H,69,7,23,10.1,33.3
+Tennessee,TN,Public,2005,M,W,5346,849,2208,15.9,41.3
+Tennessee,TN,Public,2005,M,X,6892,1074,2726,15.6,39.6
+Tennessee,TN,Public,2006,B,A,281,85,147,30.2,52.3
+Tennessee,TN,Public,2006,B,Ai,52,7,15,13.5,28.8
+Tennessee,TN,Public,2006,B,B,2941,562,1160,19.1,39.4
+Tennessee,TN,Public,2006,B,H,151,33,72,21.9,47.7
+Tennessee,TN,Public,2006,B,W,11587,2766,5451,23.9,47
+Tennessee,TN,Public,2006,B,X,15195,3481,6911,22.9,45.5
+Tennessee,TN,Public,2006,F,A,159,52,86,32.7,54.1
+Tennessee,TN,Public,2006,F,Ai,26,6,11,23.1,42.3
+Tennessee,TN,Public,2006,F,B,1804,424,787,23.5,43.6
+Tennessee,TN,Public,2006,F,H,87,27,46,31,52.9
+Tennessee,TN,Public,2006,F,W,6191,1805,3132,29.2,50.6
+Tennessee,TN,Public,2006,F,X,8356,2331,4096,27.9,49
+Tennessee,TN,Public,2006,M,A,122,33,61,27,50
+Tennessee,TN,Public,2006,M,Ai,26,1,4,3.8,15.4
+Tennessee,TN,Public,2006,M,B,1137,138,373,12.1,32.8
+Tennessee,TN,Public,2006,M,H,64,6,26,9.4,40.6
+Tennessee,TN,Public,2006,M,W,5396,961,2319,17.8,43
+Tennessee,TN,Public,2006,M,X,6839,1150,2815,16.8,41.2
+Tennessee,TN,Public,2007,B,A,327,76,146,23.2,44.6
+Tennessee,TN,Public,2007,B,Ai,52,4,16,7.7,30.8
+Tennessee,TN,Public,2007,B,B,3065,531,1118,17.3,36.5
+Tennessee,TN,Public,2007,B,H,179,34,73,19,40.8
+Tennessee,TN,Public,2007,B,W,11762,2855,5481,24.3,46.6
+Tennessee,TN,Public,2007,B,X,15615,3526,6898,22.6,44.2
+Tennessee,TN,Public,2007,F,A,148,43,77,29.1,52
+Tennessee,TN,Public,2007,F,Ai,23,2,9,8.7,39.1
+Tennessee,TN,Public,2007,F,B,1950,409,807,21,41.4
+Tennessee,TN,Public,2007,F,H,82,17,36,20.7,43.9
+Tennessee,TN,Public,2007,F,W,6182,1797,3097,29.1,50.1
+Tennessee,TN,Public,2007,F,X,8496,2283,4063,26.9,47.8
+Tennessee,TN,Public,2007,M,A,179,33,69,18.4,38.5
+Tennessee,TN,Public,2007,M,Ai,29,2,7,6.9,24.1
+Tennessee,TN,Public,2007,M,B,1115,122,311,10.9,27.9
+Tennessee,TN,Public,2007,M,H,97,17,37,17.5,38.1
+Tennessee,TN,Public,2007,M,W,5580,1058,2384,19,42.7
+Tennessee,TN,Public,2007,M,X,7119,1243,2835,17.5,39.8
+Tennessee,TN,Public,2008,B,A,341,53,158,15.5,46.3
+Tennessee,TN,Public,2008,B,Ai,54,5,12,9.3,22.2
+Tennessee,TN,Public,2008,B,B,3180,409,1208,12.9,38
+Tennessee,TN,Public,2008,B,H,221,38,81,17.2,36.7
+Tennessee,TN,Public,2008,B,W,11711,2449,5656,20.9,48.3
+Tennessee,TN,Public,2008,B,X,15767,3011,7224,19.1,45.8
+Tennessee,TN,Public,2008,F,A,175,40,84,22.9,48
+Tennessee,TN,Public,2008,F,Ai,32,2,7,6.3,21.9
+Tennessee,TN,Public,2008,F,B,1942,318,832,16.4,42.8
+Tennessee,TN,Public,2008,F,H,123,21,42,17.1,34.1
+Tennessee,TN,Public,2008,F,W,6243,1616,3227,25.9,51.7
+Tennessee,TN,Public,2008,F,X,8662,2031,4252,23.4,49.1
+Tennessee,TN,Public,2008,M,A,166,13,74,7.8,44.6
+Tennessee,TN,Public,2008,M,Ai,22,3,5,13.6,22.7
+Tennessee,TN,Public,2008,M,B,1238,91,376,7.4,30.4
+Tennessee,TN,Public,2008,M,H,98,17,39,17.3,39.8
+Tennessee,TN,Public,2008,M,W,5468,833,2429,15.2,44.4
+Tennessee,TN,Public,2008,M,X,7105,980,2972,13.8,41.8
+Tennessee,TN,Public,2009,B,A,324,72,165,22.2,50.9
+Tennessee,TN,Public,2009,B,Ai,65,11,19,16.9,29.2
+Tennessee,TN,Public,2009,B,B,3275,409,1239,12.5,37.8
+Tennessee,TN,Public,2009,B,H,202,28,93,13.9,46
+Tennessee,TN,Public,2009,B,W,11641,2679,5762,23,49.5
+Tennessee,TN,Public,2009,B,X,15772,3238,7375,20.5,46.8
+Tennessee,TN,Public,2009,F,A,164,45,85,27.4,51.8
+Tennessee,TN,Public,2009,F,Ai,41,8,12,19.5,29.3
+Tennessee,TN,Public,2009,F,B,2068,304,822,14.7,39.7
+Tennessee,TN,Public,2009,F,H,117,18,58,15.4,49.6
+Tennessee,TN,Public,2009,F,W,6141,1713,3194,27.9,52
+Tennessee,TN,Public,2009,F,X,8664,2110,4227,24.4,48.8
+Tennessee,TN,Public,2009,M,A,160,27,80,16.9,50
+Tennessee,TN,Public,2009,M,Ai,24,3,7,12.5,29.2
+Tennessee,TN,Public,2009,M,B,1207,105,417,8.7,34.5
+Tennessee,TN,Public,2009,M,H,85,10,35,11.8,41.2
+Tennessee,TN,Public,2009,M,W,5500,966,2568,17.6,46.7
+Tennessee,TN,Public,2009,M,X,7108,1128,3148,15.9,44.3
+Tennessee,TN,Public,2010,B,A,348,75,167,21.6,48
+Tennessee,TN,Public,2010,B,Ai,53,6,15,11.3,28.3
+Tennessee,TN,Public,2010,B,B,3547,351,1185,9.9,33.4
+Tennessee,TN,Public,2010,B,H,255,45,98,17.6,38.4
+Tennessee,TN,Public,2010,B,W,12868,2899,6349,22.5,49.3
+Tennessee,TN,Public,2010,B,X,17500,3442,7959,19.7,45.5
+Tennessee,TN,Public,2010,F,A,178,40,83,22.5,46.6
+Tennessee,TN,Public,2010,F,Ai,27,3,7,11.1,25.9
+Tennessee,TN,Public,2010,F,B,2272,259,820,11.4,36.1
+Tennessee,TN,Public,2010,F,H,149,36,61,24.2,40.9
+Tennessee,TN,Public,2010,F,W,6755,1860,3542,27.5,52.4
+Tennessee,TN,Public,2010,F,X,9578,2236,4585,23.3,47.9
+Tennessee,TN,Public,2010,M,A,170,35,84,20.6,49.4
+Tennessee,TN,Public,2010,M,Ai,26,3,8,11.5,30.8
+Tennessee,TN,Public,2010,M,B,1275,92,365,7.2,28.6
+Tennessee,TN,Public,2010,M,H,106,9,37,8.5,34.9
+Tennessee,TN,Public,2010,M,W,6113,1039,2807,17,45.9
+Tennessee,TN,Public,2010,M,X,7922,1206,3374,15.2,42.6
+Tennessee,TN,Private not-for-profit,2002,B,A,146,24,112,16.4,76.7
+Tennessee,TN,Private not-for-profit,2002,B,A,11,,6,,54.5
+Tennessee,TN,Private not-for-profit,2002,B,Ai,25,5,13,20,52
+Tennessee,TN,Private not-for-profit,2002,B,Ai,3,,0,,0
+Tennessee,TN,Private not-for-profit,2002,B,B,1064,211,385,19.8,36.2
+Tennessee,TN,Private not-for-profit,2002,B,B,57,,8,,14
+Tennessee,TN,Private not-for-profit,2002,B,H,116,18,76,15.5,65.5
+Tennessee,TN,Private not-for-profit,2002,B,H,31,,19,,61.3
+Tennessee,TN,Private not-for-profit,2002,B,W,6337,2056,3748,32.4,59.1
+Tennessee,TN,Private not-for-profit,2002,B,W,898,,459,,51.1
+Tennessee,TN,Private not-for-profit,2002,B,X,8061,2374,4560,29.5,56.6
+Tennessee,TN,Private not-for-profit,2002,B,X,1033,,500,,48.4
+Tennessee,TN,Private not-for-profit,2002,F,A,63,11,45,17.5,71.4
+Tennessee,TN,Private not-for-profit,2002,F,A,8,,5,,62.5
+Tennessee,TN,Private not-for-profit,2002,F,Ai,11,2,6,18.2,54.5
+Tennessee,TN,Private not-for-profit,2002,F,Ai,0,,0,,
+Tennessee,TN,Private not-for-profit,2002,F,B,602,148,241,24.6,40
+Tennessee,TN,Private not-for-profit,2002,F,B,32,,3,,9.4
+Tennessee,TN,Private not-for-profit,2002,F,H,56,12,41,21.4,73.2
+Tennessee,TN,Private not-for-profit,2002,F,H,22,,17,,77.3
+Tennessee,TN,Private not-for-profit,2002,F,W,3557,1285,2148,36.1,60.4
+Tennessee,TN,Private not-for-profit,2002,F,W,535,,232,,43.4
+Tennessee,TN,Private not-for-profit,2002,F,X,4457,1491,2595,33.5,58.2
+Tennessee,TN,Private not-for-profit,2002,F,X,616,,261,,42.4
+Tennessee,TN,Private not-for-profit,2002,M,A,83,13,67,15.7,80.7
+Tennessee,TN,Private not-for-profit,2002,M,A,3,,1,,33.3
+Tennessee,TN,Private not-for-profit,2002,M,Ai,14,3,7,21.4,50
+Tennessee,TN,Private not-for-profit,2002,M,Ai,3,,0,,0
+Tennessee,TN,Private not-for-profit,2002,M,B,462,63,144,13.6,31.2
+Tennessee,TN,Private not-for-profit,2002,M,B,25,,5,,20
+Tennessee,TN,Private not-for-profit,2002,M,H,60,6,35,10,58.3
+Tennessee,TN,Private not-for-profit,2002,M,H,9,,2,,22.2
+Tennessee,TN,Private not-for-profit,2002,M,W,2780,771,1600,27.7,57.6
+Tennessee,TN,Private not-for-profit,2002,M,W,363,,227,,62.5
+Tennessee,TN,Private not-for-profit,2002,M,X,3604,883,1965,24.5,54.5
+Tennessee,TN,Private not-for-profit,2002,M,X,417,,239,,57.3
+Tennessee,TN,Private not-for-profit,2003,B,A,134,67,83,50,61.9
+Tennessee,TN,Private not-for-profit,2003,B,A,6,,2,,33.3
+Tennessee,TN,Private not-for-profit,2003,B,Ai,13,5,6,38.5,46.2
+Tennessee,TN,Private not-for-profit,2003,B,Ai,0,,0,,
+Tennessee,TN,Private not-for-profit,2003,B,B,833,214,374,25.7,44.9
+Tennessee,TN,Private not-for-profit,2003,B,B,32,,13,,40.6
+Tennessee,TN,Private not-for-profit,2003,B,H,121,53,75,43.8,62
+Tennessee,TN,Private not-for-profit,2003,B,H,10,,2,,20
+Tennessee,TN,Private not-for-profit,2003,B,W,6834,3082,4010,45.1,58.7
+Tennessee,TN,Private not-for-profit,2003,B,W,228,,67,,29.4
+Tennessee,TN,Private not-for-profit,2003,B,X,8330,3595,4768,43.2,57.2
+Tennessee,TN,Private not-for-profit,2003,B,X,281,,85,,30.2
+Tennessee,TN,Private not-for-profit,2003,F,A,69,34,45,49.3,65.2
+Tennessee,TN,Private not-for-profit,2003,F,A,4,,1,,25
+Tennessee,TN,Private not-for-profit,2003,F,Ai,8,3,4,37.5,50
+Tennessee,TN,Private not-for-profit,2003,F,Ai,0,,0,,
+Tennessee,TN,Private not-for-profit,2003,F,B,451,145,241,32.2,53.4
+Tennessee,TN,Private not-for-profit,2003,F,B,19,,7,,36.8
+Tennessee,TN,Private not-for-profit,2003,F,H,65,28,39,43.1,60
+Tennessee,TN,Private not-for-profit,2003,F,H,8,,1,,12.5
+Tennessee,TN,Private not-for-profit,2003,F,W,3850,1879,2350,48.8,61
+Tennessee,TN,Private not-for-profit,2003,F,W,126,,38,,30.2
+Tennessee,TN,Private not-for-profit,2003,F,X,4611,2174,2776,47.1,60.2
+Tennessee,TN,Private not-for-profit,2003,F,X,159,,47,,29.6
+Tennessee,TN,Private not-for-profit,2003,M,A,65,33,38,50.8,58.5
+Tennessee,TN,Private not-for-profit,2003,M,A,2,,1,,50
+Tennessee,TN,Private not-for-profit,2003,M,Ai,5,2,2,40,40
+Tennessee,TN,Private not-for-profit,2003,M,Ai,0,,0,,
+Tennessee,TN,Private not-for-profit,2003,M,B,382,69,133,18.1,34.8
+Tennessee,TN,Private not-for-profit,2003,M,B,13,,6,,46.2
+Tennessee,TN,Private not-for-profit,2003,M,H,56,25,36,44.6,64.3
+Tennessee,TN,Private not-for-profit,2003,M,H,2,,1,,50
+Tennessee,TN,Private not-for-profit,2003,M,W,2984,1203,1660,40.3,55.6
+Tennessee,TN,Private not-for-profit,2003,M,W,102,,29,,28.4
+Tennessee,TN,Private not-for-profit,2003,M,X,3719,1421,1992,38.2,53.6
+Tennessee,TN,Private not-for-profit,2003,M,X,122,,38,,31.1
+Tennessee,TN,Private not-for-profit,2004,B,A,167,102,122,61.1,73.1
+Tennessee,TN,Private not-for-profit,2004,B,A,3,,1,,33.3
+Tennessee,TN,Private not-for-profit,2004,B,Ai,28,10,15,35.7,53.6
+Tennessee,TN,Private not-for-profit,2004,B,Ai,2,,0,,0
+Tennessee,TN,Private not-for-profit,2004,B,B,998,278,407,27.9,40.8
+Tennessee,TN,Private not-for-profit,2004,B,B,25,,0,,0
+Tennessee,TN,Private not-for-profit,2004,B,H,174,72,97,41.4,55.7
+Tennessee,TN,Private not-for-profit,2004,B,H,5,,0,,0
+Tennessee,TN,Private not-for-profit,2004,B,W,7053,3256,4206,46.2,59.6
+Tennessee,TN,Private not-for-profit,2004,B,W,185,,72,,38.9
+Tennessee,TN,Private not-for-profit,2004,B,X,8849,3905,5079,44.1,57.4
+Tennessee,TN,Private not-for-profit,2004,B,X,237,,79,,33.3
+Tennessee,TN,Private not-for-profit,2004,F,A,89,58,67,65.2,75.3
+Tennessee,TN,Private not-for-profit,2004,F,A,2,,1,,50
+Tennessee,TN,Private not-for-profit,2004,F,Ai,9,3,4,33.3,44.4
+Tennessee,TN,Private not-for-profit,2004,F,Ai,1,,0,,0
+Tennessee,TN,Private not-for-profit,2004,F,B,524,190,254,36.3,48.5
+Tennessee,TN,Private not-for-profit,2004,F,B,11,,0,,0
+Tennessee,TN,Private not-for-profit,2004,F,H,103,44,56,42.7,54.4
+Tennessee,TN,Private not-for-profit,2004,F,H,2,,0,,0
+Tennessee,TN,Private not-for-profit,2004,F,W,3953,1964,2433,49.7,61.5
+Tennessee,TN,Private not-for-profit,2004,F,W,106,,46,,43.4
+Tennessee,TN,Private not-for-profit,2004,F,X,4880,2355,2921,48.3,59.9
+Tennessee,TN,Private not-for-profit,2004,F,X,128,,50,,39.1
+Tennessee,TN,Private not-for-profit,2004,M,A,78,44,55,56.4,70.5
+Tennessee,TN,Private not-for-profit,2004,M,A,1,,0,,0
+Tennessee,TN,Private not-for-profit,2004,M,Ai,19,7,11,36.8,57.9
+Tennessee,TN,Private not-for-profit,2004,M,Ai,1,,0,,0
+Tennessee,TN,Private not-for-profit,2004,M,B,474,88,153,18.6,32.3
+Tennessee,TN,Private not-for-profit,2004,M,B,14,,0,,0
+Tennessee,TN,Private not-for-profit,2004,M,H,71,28,41,39.4,57.7
+Tennessee,TN,Private not-for-profit,2004,M,H,3,,0,,0
+Tennessee,TN,Private not-for-profit,2004,M,W,3100,1292,1773,41.7,57.2
+Tennessee,TN,Private not-for-profit,2004,M,W,79,,26,,32.9
+Tennessee,TN,Private not-for-profit,2004,M,X,3969,1550,2158,39.1,54.4
+Tennessee,TN,Private not-for-profit,2004,M,X,109,,29,,26.6
+Tennessee,TN,Private not-for-profit,2005,B,A,186,130,146,69.9,78.5
+Tennessee,TN,Private not-for-profit,2005,B,A,2,,1,,50
+Tennessee,TN,Private not-for-profit,2005,B,Ai,29,8,12,27.6,41.4
+Tennessee,TN,Private not-for-profit,2005,B,Ai,3,,1,,33.3
+Tennessee,TN,Private not-for-profit,2005,B,B,1186,292,447,24.6,37.7
+Tennessee,TN,Private not-for-profit,2005,B,B,50,,12,,24
+Tennessee,TN,Private not-for-profit,2005,B,H,168,79,100,47,59.5
+Tennessee,TN,Private not-for-profit,2005,B,H,5,,1,,20
+Tennessee,TN,Private not-for-profit,2005,B,W,7307,3579,4465,49,61.1
+Tennessee,TN,Private not-for-profit,2005,B,W,201,,51,,25.4
+Tennessee,TN,Private not-for-profit,2005,B,X,9294,4277,5404,46,58.1
+Tennessee,TN,Private not-for-profit,2005,B,X,279,,72,,25.8
+Tennessee,TN,Private not-for-profit,2005,F,A,93,71,74,76.3,79.6
+Tennessee,TN,Private not-for-profit,2005,F,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2005,F,Ai,20,8,12,40,60
+Tennessee,TN,Private not-for-profit,2005,F,Ai,1,,0,,0
+Tennessee,TN,Private not-for-profit,2005,F,B,695,193,281,27.8,40.4
+Tennessee,TN,Private not-for-profit,2005,F,B,21,,7,,33.3
+Tennessee,TN,Private not-for-profit,2005,F,H,91,41,54,45.1,59.3
+Tennessee,TN,Private not-for-profit,2005,F,H,2,,0,,0
+Tennessee,TN,Private not-for-profit,2005,F,W,4181,2181,2634,52.2,63
+Tennessee,TN,Private not-for-profit,2005,F,W,120,,30,,25
+Tennessee,TN,Private not-for-profit,2005,F,X,5289,2592,3169,49,59.9
+Tennessee,TN,Private not-for-profit,2005,F,X,148,,39,,26.4
+Tennessee,TN,Private not-for-profit,2005,M,A,93,59,72,63.4,77.4
+Tennessee,TN,Private not-for-profit,2005,M,A,2,,1,,50
+Tennessee,TN,Private not-for-profit,2005,M,Ai,9,0,0,0,0
+Tennessee,TN,Private not-for-profit,2005,M,Ai,2,,1,,50
+Tennessee,TN,Private not-for-profit,2005,M,B,491,99,166,20.2,33.8
+Tennessee,TN,Private not-for-profit,2005,M,B,29,,5,,17.2
+Tennessee,TN,Private not-for-profit,2005,M,H,77,38,46,49.4,59.7
+Tennessee,TN,Private not-for-profit,2005,M,H,3,,1,,33.3
+Tennessee,TN,Private not-for-profit,2005,M,W,3126,1398,1831,44.7,58.6
+Tennessee,TN,Private not-for-profit,2005,M,W,81,,21,,25.9
+Tennessee,TN,Private not-for-profit,2005,M,X,4005,1685,2235,42.1,55.8
+Tennessee,TN,Private not-for-profit,2005,M,X,131,,33,,25.2
+Tennessee,TN,Private not-for-profit,2006,B,A,184,112,133,60.9,72.3
+Tennessee,TN,Private not-for-profit,2006,B,A,1,,0,,0
+Tennessee,TN,Private not-for-profit,2006,B,Ai,51,10,20,19.6,39.2
+Tennessee,TN,Private not-for-profit,2006,B,Ai,0,,0,,
+Tennessee,TN,Private not-for-profit,2006,B,B,1141,201,487,17.6,42.7
+Tennessee,TN,Private not-for-profit,2006,B,B,35,,3,,8.6
+Tennessee,TN,Private not-for-profit,2006,B,H,193,81,107,42,55.4
+Tennessee,TN,Private not-for-profit,2006,B,H,8,,2,,25
+Tennessee,TN,Private not-for-profit,2006,B,W,7458,3591,4491,48.1,60.2
+Tennessee,TN,Private not-for-profit,2006,B,W,235,,75,,31.9
+Tennessee,TN,Private not-for-profit,2006,B,X,9516,4219,5518,44.3,58
+Tennessee,TN,Private not-for-profit,2006,B,X,300,,88,,29.3
+Tennessee,TN,Private not-for-profit,2006,F,A,86,54,64,62.8,74.4
+Tennessee,TN,Private not-for-profit,2006,F,A,1,,0,,0
+Tennessee,TN,Private not-for-profit,2006,F,Ai,25,7,12,28,48
+Tennessee,TN,Private not-for-profit,2006,F,Ai,0,,0,,
+Tennessee,TN,Private not-for-profit,2006,F,B,650,135,318,20.8,48.9
+Tennessee,TN,Private not-for-profit,2006,F,B,22,,2,,9.1
+Tennessee,TN,Private not-for-profit,2006,F,H,103,50,65,48.5,63.1
+Tennessee,TN,Private not-for-profit,2006,F,H,5,,2,,40
+Tennessee,TN,Private not-for-profit,2006,F,W,4242,2175,2598,51.3,61.2
+Tennessee,TN,Private not-for-profit,2006,F,W,157,,54,,34.4
+Tennessee,TN,Private not-for-profit,2006,F,X,5336,2531,3191,47.4,59.8
+Tennessee,TN,Private not-for-profit,2006,F,X,196,,62,,31.6
+Tennessee,TN,Private not-for-profit,2006,M,A,98,58,69,59.2,70.4
+Tennessee,TN,Private not-for-profit,2006,M,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2006,M,Ai,26,3,8,11.5,30.8
+Tennessee,TN,Private not-for-profit,2006,M,Ai,0,,0,,
+Tennessee,TN,Private not-for-profit,2006,M,B,491,66,169,13.4,34.4
+Tennessee,TN,Private not-for-profit,2006,M,B,13,,1,,7.7
+Tennessee,TN,Private not-for-profit,2006,M,H,90,31,42,34.4,46.7
+Tennessee,TN,Private not-for-profit,2006,M,H,3,,0,,0
+Tennessee,TN,Private not-for-profit,2006,M,W,3216,1416,1893,44,58.9
+Tennessee,TN,Private not-for-profit,2006,M,W,78,,21,,26.9
+Tennessee,TN,Private not-for-profit,2006,M,X,4180,1688,2327,40.4,55.7
+Tennessee,TN,Private not-for-profit,2006,M,X,104,,26,,25
+Tennessee,TN,Private not-for-profit,2007,B,A,204,124,149,60.8,73
+Tennessee,TN,Private not-for-profit,2007,B,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2007,B,Ai,29,9,11,31,37.9
+Tennessee,TN,Private not-for-profit,2007,B,Ai,4,,0,,0
+Tennessee,TN,Private not-for-profit,2007,B,B,1105,247,453,22.4,41
+Tennessee,TN,Private not-for-profit,2007,B,B,21,,1,,4.8
+Tennessee,TN,Private not-for-profit,2007,B,H,177,90,100,50.8,56.5
+Tennessee,TN,Private not-for-profit,2007,B,H,2,,0,,0
+Tennessee,TN,Private not-for-profit,2007,B,W,7207,3529,4509,49,62.6
+Tennessee,TN,Private not-for-profit,2007,B,W,137,,38,,27.7
+Tennessee,TN,Private not-for-profit,2007,B,X,9145,4179,5462,45.7,59.7
+Tennessee,TN,Private not-for-profit,2007,B,X,190,,56,,29.5
+Tennessee,TN,Private not-for-profit,2007,F,A,118,77,90,65.3,76.3
+Tennessee,TN,Private not-for-profit,2007,F,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2007,F,Ai,14,4,5,28.6,35.7
+Tennessee,TN,Private not-for-profit,2007,F,Ai,3,,0,,0
+Tennessee,TN,Private not-for-profit,2007,F,B,577,166,271,28.8,47
+Tennessee,TN,Private not-for-profit,2007,F,B,8,,0,,0
+Tennessee,TN,Private not-for-profit,2007,F,H,101,51,57,50.5,56.4
+Tennessee,TN,Private not-for-profit,2007,F,H,0,,0,,
+Tennessee,TN,Private not-for-profit,2007,F,W,4112,2111,2674,51.3,65
+Tennessee,TN,Private not-for-profit,2007,F,W,70,,20,,28.6
+Tennessee,TN,Private not-for-profit,2007,F,X,5113,2490,3201,48.7,62.6
+Tennessee,TN,Private not-for-profit,2007,F,X,96,,29,,30.2
+Tennessee,TN,Private not-for-profit,2007,M,A,86,47,59,54.7,68.6
+Tennessee,TN,Private not-for-profit,2007,M,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2007,M,Ai,15,5,6,33.3,40
+Tennessee,TN,Private not-for-profit,2007,M,Ai,1,,0,,0
+Tennessee,TN,Private not-for-profit,2007,M,B,528,81,182,15.3,34.5
+Tennessee,TN,Private not-for-profit,2007,M,B,13,,1,,7.7
+Tennessee,TN,Private not-for-profit,2007,M,H,76,39,43,51.3,56.6
+Tennessee,TN,Private not-for-profit,2007,M,H,2,,0,,0
+Tennessee,TN,Private not-for-profit,2007,M,W,3095,1418,1835,45.8,59.3
+Tennessee,TN,Private not-for-profit,2007,M,W,67,,18,,26.9
+Tennessee,TN,Private not-for-profit,2007,M,X,4032,1689,2261,41.9,56.1
+Tennessee,TN,Private not-for-profit,2007,M,X,94,,27,,28.7
+Tennessee,TN,Private not-for-profit,2008,B,A,209,129,151,61.7,72.2
+Tennessee,TN,Private not-for-profit,2008,B,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2008,B,Ai,40,14,20,35,50
+Tennessee,TN,Private not-for-profit,2008,B,Ai,1,,0,,0
+Tennessee,TN,Private not-for-profit,2008,B,B,1161,314,501,27,43.2
+Tennessee,TN,Private not-for-profit,2008,B,B,34,,1,,2.9
+Tennessee,TN,Private not-for-profit,2008,B,H,209,84,113,40.2,54.1
+Tennessee,TN,Private not-for-profit,2008,B,H,1,,0,,0
+Tennessee,TN,Private not-for-profit,2008,B,W,7167,3534,4462,49.3,62.3
+Tennessee,TN,Private not-for-profit,2008,B,W,196,,59,,30.1
+Tennessee,TN,Private not-for-profit,2008,B,X,9263,4291,5522,46.3,59.6
+Tennessee,TN,Private not-for-profit,2008,B,X,248,,62,,25
+Tennessee,TN,Private not-for-profit,2008,F,A,96,60,70,62.5,72.9
+Tennessee,TN,Private not-for-profit,2008,F,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2008,F,Ai,23,11,14,47.8,60.9
+Tennessee,TN,Private not-for-profit,2008,F,Ai,0,,0,,
+Tennessee,TN,Private not-for-profit,2008,F,B,615,205,300,33.3,48.8
+Tennessee,TN,Private not-for-profit,2008,F,B,12,,0,,0
+Tennessee,TN,Private not-for-profit,2008,F,H,116,47,57,40.5,49.1
+Tennessee,TN,Private not-for-profit,2008,F,H,0,,0,,
+Tennessee,TN,Private not-for-profit,2008,F,W,4105,2174,2644,53,64.4
+Tennessee,TN,Private not-for-profit,2008,F,W,124,,35,,28.2
+Tennessee,TN,Private not-for-profit,2008,F,X,5170,2601,3214,50.3,62.2
+Tennessee,TN,Private not-for-profit,2008,F,X,142,,36,,25.4
+Tennessee,TN,Private not-for-profit,2008,M,A,113,69,81,61.1,71.7
+Tennessee,TN,Private not-for-profit,2008,M,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2008,M,Ai,17,3,6,17.6,35.3
+Tennessee,TN,Private not-for-profit,2008,M,Ai,1,,0,,0
+Tennessee,TN,Private not-for-profit,2008,M,B,546,109,201,20,36.8
+Tennessee,TN,Private not-for-profit,2008,M,B,22,,1,,4.5
+Tennessee,TN,Private not-for-profit,2008,M,H,93,37,56,39.8,60.2
+Tennessee,TN,Private not-for-profit,2008,M,H,1,,0,,0
+Tennessee,TN,Private not-for-profit,2008,M,W,3062,1360,1818,44.4,59.4
+Tennessee,TN,Private not-for-profit,2008,M,W,72,,24,,33.3
+Tennessee,TN,Private not-for-profit,2008,M,X,4093,1690,2308,41.3,56.4
+Tennessee,TN,Private not-for-profit,2008,M,X,106,,26,,24.5
+Tennessee,TN,Private not-for-profit,2009,B,A,202,118,153,58.4,75.7
+Tennessee,TN,Private not-for-profit,2009,B,Ai,24,9,14,37.5,58.3
+Tennessee,TN,Private not-for-profit,2009,B,B,1216,293,470,24.1,38.7
+Tennessee,TN,Private not-for-profit,2009,B,H,230,98,140,42.6,60.9
+Tennessee,TN,Private not-for-profit,2009,B,W,7112,3405,4366,47.9,61.4
+Tennessee,TN,Private not-for-profit,2009,B,X,9269,4136,5415,44.6,58.4
+Tennessee,TN,Private not-for-profit,2009,F,A,114,69,91,60.5,79.8
+Tennessee,TN,Private not-for-profit,2009,F,Ai,15,8,11,53.3,73.3
+Tennessee,TN,Private not-for-profit,2009,F,B,691,211,310,30.5,44.9
+Tennessee,TN,Private not-for-profit,2009,F,H,121,52,65,43,53.7
+Tennessee,TN,Private not-for-profit,2009,F,W,4106,2090,2584,50.9,62.9
+Tennessee,TN,Private not-for-profit,2009,F,X,5300,2552,3211,48.2,60.6
+Tennessee,TN,Private not-for-profit,2009,M,A,88,49,62,55.7,70.5
+Tennessee,TN,Private not-for-profit,2009,M,Ai,9,1,3,11.1,33.3
+Tennessee,TN,Private not-for-profit,2009,M,B,525,82,160,15.6,30.5
+Tennessee,TN,Private not-for-profit,2009,M,H,109,46,75,42.2,68.8
+Tennessee,TN,Private not-for-profit,2009,M,W,3006,1315,1782,43.7,59.3
+Tennessee,TN,Private not-for-profit,2009,M,X,3969,1584,2204,39.9,55.5
+Tennessee,TN,Private not-for-profit,2010,B,A,226,137,161,60.6,71.2
+Tennessee,TN,Private not-for-profit,2010,B,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2010,B,Ai,26,9,13,34.6,50
+Tennessee,TN,Private not-for-profit,2010,B,Ai,4,,2,,50
+Tennessee,TN,Private not-for-profit,2010,B,B,1334,373,528,28,39.6
+Tennessee,TN,Private not-for-profit,2010,B,B,18,,2,,11.1
+Tennessee,TN,Private not-for-profit,2010,B,H,245,105,152,42.9,62
+Tennessee,TN,Private not-for-profit,2010,B,H,2,,0,,0
+Tennessee,TN,Private not-for-profit,2010,B,W,7579,3757,4652,49.6,61.4
+Tennessee,TN,Private not-for-profit,2010,B,W,107,,41,,38.3
+Tennessee,TN,Private not-for-profit,2010,B,X,10058,4674,5859,46.5,58.3
+Tennessee,TN,Private not-for-profit,2010,B,X,150,,50,,33.3
+Tennessee,TN,Private not-for-profit,2010,F,A,116,73,85,62.9,73.3
+Tennessee,TN,Private not-for-profit,2010,F,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2010,F,Ai,15,5,8,33.3,53.3
+Tennessee,TN,Private not-for-profit,2010,F,Ai,3,,1,,33.3
+Tennessee,TN,Private not-for-profit,2010,F,B,629,240,293,38.2,46.6
+Tennessee,TN,Private not-for-profit,2010,F,B,3,,0,,0
+Tennessee,TN,Private not-for-profit,2010,F,H,126,58,81,46,64.3
+Tennessee,TN,Private not-for-profit,2010,F,H,0,,0,,
+Tennessee,TN,Private not-for-profit,2010,F,W,4250,2206,2693,51.9,63.4
+Tennessee,TN,Private not-for-profit,2010,F,W,55,,22,,40
+Tennessee,TN,Private not-for-profit,2010,F,X,5450,2735,3341,50.2,61.3
+Tennessee,TN,Private not-for-profit,2010,F,X,77,,28,,36.4
+Tennessee,TN,Private not-for-profit,2010,M,A,110,64,76,58.2,69.1
+Tennessee,TN,Private not-for-profit,2010,M,A,0,,0,,
+Tennessee,TN,Private not-for-profit,2010,M,Ai,11,4,5,36.4,45.5
+Tennessee,TN,Private not-for-profit,2010,M,Ai,1,,1,,100
+Tennessee,TN,Private not-for-profit,2010,M,B,705,133,235,18.9,33.3
+Tennessee,TN,Private not-for-profit,2010,M,B,15,,2,,13.3
+Tennessee,TN,Private not-for-profit,2010,M,H,119,47,71,39.5,59.7
+Tennessee,TN,Private not-for-profit,2010,M,H,2,,0,,0
+Tennessee,TN,Private not-for-profit,2010,M,W,3329,1551,1959,46.6,58.8
+Tennessee,TN,Private not-for-profit,2010,M,W,52,,19,,36.5
+Tennessee,TN,Private not-for-profit,2010,M,X,4608,1939,2518,42.1,54.6
+Tennessee,TN,Private not-for-profit,2010,M,X,73,,22,,30.1
+Tennessee,TN,Public,2002,B,A,228,68,121,29.8,53.1
+Tennessee,TN,Public,2002,B,A,1,,1,,100
+Tennessee,TN,Public,2002,B,Ai,56,3,12,5.4,21.4
+Tennessee,TN,Public,2002,B,Ai,0,,0,,
+Tennessee,TN,Public,2002,B,B,2431,470,992,19.3,40.8
+Tennessee,TN,Public,2002,B,B,20,,1,,5
+Tennessee,TN,Public,2002,B,H,116,27,42,23.3,36.2
+Tennessee,TN,Public,2002,B,H,1,,1,,100
+Tennessee,TN,Public,2002,B,W,10755,2339,4845,21.7,45
+Tennessee,TN,Public,2002,B,W,91,,21,,23.1
+Tennessee,TN,Public,2002,B,X,13713,2925,6063,21.3,44.2
+Tennessee,TN,Public,2002,B,X,122,,25,,20.5
+Tennessee,TN,Public,2002,F,A,128,54,76,42.2,59.4
+Tennessee,TN,Public,2002,F,A,1,,1,,100
+Tennessee,TN,Public,2002,F,Ai,26,3,6,11.5,23.1
+Tennessee,TN,Public,2002,F,Ai,0,,0,,
+Tennessee,TN,Public,2002,F,B,1523,366,709,24,46.6
+Tennessee,TN,Public,2002,F,B,14,,1,,7.1
+Tennessee,TN,Public,2002,F,H,59,18,28,30.5,47.5
+Tennessee,TN,Public,2002,F,H,1,,1,,100
+Tennessee,TN,Public,2002,F,W,5755,1578,2810,27.4,48.8
+Tennessee,TN,Public,2002,F,W,73,,18,,24.7
+Tennessee,TN,Public,2002,F,X,7544,2033,3654,26.9,48.4
+Tennessee,TN,Public,2002,F,X,92,,22,,23.9
+Tennessee,TN,Public,2002,M,A,100,14,45,14,45
+Tennessee,TN,Public,2002,M,A,0,,0,,
+Tennessee,TN,Public,2002,M,Ai,30,0,6,0,20
+Tennessee,TN,Public,2002,M,Ai,0,,0,,
+Tennessee,TN,Public,2002,M,B,908,104,283,11.5,31.2
+Tennessee,TN,Public,2002,M,B,6,,0,,0
+Tennessee,TN,Public,2002,M,H,57,9,14,15.8,24.6
+Tennessee,TN,Public,2002,M,H,0,,0,,
+Tennessee,TN,Public,2002,M,W,5000,761,2035,15.2,40.7
+Tennessee,TN,Public,2002,M,W,18,,3,,16.7
+Tennessee,TN,Public,2002,M,X,6169,892,2409,14.5,39.1
+Tennessee,TN,Public,2002,M,X,30,,3,,10
+Tennessee,TN,Public,2003,B,A,267,59,126,22.1,47.2
+Tennessee,TN,Public,2003,B,A,3,,1,,33.3
+Tennessee,TN,Public,2003,B,Ai,53,8,19,15.1,35.8
+Tennessee,TN,Public,2003,B,Ai,2,,0,,0
+Tennessee,TN,Public,2003,B,B,2747,461,1111,16.8,40.4
+Tennessee,TN,Public,2003,B,B,8,,0,,0
+Tennessee,TN,Public,2003,B,H,145,20,56,13.8,38.6
+Tennessee,TN,Public,2003,B,H,2,,0,,0
+Tennessee,TN,Public,2003,B,W,11217,1755,5055,15.6,45.1
+Tennessee,TN,Public,2003,B,W,60,,19,,31.7
+Tennessee,TN,Public,2003,B,X,14571,2330,6414,16,44
+Tennessee,TN,Public,2003,B,X,77,,20,,26
+Tennessee,TN,Public,2003,F,A,125,32,64,25.6,51.2
+Tennessee,TN,Public,2003,F,A,1,,0,,0
+Tennessee,TN,Public,2003,F,Ai,26,3,11,11.5,42.3
+Tennessee,TN,Public,2003,F,Ai,2,,0,,0
+Tennessee,TN,Public,2003,F,B,1743,364,792,20.9,45.4
+Tennessee,TN,Public,2003,F,B,3,,0,,0
+Tennessee,TN,Public,2003,F,H,73,13,32,17.8,43.8
+Tennessee,TN,Public,2003,F,H,1,,0,,0
+Tennessee,TN,Public,2003,F,W,6027,1164,2909,19.3,48.3
+Tennessee,TN,Public,2003,F,W,47,,16,,34
+Tennessee,TN,Public,2003,F,X,8056,1590,3829,19.7,47.5
+Tennessee,TN,Public,2003,F,X,55,,16,,29.1
+Tennessee,TN,Public,2003,M,A,142,27,62,19,43.7
+Tennessee,TN,Public,2003,M,A,2,,1,,50
+Tennessee,TN,Public,2003,M,Ai,27,5,8,18.5,29.6
+Tennessee,TN,Public,2003,M,Ai,0,,0,,
+Tennessee,TN,Public,2003,M,B,1004,97,319,9.7,31.8
+Tennessee,TN,Public,2003,M,B,5,,0,,0
+Tennessee,TN,Public,2003,M,H,72,7,24,9.7,33.3
+Tennessee,TN,Public,2003,M,H,1,,0,,0
+Tennessee,TN,Public,2003,M,W,5190,591,2146,11.4,41.3
+Tennessee,TN,Public,2003,M,W,13,,3,,23.1
+Tennessee,TN,Public,2003,M,X,6515,740,2585,11.4,39.7
+Tennessee,TN,Public,2003,M,X,22,,4,,18.2
+Tennessee,TN,Public,2004,B,A,239,61,120,25.5,50.2
+Tennessee,TN,Public,2004,B,A,2,,0,,0
+Tennessee,TN,Public,2004,B,Ai,56,8,17,14.3,30.4
+Tennessee,TN,Public,2004,B,Ai,0,,0,,
+Tennessee,TN,Public,2004,B,B,3013,275,1186,9.1,39.4
+Tennessee,TN,Public,2004,B,B,9,,3,,33.3
+Tennessee,TN,Public,2004,B,H,143,24,57,16.8,39.9
+Tennessee,TN,Public,2004,B,H,1,,1,,100
+Tennessee,TN,Public,2004,B,W,11220,2245,4912,20,43.8
+Tennessee,TN,Public,2004,B,W,79,,27,,34.2
+Tennessee,TN,Public,2004,B,X,14814,2635,6332,17.8,42.7
+Tennessee,TN,Public,2004,B,X,98,,34,,34.7
+Tennessee,TN,Public,2004,F,A,136,36,70,26.5,51.5
+Tennessee,TN,Public,2004,F,A,1,,0,,0
+Tennessee,TN,Public,2004,F,Ai,28,2,9,7.1,32.1
+Tennessee,TN,Public,2004,F,Ai,0,,0,,
+Tennessee,TN,Public,2004,F,B,1929,212,835,11,43.3
+Tennessee,TN,Public,2004,F,B,7,,2,,28.6
+Tennessee,TN,Public,2004,F,H,79,19,39,24.1,49.4
+Tennessee,TN,Public,2004,F,H,0,,0,,
+Tennessee,TN,Public,2004,F,W,6042,1544,2873,25.6,47.6
+Tennessee,TN,Public,2004,F,W,62,,22,,35.5
+Tennessee,TN,Public,2004,F,X,8279,1826,3847,22.1,46.5
+Tennessee,TN,Public,2004,F,X,74,,26,,35.1
+Tennessee,TN,Public,2004,M,A,103,25,50,24.3,48.5
+Tennessee,TN,Public,2004,M,A,1,,0,,0
+Tennessee,TN,Public,2004,M,Ai,28,6,8,21.4,28.6
+Tennessee,TN,Public,2004,M,Ai,0,,0,,
+Tennessee,TN,Public,2004,M,B,1084,63,351,5.8,32.4
+Tennessee,TN,Public,2004,M,B,2,,1,,50
+Tennessee,TN,Public,2004,M,H,64,5,18,7.8,28.1
+Tennessee,TN,Public,2004,M,H,1,,1,,100
+Tennessee,TN,Public,2004,M,W,5178,701,2039,13.5,39.4
+Tennessee,TN,Public,2004,M,W,17,,5,,29.4
+Tennessee,TN,Public,2004,M,X,6535,809,2485,12.4,38
+Tennessee,TN,Public,2004,M,X,24,,8,,33.3
+Tennessee,TN,Public,2005,B,A,328,80,170,24.4,51.8
+Tennessee,TN,Public,2005,B,A,1,,0,,0
+Tennessee,TN,Public,2005,B,Ai,50,6,13,12,26
+Tennessee,TN,Public,2005,B,Ai,0,,0,,
+Tennessee,TN,Public,2005,B,B,3113,650,1245,20.9,40
+Tennessee,TN,Public,2005,B,B,2,,0,,0
+Tennessee,TN,Public,2005,B,H,165,31,71,18.8,43
+Tennessee,TN,Public,2005,B,H,0,,0,,
+Tennessee,TN,Public,2005,B,W,11361,2444,5213,21.5,45.9
+Tennessee,TN,Public,2005,B,W,37,,12,,32.4
+Tennessee,TN,Public,2005,B,X,15186,3237,6766,21.3,44.6
+Tennessee,TN,Public,2005,B,X,43,,13,,30.2
+Tennessee,TN,Public,2005,F,A,177,50,93,28.2,52.5
+Tennessee,TN,Public,2005,F,A,0,,0,,
+Tennessee,TN,Public,2005,F,Ai,26,4,5,15.4,19.2
+Tennessee,TN,Public,2005,F,Ai,0,,0,,
+Tennessee,TN,Public,2005,F,B,1889,475,858,25.1,45.4
+Tennessee,TN,Public,2005,F,B,1,,0,,0
+Tennessee,TN,Public,2005,F,H,96,24,48,25,50
+Tennessee,TN,Public,2005,F,H,0,,0,,
+Tennessee,TN,Public,2005,F,W,6015,1595,3005,26.5,50
+Tennessee,TN,Public,2005,F,W,31,,12,,38.7
+Tennessee,TN,Public,2005,F,X,8294,2163,4040,26.1,48.7
+Tennessee,TN,Public,2005,F,X,33,,12,,36.4
+Tennessee,TN,Public,2005,M,A,151,30,77,19.9,51
+Tennessee,TN,Public,2005,M,A,1,,0,,0
+Tennessee,TN,Public,2005,M,Ai,24,2,8,8.3,33.3
+Tennessee,TN,Public,2005,M,Ai,0,,0,,
+Tennessee,TN,Public,2005,M,B,1224,175,387,14.3,31.6
+Tennessee,TN,Public,2005,M,B,1,,0,,0
+Tennessee,TN,Public,2005,M,H,69,7,23,10.1,33.3
+Tennessee,TN,Public,2005,M,H,0,,0,,
+Tennessee,TN,Public,2005,M,W,5346,849,2208,15.9,41.3
+Tennessee,TN,Public,2005,M,W,6,,0,,0
+Tennessee,TN,Public,2005,M,X,6892,1074,2726,15.6,39.6
+Tennessee,TN,Public,2005,M,X,10,,1,,10
+Tennessee,TN,Public,2006,B,A,281,85,147,30.2,52.3
+Tennessee,TN,Public,2006,B,A,2,,0,,0
+Tennessee,TN,Public,2006,B,Ai,52,7,15,13.5,28.8
+Tennessee,TN,Public,2006,B,Ai,0,,0,,
+Tennessee,TN,Public,2006,B,B,2941,562,1160,19.1,39.4
+Tennessee,TN,Public,2006,B,B,105,,13,,12.4
+Tennessee,TN,Public,2006,B,H,151,33,72,21.9,47.7
+Tennessee,TN,Public,2006,B,H,1,,1,,100
+Tennessee,TN,Public,2006,B,W,11587,2766,5451,23.9,47
+Tennessee,TN,Public,2006,B,W,49,,14,,28.6
+Tennessee,TN,Public,2006,B,X,15195,3481,6911,22.9,45.5
+Tennessee,TN,Public,2006,B,X,165,,28,,17
+Tennessee,TN,Public,2006,F,A,159,52,86,32.7,54.1
+Tennessee,TN,Public,2006,F,A,1,,0,,0
+Tennessee,TN,Public,2006,F,Ai,26,6,11,23.1,42.3
+Tennessee,TN,Public,2006,F,Ai,0,,0,,
+Tennessee,TN,Public,2006,F,B,1804,424,787,23.5,43.6
+Tennessee,TN,Public,2006,F,B,65,,13,,20
+Tennessee,TN,Public,2006,F,H,87,27,46,31,52.9
+Tennessee,TN,Public,2006,F,H,1,,1,,100
+Tennessee,TN,Public,2006,F,W,6191,1805,3132,29.2,50.6
+Tennessee,TN,Public,2006,F,W,37,,14,,37.8
+Tennessee,TN,Public,2006,F,X,8356,2331,4096,27.9,49
+Tennessee,TN,Public,2006,F,X,108,,28,,25.9
+Tennessee,TN,Public,2006,M,A,122,33,61,27,50
+Tennessee,TN,Public,2006,M,A,1,,0,,0
+Tennessee,TN,Public,2006,M,Ai,26,1,4,3.8,15.4
+Tennessee,TN,Public,2006,M,Ai,0,,0,,
+Tennessee,TN,Public,2006,M,B,1137,138,373,12.1,32.8
+Tennessee,TN,Public,2006,M,B,40,,0,,0
+Tennessee,TN,Public,2006,M,H,64,6,26,9.4,40.6
+Tennessee,TN,Public,2006,M,H,0,,0,,
+Tennessee,TN,Public,2006,M,W,5396,961,2319,17.8,43
+Tennessee,TN,Public,2006,M,W,12,,0,,0
+Tennessee,TN,Public,2006,M,X,6839,1150,2815,16.8,41.2
+Tennessee,TN,Public,2006,M,X,57,,0,,0
+Tennessee,TN,Public,2007,B,A,327,76,146,23.2,44.6
+Tennessee,TN,Public,2007,B,A,0,,0,,
+Tennessee,TN,Public,2007,B,Ai,52,4,16,7.7,30.8
+Tennessee,TN,Public,2007,B,Ai,0,,0,,
+Tennessee,TN,Public,2007,B,B,3065,531,1118,17.3,36.5
+Tennessee,TN,Public,2007,B,B,19,,2,,10.5
+Tennessee,TN,Public,2007,B,H,179,34,73,19,40.8
+Tennessee,TN,Public,2007,B,H,1,,0,,0
+Tennessee,TN,Public,2007,B,W,11762,2855,5481,24.3,46.6
+Tennessee,TN,Public,2007,B,W,34,,9,,26.5
+Tennessee,TN,Public,2007,B,X,15615,3526,6898,22.6,44.2
+Tennessee,TN,Public,2007,B,X,57,,12,,21.1
+Tennessee,TN,Public,2007,F,A,148,43,77,29.1,52
+Tennessee,TN,Public,2007,F,A,0,,0,,
+Tennessee,TN,Public,2007,F,Ai,23,2,9,8.7,39.1
+Tennessee,TN,Public,2007,F,Ai,0,,0,,
+Tennessee,TN,Public,2007,F,B,1950,409,807,21,41.4
+Tennessee,TN,Public,2007,F,B,18,,2,,11.1
+Tennessee,TN,Public,2007,F,H,82,17,36,20.7,43.9
+Tennessee,TN,Public,2007,F,H,1,,0,,0
+Tennessee,TN,Public,2007,F,W,6182,1797,3097,29.1,50.1
+Tennessee,TN,Public,2007,F,W,23,,7,,30.4
+Tennessee,TN,Public,2007,F,X,8496,2283,4063,26.9,47.8
+Tennessee,TN,Public,2007,F,X,42,,9,,21.4
+Tennessee,TN,Public,2007,M,A,179,33,69,18.4,38.5
+Tennessee,TN,Public,2007,M,A,0,,0,,
+Tennessee,TN,Public,2007,M,Ai,29,2,7,6.9,24.1
+Tennessee,TN,Public,2007,M,Ai,0,,0,,
+Tennessee,TN,Public,2007,M,B,1115,122,311,10.9,27.9
+Tennessee,TN,Public,2007,M,B,1,,0,,0
+Tennessee,TN,Public,2007,M,H,97,17,37,17.5,38.1
+Tennessee,TN,Public,2007,M,H,0,,0,,
+Tennessee,TN,Public,2007,M,W,5580,1058,2384,19,42.7
+Tennessee,TN,Public,2007,M,W,11,,2,,18.2
+Tennessee,TN,Public,2007,M,X,7119,1243,2835,17.5,39.8
+Tennessee,TN,Public,2007,M,X,15,,3,,20
+Tennessee,TN,Public,2008,B,A,341,53,158,15.5,46.3
+Tennessee,TN,Public,2008,B,A,0,,0,,
+Tennessee,TN,Public,2008,B,Ai,54,5,12,9.3,22.2
+Tennessee,TN,Public,2008,B,Ai,1,,0,,0
+Tennessee,TN,Public,2008,B,B,3180,409,1208,12.9,38
+Tennessee,TN,Public,2008,B,B,10,,0,,0
+Tennessee,TN,Public,2008,B,H,221,38,81,17.2,36.7
+Tennessee,TN,Public,2008,B,H,0,,0,,
+Tennessee,TN,Public,2008,B,W,11711,2449,5656,20.9,48.3
+Tennessee,TN,Public,2008,B,W,23,,8,,34.8
+Tennessee,TN,Public,2008,B,X,15767,3011,7224,19.1,45.8
+Tennessee,TN,Public,2008,B,X,41,,8,,19.5
+Tennessee,TN,Public,2008,F,A,175,40,84,22.9,48
+Tennessee,TN,Public,2008,F,A,0,,0,,
+Tennessee,TN,Public,2008,F,Ai,32,2,7,6.3,21.9
+Tennessee,TN,Public,2008,F,Ai,0,,0,,
+Tennessee,TN,Public,2008,F,B,1942,318,832,16.4,42.8
+Tennessee,TN,Public,2008,F,B,6,,0,,0
+Tennessee,TN,Public,2008,F,H,123,21,42,17.1,34.1
+Tennessee,TN,Public,2008,F,H,0,,0,,
+Tennessee,TN,Public,2008,F,W,6243,1616,3227,25.9,51.7
+Tennessee,TN,Public,2008,F,W,16,,6,,37.5
+Tennessee,TN,Public,2008,F,X,8662,2031,4252,23.4,49.1
+Tennessee,TN,Public,2008,F,X,28,,6,,21.4
+Tennessee,TN,Public,2008,M,A,166,13,74,7.8,44.6
+Tennessee,TN,Public,2008,M,A,0,,0,,
+Tennessee,TN,Public,2008,M,Ai,22,3,5,13.6,22.7
+Tennessee,TN,Public,2008,M,Ai,1,,0,,0
+Tennessee,TN,Public,2008,M,B,1238,91,376,7.4,30.4
+Tennessee,TN,Public,2008,M,B,4,,0,,0
+Tennessee,TN,Public,2008,M,H,98,17,39,17.3,39.8
+Tennessee,TN,Public,2008,M,H,0,,0,,
+Tennessee,TN,Public,2008,M,W,5468,833,2429,15.2,44.4
+Tennessee,TN,Public,2008,M,W,7,,2,,28.6
+Tennessee,TN,Public,2008,M,X,7105,980,2972,13.8,41.8
+Tennessee,TN,Public,2008,M,X,13,,2,,15.4
+Tennessee,TN,Public,2009,B,A,324,72,165,22.2,50.9
+Tennessee,TN,Public,2009,B,Ai,65,11,19,16.9,29.2
+Tennessee,TN,Public,2009,B,B,3275,409,1239,12.5,37.8
+Tennessee,TN,Public,2009,B,H,202,28,93,13.9,46
+Tennessee,TN,Public,2009,B,W,11641,2679,5762,23,49.5
+Tennessee,TN,Public,2009,B,X,15772,3238,7375,20.5,46.8
+Tennessee,TN,Public,2009,F,A,164,45,85,27.4,51.8
+Tennessee,TN,Public,2009,F,Ai,41,8,12,19.5,29.3
+Tennessee,TN,Public,2009,F,B,2068,304,822,14.7,39.7
+Tennessee,TN,Public,2009,F,H,117,18,58,15.4,49.6
+Tennessee,TN,Public,2009,F,W,6141,1713,3194,27.9,52
+Tennessee,TN,Public,2009,F,X,8664,2110,4227,24.4,48.8
+Tennessee,TN,Public,2009,M,A,160,27,80,16.9,50
+Tennessee,TN,Public,2009,M,Ai,24,3,7,12.5,29.2
+Tennessee,TN,Public,2009,M,B,1207,105,417,8.7,34.5
+Tennessee,TN,Public,2009,M,H,85,10,35,11.8,41.2
+Tennessee,TN,Public,2009,M,W,5500,966,2568,17.6,46.7
+Tennessee,TN,Public,2009,M,X,7108,1128,3148,15.9,44.3
+Tennessee,TN,Public,2010,B,A,348,75,167,21.6,48
+Tennessee,TN,Public,2010,B,A,0,,0,,
+Tennessee,TN,Public,2010,B,Ai,53,6,15,11.3,28.3
+Tennessee,TN,Public,2010,B,Ai,1,,0,,0
+Tennessee,TN,Public,2010,B,B,3547,351,1185,9.9,33.4
+Tennessee,TN,Public,2010,B,B,3,,0,,0
+Tennessee,TN,Public,2010,B,H,255,45,98,17.6,38.4
+Tennessee,TN,Public,2010,B,H,4,,0,,0
+Tennessee,TN,Public,2010,B,W,12868,2899,6349,22.5,49.3
+Tennessee,TN,Public,2010,B,W,24,,3,,12.5
+Tennessee,TN,Public,2010,B,X,17500,3442,7959,19.7,45.5
+Tennessee,TN,Public,2010,B,X,40,,4,,10
+Tennessee,TN,Public,2010,F,A,178,40,83,22.5,46.6
+Tennessee,TN,Public,2010,F,A,0,,0,,
+Tennessee,TN,Public,2010,F,Ai,27,3,7,11.1,25.9
+Tennessee,TN,Public,2010,F,Ai,1,,0,,0
+Tennessee,TN,Public,2010,F,B,2272,259,820,11.4,36.1
+Tennessee,TN,Public,2010,F,B,1,,0,,0
+Tennessee,TN,Public,2010,F,H,149,36,61,24.2,40.9
+Tennessee,TN,Public,2010,F,H,3,,0,,0
+Tennessee,TN,Public,2010,F,W,6755,1860,3542,27.5,52.4
+Tennessee,TN,Public,2010,F,W,7,,2,,28.6
+Tennessee,TN,Public,2010,F,X,9578,2236,4585,23.3,47.9
+Tennessee,TN,Public,2010,F,X,15,,2,,13.3
+Tennessee,TN,Public,2010,M,A,170,35,84,20.6,49.4
+Tennessee,TN,Public,2010,M,A,0,,0,,
+Tennessee,TN,Public,2010,M,Ai,26,3,8,11.5,30.8
+Tennessee,TN,Public,2010,M,Ai,0,,0,,
+Tennessee,TN,Public,2010,M,B,1275,92,365,7.2,28.6
+Tennessee,TN,Public,2010,M,B,2,,0,,0
+Tennessee,TN,Public,2010,M,H,106,9,37,8.5,34.9
+Tennessee,TN,Public,2010,M,H,1,,0,,0
+Tennessee,TN,Public,2010,M,W,6113,1039,2807,17,45.9
+Tennessee,TN,Public,2010,M,W,17,,1,,5.9
+Tennessee,TN,Public,2010,M,X,7922,1206,3374,15.2,42.6
+Tennessee,TN,Public,2010,M,X,25,,2,,8

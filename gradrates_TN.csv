@@ -1,0 +1,1909 @@
+stateid,state,state_abbr,control,level,year,gender,race,cohort,grad_cohort,grad_100,grad_150,grad_100_rate,grad_150_rate,grad_cohort_ct
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,A,"4y bach",8,0,2,0.0,25.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,Ai,"4y bach",3,0,2,0.0,66.7,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,B,"4y bach",182,5,22,2.7,12.1,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,H,"4y bach",16,3,4,18.8,25.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,W,"4y bach",254,22,42,8.7,16.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,X,"4y bach",581,30,89,5.2,15.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,A,"4y bach",3,0,0,0.0,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,Ai,"4y bach",2,0,1,0.0,50.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,B,"4y bach",119,4,17,3.4,14.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,H,"4y bach",6,1,1,16.7,16.7,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,W,"4y bach",123,8,26,6.5,21.1,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,X,"4y bach",336,13,56,3.9,16.7,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,A,"4y bach",5,0,2,0.0,40.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,Ai,"4y bach",1,0,1,0.0,100.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,B,"4y bach",63,1,5,1.6,7.9,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,H,"4y bach",10,2,3,20.0,30.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,W,"4y bach",131,14,16,10.7,12.2,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,X,"4y bach",245,17,33,6.9,13.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,A,"4y bach",8,0,0,0.0,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,Ai,"4y bach",3,0,0,0.0,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,B,"4y bach",229,8,29,3.5,12.7,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,H,"4y bach",12,1,3,8.3,25.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,W,"4y bach",251,23,38,9.2,15.1,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,X,"4y bach",627,32,82,5.1,13.1,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,A,"4y bach",5,0,0,0.0,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,Ai,"4y bach",1,0,0,0.0,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,B,"4y bach",149,4,17,2.7,11.4,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,H,"4y bach",8,0,2,0.0,25.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,W,"4y bach",108,12,22,11.1,20.4,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,X,"4y bach",345,16,51,4.6,14.8,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,A,"4y bach",3,0,0,0.0,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,Ai,"4y bach",2,0,0,0.0,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,B,"4y bach",80,4,12,5.0,15.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,H,"4y bach",4,1,1,25.0,25.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,W,"4y bach",143,11,16,7.7,11.2,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,X,"4y bach",282,16,31,5.7,11.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,A,"4y bach",4,1,2,25.0,50.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,Ai,"4y bach",5,0,1,0.0,20.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,B,"4y bach",245,10,38,4.1,15.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,H,"4y bach",20,1,6,5.0,30.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,W,"4y bach",218,51,59,23.4,27.1,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,X,"4y bach",659,64,127,9.7,19.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,A,"4y bach",3,0,1,0.0,33.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,Ai,"4y bach",2,0,0,0.0,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,B,"4y bach",168,5,31,3.0,18.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,H,"4y bach",11,0,4,0.0,36.4,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,W,"4y bach",104,12,20,11.5,19.2,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,X,"4y bach",403,17,74,4.2,18.4,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,A,"4y bach",1,1,1,100.0,100.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,Ai,"4y bach",3,0,1,0.0,33.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,B,"4y bach",77,5,7,6.5,9.1,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,H,"4y bach",9,1,2,11.1,22.2,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,W,"4y bach",114,39,39,34.2,34.2,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,X,"4y bach",256,47,53,18.4,20.7,16
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,A,"4y bach",243,142,183,58.4,75.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,Ai,"4y bach",38,19,20,50.0,52.6,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,B,"4y bach",1423,372,591,26.1,41.5,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,H,"4y bach",316,152,191,48.1,60.4,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,W,"4y bach",7572,3812,4655,50.3,61.5,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,X,"4y bach",10230,4812,6020,47.0,58.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,A,"4y bach",133,80,97,60.2,72.9,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,Ai,"4y bach",22,12,13,54.5,59.1,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,B,"4y bach",783,275,375,35.1,47.9,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,H,"4y bach",185,103,127,55.7,68.6,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,W,"4y bach",4256,2237,2672,52.6,62.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,X,"4y bach",5681,2864,3470,50.4,61.1,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,A,"4y bach",110,62,86,56.4,78.2,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,Ai,"4y bach",16,7,7,43.8,43.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,B,"4y bach",640,97,216,15.2,33.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,H,"4y bach",131,49,64,37.4,48.9,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,W,"4y bach",3316,1575,1983,47.5,59.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,X,"4y bach",4549,1948,2550,42.8,56.1,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,A,"4y bach",226,153,175,67.7,77.4,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,Ai,"4y bach",38,17,20,44.7,52.6,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,B,"4y bach",1429,402,601,28.1,42.1,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,H,"4y bach",287,130,183,45.3,63.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,W,"4y bach",7346,3624,4537,49.3,61.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,X,"4y bach",10103,4722,5998,46.7,59.4,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,A,"4y bach",133,90,102,67.7,76.7,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,Ai,"4y bach",23,12,14,52.2,60.9,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,B,"4y bach",760,288,392,37.9,51.6,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,H,"4y bach",138,77,99,55.8,71.7,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,W,"4y bach",4120,2186,2644,53.1,64.2,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,X,"4y bach",5541,2863,3503,51.7,63.2,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,A,"4y bach",93,63,73,67.7,78.5,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,Ai,"4y bach",15,5,6,33.3,40.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,B,"4y bach",669,114,209,17.0,31.2,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,H,"4y bach",149,53,84,35.6,56.4,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,W,"4y bach",3226,1438,1893,44.6,58.7,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,X,"4y bach",4562,1859,2495,40.7,54.7,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,A,"4y bach",271,158,210,58.3,77.5,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,Ai,"4y bach",40,14,16,35.0,40.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,B,"4y bach",1689,458,694,27.1,41.1,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,H,"4y bach",314,149,194,47.5,61.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,W,"4y bach",7485,3738,4681,49.9,62.5,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,X,"4y bach",10583,4923,6277,46.5,59.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,A,"4y bach",149,85,117,57.0,78.5,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,Ai,"4y bach",23,12,12,52.2,52.2,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,B,"4y bach",915,302,425,33.0,46.4,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,H,"4y bach",174,90,113,51.7,64.9,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,W,"4y bach",4241,2290,2790,54.0,65.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,X,"4y bach",5866,2985,3694,50.9,63.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,A,"4y bach",122,73,93,59.8,76.2,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,Ai,"4y bach",17,2,4,11.8,23.5,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,B,"4y bach",774,156,269,20.2,34.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,H,"4y bach",140,59,81,42.1,57.9,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,W,"4y bach",3244,1448,1891,44.6,58.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,X,"4y bach",4717,1938,2583,41.1,54.8,38
+47,Tennessee,TN,Public,4-year,2011,B,A,"4y bach",351,100,187,28.5,53.3,9
+47,Tennessee,TN,Public,4-year,2011,B,Ai,"4y bach",65,13,28,20.0,43.1,9
+47,Tennessee,TN,Public,4-year,2011,B,B,"4y bach",3469,392,1251,11.3,36.1,9
+47,Tennessee,TN,Public,4-year,2011,B,H,"4y bach",286,42,121,14.7,42.3,9
+47,Tennessee,TN,Public,4-year,2011,B,W,"4y bach",12860,3006,6492,23.4,50.5,9
+47,Tennessee,TN,Public,4-year,2011,B,X,"4y bach",17469,3622,8258,20.7,47.3,9
+47,Tennessee,TN,Public,4-year,2011,F,A,"4y bach",205,61,115,29.8,56.1,9
+47,Tennessee,TN,Public,4-year,2011,F,Ai,"4y bach",32,8,17,25.0,53.1,9
+47,Tennessee,TN,Public,4-year,2011,F,B,"4y bach",2221,278,838,12.5,37.7,9
+47,Tennessee,TN,Public,4-year,2011,F,H,"4y bach",161,27,71,16.8,44.1,9
+47,Tennessee,TN,Public,4-year,2011,F,W,"4y bach",6800,1882,3591,27.7,52.8,9
+47,Tennessee,TN,Public,4-year,2011,F,X,"4y bach",9647,2305,4730,23.9,49.0,9
+47,Tennessee,TN,Public,4-year,2011,M,A,"4y bach",146,39,72,26.7,49.3,9
+47,Tennessee,TN,Public,4-year,2011,M,Ai,"4y bach",33,5,11,15.2,33.3,9
+47,Tennessee,TN,Public,4-year,2011,M,B,"4y bach",1248,114,413,9.1,33.1,9
+47,Tennessee,TN,Public,4-year,2011,M,H,"4y bach",125,15,50,12.0,40.0,9
+47,Tennessee,TN,Public,4-year,2011,M,W,"4y bach",6060,1124,2901,18.5,47.9,9
+47,Tennessee,TN,Public,4-year,2011,M,X,"4y bach",7822,1317,3528,16.8,45.1,9
+47,Tennessee,TN,Public,4-year,2012,B,A,"4y bach",367,96,221,26.2,60.2,9
+47,Tennessee,TN,Public,4-year,2012,B,Ai,"4y bach",60,11,28,18.3,46.7,9
+47,Tennessee,TN,Public,4-year,2012,B,B,"4y bach",3651,386,1279,10.6,35.0,9
+47,Tennessee,TN,Public,4-year,2012,B,H,"4y bach",345,46,145,13.3,42.0,9
+47,Tennessee,TN,Public,4-year,2012,B,W,"4y bach",13276,3043,6844,22.9,51.6,9
+47,Tennessee,TN,Public,4-year,2012,B,X,"4y bach",18152,3651,8683,20.1,47.8,9
+47,Tennessee,TN,Public,4-year,2012,F,A,"4y bach",171,51,107,29.8,62.6,9
+47,Tennessee,TN,Public,4-year,2012,F,Ai,"4y bach",38,8,17,21.1,44.7,9
+47,Tennessee,TN,Public,4-year,2012,F,B,"4y bach",2319,294,871,12.7,37.6,9
+47,Tennessee,TN,Public,4-year,2012,F,H,"4y bach",183,24,77,13.1,42.1,9
+47,Tennessee,TN,Public,4-year,2012,F,W,"4y bach",7004,1925,3759,27.5,53.7,9
+47,Tennessee,TN,Public,4-year,2012,F,X,"4y bach",9950,2344,4921,23.6,49.5,9
+47,Tennessee,TN,Public,4-year,2012,M,A,"4y bach",196,45,114,23.0,58.2,9
+47,Tennessee,TN,Public,4-year,2012,M,Ai,"4y bach",22,3,11,13.6,50.0,9
+47,Tennessee,TN,Public,4-year,2012,M,B,"4y bach",1332,92,408,6.9,30.6,9
+47,Tennessee,TN,Public,4-year,2012,M,H,"4y bach",162,22,68,13.6,42.0,9
+47,Tennessee,TN,Public,4-year,2012,M,W,"4y bach",6272,1118,3085,17.8,49.2,9
+47,Tennessee,TN,Public,4-year,2012,M,X,"4y bach",8202,1307,3762,15.9,45.9,9
+47,Tennessee,TN,Public,4-year,2013,B,A,"4y bach",432,118,236,27.3,54.6,9
+47,Tennessee,TN,Public,4-year,2013,B,Ai,"4y bach",64,11,22,17.2,34.4,9
+47,Tennessee,TN,Public,4-year,2013,B,B,"4y bach",3758,365,1338,9.7,35.6,9
+47,Tennessee,TN,Public,4-year,2013,B,H,"4y bach",337,61,146,18.1,43.3,9
+47,Tennessee,TN,Public,4-year,2013,B,W,"4y bach",13897,3315,7155,23.9,51.5,9
+47,Tennessee,TN,Public,4-year,2013,B,X,"4y bach",19080,3969,9139,20.8,47.9,9
+47,Tennessee,TN,Public,4-year,2013,F,A,"4y bach",226,75,136,33.2,60.2,9
+47,Tennessee,TN,Public,4-year,2013,F,Ai,"4y bach",35,7,11,20.0,31.4,9
+47,Tennessee,TN,Public,4-year,2013,F,B,"4y bach",2326,260,888,11.2,38.2,9
+47,Tennessee,TN,Public,4-year,2013,F,H,"4y bach",192,44,88,22.9,45.8,9
+47,Tennessee,TN,Public,4-year,2013,F,W,"4y bach",7226,2046,3925,28.3,54.3,9
+47,Tennessee,TN,Public,4-year,2013,F,X,"4y bach",10320,2499,5187,24.2,50.3,9
+47,Tennessee,TN,Public,4-year,2013,M,A,"4y bach",206,43,100,20.9,48.5,9
+47,Tennessee,TN,Public,4-year,2013,M,Ai,"4y bach",29,4,11,13.8,37.9,9
+47,Tennessee,TN,Public,4-year,2013,M,B,"4y bach",1432,105,450,7.3,31.4,9
+47,Tennessee,TN,Public,4-year,2013,M,H,"4y bach",145,17,58,11.7,40.0,9
+47,Tennessee,TN,Public,4-year,2013,M,W,"4y bach",6671,1269,3230,19.0,48.4,9
+47,Tennessee,TN,Public,4-year,2013,M,X,"4y bach",8760,1470,3952,16.8,45.1,9
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,A,"4y other",15,,7,,46.7,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,Ai,"4y other",2,,1,,50.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,B,"4y other",231,,91,,39.4,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,H,"4y other",12,,4,,33.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,W,"4y other",464,,198,,42.7,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,B,X,"4y other",730,,303,,41.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,A,"4y other",8,,4,,50.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,Ai,"4y other",1,,1,,100.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,B,"4y other",123,,65,,52.8,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,H,"4y other",7,,2,,28.6,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,W,"4y other",270,,132,,48.9,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,F,X,"4y other",413,,205,,49.6,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,A,"4y other",7,,3,,42.9,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,Ai,"4y other",1,,0,,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,B,"4y other",108,,26,,24.1,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,H,"4y other",5,,2,,40.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,W,"4y other",194,,66,,34.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2011,M,X,"4y other",317,,98,,30.9,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,A,"4y other",6,,2,,33.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,Ai,"4y other",4,,1,,25.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,B,"4y other",261,,95,,36.4,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,H,"4y other",15,,4,,26.7,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,W,"4y other",410,,197,,48.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,B,X,"4y other",713,,306,,42.9,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,A,"4y other",5,,2,,40.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,Ai,"4y other",3,,1,,33.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,B,"4y other",150,,57,,38.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,H,"4y other",8,,1,,12.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,W,"4y other",208,,123,,59.1,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,F,X,"4y other",382,,187,,49.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,A,"4y other",1,,0,,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,Ai,"4y other",1,,0,,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,B,"4y other",111,,38,,34.2,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,H,"4y other",7,,3,,42.9,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,W,"4y other",202,,74,,36.6,16
+47,Tennessee,TN,"Private for-profit",4-year,2012,M,X,"4y other",331,,119,,36.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,A,"4y other",13,,8,,61.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,Ai,"4y other",4,,1,,25.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,B,"4y other",208,,77,,37.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,H,"4y other",27,,9,,33.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,W,"4y other",441,,197,,44.7,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,B,X,"4y other",700,,293,,41.9,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,A,"4y other",4,,3,,75.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,Ai,"4y other",1,,0,,0.0,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,B,"4y other",101,,48,,47.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,H,"4y other",14,,4,,28.6,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,W,"4y other",223,,126,,56.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,F,X,"4y other",348,,182,,52.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,A,"4y other",9,,5,,55.6,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,Ai,"4y other",3,,1,,33.3,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,B,"4y other",107,,29,,27.1,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,H,"4y other",13,,5,,38.5,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,W,"4y other",218,,71,,32.6,16
+47,Tennessee,TN,"Private for-profit",4-year,2013,M,X,"4y other",352,,111,,31.5,16
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,A,"4y other",1,,0,,0.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,Ai,"4y other",1,,1,,100.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,B,"4y other",33,,4,,12.1,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,H,"4y other",10,,2,,20.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,W,"4y other",145,,58,,40.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,B,X,"4y other",203,,69,,34.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,A,"4y other",1,,0,,0.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,Ai,"4y other",0,,0,,,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,B,"4y other",11,,2,,18.2,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,H,"4y other",7,,1,,14.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,W,"4y other",88,,41,,46.6,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,F,X,"4y other",113,,47,,41.6,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,A,"4y other",0,,0,,,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,Ai,"4y other",1,,1,,100.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,B,"4y other",22,,2,,9.1,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,H,"4y other",3,,1,,33.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,W,"4y other",57,,17,,29.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2011,M,X,"4y other",90,,22,,24.4,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,A,"4y other",13,,5,,38.5,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,Ai,"4y other",0,,0,,,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,B,"4y other",37,,12,,32.4,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,H,"4y other",28,,9,,32.1,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,W,"4y other",314,,124,,39.5,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,B,X,"4y other",424,,158,,37.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,A,"4y other",10,,5,,50.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,Ai,"4y other",0,,0,,,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,B,"4y other",18,,7,,38.9,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,H,"4y other",18,,6,,33.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,W,"4y other",185,,74,,40.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,F,X,"4y other",242,,95,,39.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,A,"4y other",3,,0,,0.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,Ai,"4y other",0,,0,,,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,B,"4y other",19,,5,,26.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,H,"4y other",10,,3,,30.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,W,"4y other",129,,50,,38.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2012,M,X,"4y other",182,,63,,34.6,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,A,"4y other",5,,3,,60.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,Ai,"4y other",3,,1,,33.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,B,"4y other",749,,403,,53.8,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,H,"4y other",6,,2,,33.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,W,"4y other",277,,103,,37.2,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,B,X,"4y other",1069,,520,,48.6,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,A,"4y other",4,,3,,75.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,Ai,"4y other",2,,1,,50.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,B,"4y other",624,,361,,57.9,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,H,"4y other",4,,2,,50.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,W,"4y other",201,,87,,43.3,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,F,X,"4y other",853,,460,,53.9,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,A,"4y other",1,,0,,0.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,Ai,"4y other",1,,0,,0.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,B,"4y other",125,,42,,33.6,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,H,"4y other",2,,0,,0.0,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,W,"4y other",76,,16,,21.1,38
+47,Tennessee,TN,"Private not-for-profit",4-year,2013,M,X,"4y other",216,,60,,27.8,38
+47,Tennessee,TN,Public,4-year,2011,B,A,"4y other",4,,1,,25.0,9
+47,Tennessee,TN,Public,4-year,2011,B,Ai,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2011,B,B,"4y other",7,,1,,14.3,9
+47,Tennessee,TN,Public,4-year,2011,B,H,"4y other",1,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2011,B,W,"4y other",11,,5,,45.5,9
+47,Tennessee,TN,Public,4-year,2011,B,X,"4y other",25,,7,,28.0,9
+47,Tennessee,TN,Public,4-year,2011,F,A,"4y other",2,,1,,50.0,9
+47,Tennessee,TN,Public,4-year,2011,F,Ai,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2011,F,B,"4y other",7,,1,,14.3,9
+47,Tennessee,TN,Public,4-year,2011,F,H,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2011,F,W,"4y other",6,,3,,50.0,9
+47,Tennessee,TN,Public,4-year,2011,F,X,"4y other",17,,5,,29.4,9
+47,Tennessee,TN,Public,4-year,2011,M,A,"4y other",2,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2011,M,Ai,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2011,M,B,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2011,M,H,"4y other",1,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2011,M,W,"4y other",5,,2,,40.0,9
+47,Tennessee,TN,Public,4-year,2011,M,X,"4y other",8,,2,,25.0,9
+47,Tennessee,TN,Public,4-year,2012,B,A,"4y other",1,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2012,B,Ai,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2012,B,B,"4y other",2,,1,,50.0,9
+47,Tennessee,TN,Public,4-year,2012,B,H,"4y other",1,,1,,100.0,9
+47,Tennessee,TN,Public,4-year,2012,B,W,"4y other",4,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2012,B,X,"4y other",10,,2,,20.0,9
+47,Tennessee,TN,Public,4-year,2012,F,A,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2012,F,Ai,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2012,F,B,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2012,F,H,"4y other",1,,1,,100.0,9
+47,Tennessee,TN,Public,4-year,2012,F,W,"4y other",1,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2012,F,X,"4y other",4,,1,,25.0,9
+47,Tennessee,TN,Public,4-year,2012,M,A,"4y other",1,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2012,M,Ai,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2012,M,B,"4y other",2,,1,,50.0,9
+47,Tennessee,TN,Public,4-year,2012,M,H,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2012,M,W,"4y other",3,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2012,M,X,"4y other",6,,1,,16.7,9
+47,Tennessee,TN,Public,4-year,2013,B,A,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2013,B,Ai,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2013,B,B,"4y other",2,,1,,50.0,9
+47,Tennessee,TN,Public,4-year,2013,B,H,"4y other",1,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2013,B,W,"4y other",14,,4,,28.6,9
+47,Tennessee,TN,Public,4-year,2013,B,X,"4y other",18,,5,,27.8,9
+47,Tennessee,TN,Public,4-year,2013,F,A,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2013,F,Ai,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2013,F,B,"4y other",2,,1,,50.0,9
+47,Tennessee,TN,Public,4-year,2013,F,H,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2013,F,W,"4y other",6,,3,,50.0,9
+47,Tennessee,TN,Public,4-year,2013,F,X,"4y other",8,,4,,50.0,9
+47,Tennessee,TN,Public,4-year,2013,M,A,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2013,M,Ai,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2013,M,B,"4y other",0,,0,,,9
+47,Tennessee,TN,Public,4-year,2013,M,H,"4y other",1,,0,,0.0,9
+47,Tennessee,TN,Public,4-year,2013,M,W,"4y other",8,,1,,12.5,9
+47,Tennessee,TN,Public,4-year,2013,M,X,"4y other",10,,1,,10.0,9
+47,Tennessee,TN,"Private for-profit",2-year,2011,B,A,"2y all",84,,48,,57.1,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,B,Ai,"2y all",25,,8,,32.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,B,B,"2y all",2755,,1405,,51.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,B,H,"2y all",121,,77,,63.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,B,W,"2y all",2847,,1785,,62.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,B,X,"2y all",6512,3331,3705,51.2,56.9,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,F,A,"2y all",25,,20,,80.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,F,Ai,"2y all",12,,5,,41.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,F,B,"2y all",1786,,944,,52.9,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,F,H,"2y all",64,,37,,57.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,F,W,"2y all",1419,,904,,63.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,F,X,"2y all",3779,,2196,,58.1,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,M,A,"2y all",59,,28,,47.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,M,Ai,"2y all",13,,3,,23.1,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,M,B,"2y all",969,,461,,47.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,M,H,"2y all",57,,40,,70.2,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,M,W,"2y all",1428,,881,,61.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2011,M,X,"2y all",2733,,1509,,55.2,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,B,A,"2y all",39,,26,,66.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,B,Ai,"2y all",25,,10,,40.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,B,B,"2y all",2712,,1598,,58.9,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,B,H,"2y all",161,,110,,68.3,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,B,W,"2y all",2910,,1762,,60.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,B,X,"2y all",6285,3160,3778,50.3,60.1,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,F,A,"2y all",17,,12,,70.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,F,Ai,"2y all",16,,6,,37.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,F,B,"2y all",1744,,1080,,61.9,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,F,H,"2y all",84,,55,,65.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,F,W,"2y all",1320,,794,,60.2,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,F,X,"2y all",3492,,2163,,61.9,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,M,A,"2y all",22,,14,,63.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,M,Ai,"2y all",9,,4,,44.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,M,B,"2y all",968,,518,,53.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,M,H,"2y all",77,,55,,71.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,M,W,"2y all",1590,,968,,60.9,15
+47,Tennessee,TN,"Private for-profit",2-year,2012,M,X,"2y all",2793,,1615,,57.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,B,A,"2y all",22,,16,,72.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,B,Ai,"2y all",22,,12,,54.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,B,B,"2y all",1987,,1245,,62.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,B,H,"2y all",140,,110,,78.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,B,W,"2y all",2197,,1506,,68.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,B,X,"2y all",4522,1734,2995,38.3,66.2,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,F,A,"2y all",16,,11,,68.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,F,Ai,"2y all",11,,9,,81.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,F,B,"2y all",1243,,832,,66.9,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,F,H,"2y all",78,,65,,83.3,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,F,W,"2y all",1045,,742,,71.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,F,X,"2y all",2493,,1735,,69.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,M,A,"2y all",6,,5,,83.3,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,M,Ai,"2y all",11,,3,,27.3,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,M,B,"2y all",744,,413,,55.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,M,H,"2y all",62,,45,,72.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,M,W,"2y all",1152,,764,,66.3,15
+47,Tennessee,TN,"Private for-profit",2-year,2013,M,X,"2y all",2029,,1260,,62.1,15
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,B,A,"2y all",7,,4,,57.1,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,B,Ai,"2y all",5,,1,,20.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,B,B,"2y all",216,,108,,50.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,B,H,"2y all",24,,17,,70.8,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,B,W,"2y all",291,,181,,62.2,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,B,X,"2y all",557,141,321,25.3,57.6,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,F,A,"2y all",7,,4,,57.1,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,F,Ai,"2y all",5,,1,,20.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,F,B,"2y all",183,,94,,51.4,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,F,H,"2y all",17,,13,,76.5,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,F,W,"2y all",249,,157,,63.1,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,F,X,"2y all",474,,279,,58.9,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,M,A,"2y all",0,,0,,,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,M,Ai,"2y all",0,,0,,,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,M,B,"2y all",33,,14,,42.4,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,M,H,"2y all",7,,4,,57.1,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,M,W,"2y all",42,,24,,57.1,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2011,M,X,"2y all",83,,42,,50.6,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,B,A,"2y all",7,,7,,100.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,B,Ai,"2y all",3,,2,,66.7,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,B,B,"2y all",122,,89,,73.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,B,H,"2y all",24,,21,,87.5,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,B,W,"2y all",259,,213,,82.2,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,B,X,"2y all",425,297,341,69.9,80.2,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,F,A,"2y all",7,,7,,100.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,F,Ai,"2y all",2,,1,,50.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,F,B,"2y all",94,,69,,73.4,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,F,H,"2y all",19,,17,,89.5,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,F,W,"2y all",226,,184,,81.4,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,F,X,"2y all",356,,285,,80.1,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,M,A,"2y all",0,,0,,,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,M,Ai,"2y all",1,,1,,100.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,M,B,"2y all",28,,20,,71.4,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,M,H,"2y all",5,,4,,80.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,M,W,"2y all",33,,29,,87.9,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2012,M,X,"2y all",69,,56,,81.2,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,B,A,"2y all",4,,2,,50.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,B,Ai,"2y all",1,,1,,100.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,B,B,"2y all",126,,79,,62.7,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,B,H,"2y all",29,,23,,79.3,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,B,W,"2y all",207,,140,,67.6,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,B,X,"2y all",377,227,249,60.2,66.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,F,A,"2y all",2,,1,,50.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,F,Ai,"2y all",1,,1,,100.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,F,B,"2y all",97,,60,,61.9,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,F,H,"2y all",23,,20,,87.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,F,W,"2y all",168,,113,,67.3,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,F,X,"2y all",301,,199,,66.1,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,M,A,"2y all",2,,1,,50.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,M,Ai,"2y all",0,,0,,,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,M,B,"2y all",29,,19,,65.5,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,M,H,"2y all",6,,3,,50.0,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,M,W,"2y all",39,,27,,69.2,3
+47,Tennessee,TN,"Private not-for-profit",2-year,2013,M,X,"2y all",76,,50,,65.8,3
+47,Tennessee,TN,Public,2-year,2011,B,A,"2y all",148,,15,,10.1,13
+47,Tennessee,TN,Public,2-year,2011,B,Ai,"2y all",33,,3,,9.1,13
+47,Tennessee,TN,Public,2-year,2011,B,B,"2y all",2240,,68,,3.0,13
+47,Tennessee,TN,Public,2-year,2011,B,H,"2y all",241,,26,,10.8,13
+47,Tennessee,TN,Public,2-year,2011,B,W,"2y all",9382,,1348,,14.4,13
+47,Tennessee,TN,Public,2-year,2011,B,X,"2y all",12525,819,1511,6.5,12.1,13
+47,Tennessee,TN,Public,2-year,2011,F,A,"2y all",71,,10,,14.1,13
+47,Tennessee,TN,Public,2-year,2011,F,Ai,"2y all",18,,2,,11.1,13
+47,Tennessee,TN,Public,2-year,2011,F,B,"2y all",1390,,39,,2.8,13
+47,Tennessee,TN,Public,2-year,2011,F,H,"2y all",145,,18,,12.4,13
+47,Tennessee,TN,Public,2-year,2011,F,W,"2y all",5281,,843,,16.0,13
+47,Tennessee,TN,Public,2-year,2011,F,X,"2y all",7170,,943,,13.2,13
+47,Tennessee,TN,Public,2-year,2011,M,A,"2y all",77,,5,,6.5,13
+47,Tennessee,TN,Public,2-year,2011,M,Ai,"2y all",15,,1,,6.7,13
+47,Tennessee,TN,Public,2-year,2011,M,B,"2y all",850,,29,,3.4,13
+47,Tennessee,TN,Public,2-year,2011,M,H,"2y all",96,,8,,8.3,13
+47,Tennessee,TN,Public,2-year,2011,M,W,"2y all",4101,,505,,12.3,13
+47,Tennessee,TN,Public,2-year,2011,M,X,"2y all",5355,,568,,10.6,13
+47,Tennessee,TN,Public,2-year,2012,B,A,"2y all",142,,21,,14.8,13
+47,Tennessee,TN,Public,2-year,2012,B,Ai,"2y all",51,,4,,7.8,13
+47,Tennessee,TN,Public,2-year,2012,B,B,"2y all",3074,,115,,3.7,13
+47,Tennessee,TN,Public,2-year,2012,B,H,"2y all",338,,25,,7.4,13
+47,Tennessee,TN,Public,2-year,2012,B,W,"2y all",11667,,1645,,14.1,13
+47,Tennessee,TN,Public,2-year,2012,B,X,"2y all",15883,1208,1880,7.6,11.8,13
+47,Tennessee,TN,Public,2-year,2012,F,A,"2y all",64,,12,,18.8,13
+47,Tennessee,TN,Public,2-year,2012,F,Ai,"2y all",30,,2,,6.7,13
+47,Tennessee,TN,Public,2-year,2012,F,B,"2y all",1922,,74,,3.9,13
+47,Tennessee,TN,Public,2-year,2012,F,H,"2y all",199,,14,,7.0,13
+47,Tennessee,TN,Public,2-year,2012,F,W,"2y all",6499,,959,,14.8,13
+47,Tennessee,TN,Public,2-year,2012,F,X,"2y all",9035,,1097,,12.1,13
+47,Tennessee,TN,Public,2-year,2012,M,A,"2y all",78,,9,,11.5,13
+47,Tennessee,TN,Public,2-year,2012,M,Ai,"2y all",21,,2,,9.5,13
+47,Tennessee,TN,Public,2-year,2012,M,B,"2y all",1152,,41,,3.6,13
+47,Tennessee,TN,Public,2-year,2012,M,H,"2y all",139,,11,,7.9,13
+47,Tennessee,TN,Public,2-year,2012,M,W,"2y all",5168,,686,,13.3,13
+47,Tennessee,TN,Public,2-year,2012,M,X,"2y all",6848,,783,,11.4,13
+47,Tennessee,TN,Public,2-year,2013,B,A,"2y all",144,,23,,16.0,13
+47,Tennessee,TN,Public,2-year,2013,B,Ai,"2y all",69,,6,,8.7,13
+47,Tennessee,TN,Public,2-year,2013,B,B,"2y all",2805,,140,,5.0,13
+47,Tennessee,TN,Public,2-year,2013,B,H,"2y all",337,,43,,12.8,13
+47,Tennessee,TN,Public,2-year,2013,B,W,"2y all",10663,,1718,,16.1,13
+47,Tennessee,TN,Public,2-year,2013,B,X,"2y all",15153,1168,2049,7.7,13.5,13
+47,Tennessee,TN,Public,2-year,2013,F,A,"2y all",67,,9,,13.4,13
+47,Tennessee,TN,Public,2-year,2013,F,Ai,"2y all",36,,3,,8.3,13
+47,Tennessee,TN,Public,2-year,2013,F,B,"2y all",1736,,91,,5.2,13
+47,Tennessee,TN,Public,2-year,2013,F,H,"2y all",196,,24,,12.2,13
+47,Tennessee,TN,Public,2-year,2013,F,W,"2y all",6055,,1023,,16.9,13
+47,Tennessee,TN,Public,2-year,2013,F,X,"2y all",8716,,1211,,13.9,13
+47,Tennessee,TN,Public,2-year,2013,M,A,"2y all",77,,14,,18.2,13
+47,Tennessee,TN,Public,2-year,2013,M,Ai,"2y all",33,,3,,9.1,13
+47,Tennessee,TN,Public,2-year,2013,M,B,"2y all",1069,,49,,4.6,13
+47,Tennessee,TN,Public,2-year,2013,M,H,"2y all",141,,19,,13.5,13
+47,Tennessee,TN,Public,2-year,2013,M,W,"2y all",4608,,695,,15.1,13
+47,Tennessee,TN,Public,2-year,2013,M,X,"2y all",6437,,838,,13.0,13
+47,Tennessee,TN,"Private for-profit",2-year,2002,B,A,"2y all",24,,8,,33.3,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,B,Ai,"2y all",16,,6,,37.5,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,B,B,"2y all",782,,478,,61.1,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,B,H,"2y all",36,,22,,61.1,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,B,W,"2y all",1616,,1200,,74.3,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,B,X,"2y all",2626,,1798,,68.5,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,F,A,"2y all",11,,3,,27.3,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,F,Ai,"2y all",4,,1,,25.0,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,F,B,"2y all",546,,369,,67.6,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,F,H,"2y all",13,,4,,30.8,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,F,W,"2y all",479,,223,,46.6,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,F,X,"2y all",1063,,602,,56.6,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,M,A,"2y all",13,,5,,38.5,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,M,Ai,"2y all",12,,5,,41.7,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,M,B,"2y all",236,,109,,46.2,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,M,H,"2y all",23,,18,,78.3,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,M,W,"2y all",1137,,977,,85.9,8
+47,Tennessee,TN,"Private for-profit",2-year,2002,M,X,"2y all",1563,,1196,,76.5,8
+47,Tennessee,TN,"Private for-profit",2-year,2003,B,A,"2y all",10,,10,,100.0,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,B,Ai,"2y all",15,,7,,46.7,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,B,B,"2y all",1075,,528,,49.1,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,B,H,"2y all",34,,22,,64.7,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,B,W,"2y all",1711,,1101,,64.3,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,B,X,"2y all",2934,,1719,,58.6,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,F,A,"2y all",5,,5,,100.0,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,F,Ai,"2y all",5,,3,,60.0,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,F,B,"2y all",780,,402,,51.5,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,F,H,"2y all",9,,4,,44.4,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,F,W,"2y all",453,,271,,59.8,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,F,X,"2y all",1297,,705,,54.4,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,M,A,"2y all",5,,5,,100.0,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,M,Ai,"2y all",10,,4,,40.0,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,M,B,"2y all",295,,126,,42.7,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,M,H,"2y all",25,,18,,72.0,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,M,W,"2y all",1258,,830,,66.0,9
+47,Tennessee,TN,"Private for-profit",2-year,2003,M,X,"2y all",1637,,1014,,61.9,9
+47,Tennessee,TN,"Private for-profit",2-year,2004,B,A,"2y all",50,,46,,92.0,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,B,Ai,"2y all",26,,15,,57.7,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,B,B,"2y all",1964,,1025,,52.2,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,B,H,"2y all",76,,45,,59.2,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,B,W,"2y all",2904,,1864,,64.2,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,B,X,"2y all",5472,,3239,,59.2,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,F,A,"2y all",21,,21,,100.0,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,F,Ai,"2y all",11,,4,,36.4,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,F,B,"2y all",1435,,767,,53.4,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,F,H,"2y all",25,,18,,72.0,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,F,W,"2y all",1085,,633,,58.3,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,F,X,"2y all",2900,,1624,,56.0,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,M,A,"2y all",29,,25,,86.2,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,M,Ai,"2y all",15,,11,,73.3,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,M,B,"2y all",529,,258,,48.8,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,M,H,"2y all",51,,27,,52.9,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,M,W,"2y all",1819,,1231,,67.7,10
+47,Tennessee,TN,"Private for-profit",2-year,2004,M,X,"2y all",2572,,1615,,62.8,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,B,A,"2y all",51,,43,,84.3,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,B,Ai,"2y all",15,,11,,73.3,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,B,B,"2y all",2224,,1268,,57.0,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,B,H,"2y all",110,,75,,68.2,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,B,W,"2y all",2736,,2011,,73.5,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,B,X,"2y all",5562,,3663,,65.9,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,F,A,"2y all",29,,22,,75.9,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,F,Ai,"2y all",8,,5,,62.5,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,F,B,"2y all",1711,,942,,55.1,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,F,H,"2y all",50,,35,,70.0,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,F,W,"2y all",1381,,843,,61.0,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,F,X,"2y all",3540,,2048,,57.9,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,M,A,"2y all",22,,21,,95.5,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,M,Ai,"2y all",7,,6,,85.7,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,M,B,"2y all",513,,326,,63.5,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,M,H,"2y all",60,,40,,66.7,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,M,W,"2y all",1355,,1168,,86.2,10
+47,Tennessee,TN,"Private for-profit",2-year,2005,M,X,"2y all",2022,,1615,,79.9,10
+47,Tennessee,TN,"Private for-profit",2-year,2006,B,A,"2y all",30,,20,,66.7,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,B,Ai,"2y all",12,,9,,75.0,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,B,B,"2y all",2237,,1306,,58.4,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,B,H,"2y all",83,,59,,71.1,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,B,W,"2y all",2624,,1995,,76.0,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,B,X,"2y all",5307,,3565,,67.2,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,F,A,"2y all",19,,12,,63.2,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,F,Ai,"2y all",8,,5,,62.5,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,F,B,"2y all",1798,,1001,,55.7,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,F,H,"2y all",37,,23,,62.2,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,F,W,"2y all",1296,,805,,62.1,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,F,X,"2y all",3456,,2013,,58.2,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,M,A,"2y all",11,,8,,72.7,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,M,Ai,"2y all",4,,4,,100.0,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,M,B,"2y all",439,,305,,69.5,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,M,H,"2y all",46,,36,,78.3,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,M,W,"2y all",1328,,1190,,89.6,13
+47,Tennessee,TN,"Private for-profit",2-year,2006,M,X,"2y all",1851,,1552,,83.8,13
+47,Tennessee,TN,"Private for-profit",2-year,2007,B,A,"2y all",44,,33,,75.0,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,B,Ai,"2y all",20,,14,,70.0,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,B,B,"2y all",3020,,1561,,51.7,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,B,H,"2y all",113,,80,,70.8,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,B,W,"2y all",3100,,2042,,65.9,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,B,X,"2y all",6683,,3964,,59.3,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,F,A,"2y all",26,,19,,73.1,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,F,Ai,"2y all",12,,10,,83.3,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,F,B,"2y all",2291,,1150,,50.2,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,F,H,"2y all",64,,45,,70.3,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,F,W,"2y all",1502,,930,,61.9,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,F,X,"2y all",4194,,2334,,55.7,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,M,A,"2y all",18,,14,,77.8,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,M,Ai,"2y all",8,,4,,50.0,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,M,B,"2y all",729,,411,,56.4,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,M,H,"2y all",49,,35,,71.4,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,M,W,"2y all",1598,,1112,,69.6,14
+47,Tennessee,TN,"Private for-profit",2-year,2007,M,X,"2y all",2489,,1630,,65.5,14
+47,Tennessee,TN,"Private for-profit",2-year,2008,B,A,"2y all",56,,32,,57.1,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,B,Ai,"2y all",13,,7,,53.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,B,B,"2y all",3412,,1610,,47.2,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,B,H,"2y all",137,,89,,65.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,B,W,"2y all",3378,,2277,,67.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,B,X,"2y all",7497,,4281,,57.1,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,F,A,"2y all",29,,15,,51.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,F,Ai,"2y all",10,,5,,50.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,F,B,"2y all",2518,,1255,,49.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,F,H,"2y all",77,,49,,63.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,F,W,"2y all",1618,,913,,56.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,F,X,"2y all",4694,,2471,,52.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,M,A,"2y all",27,,17,,63.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,M,Ai,"2y all",3,,2,,66.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,M,B,"2y all",894,,355,,39.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,M,H,"2y all",60,,40,,66.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,M,W,"2y all",1760,,1364,,77.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2008,M,X,"2y all",2803,,1810,,64.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,B,A,"2y all",49,,34,,69.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,B,Ai,"2y all",21,,15,,71.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,B,B,"2y all",2578,,1246,,48.3,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,B,H,"2y all",116,,68,,58.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,B,W,"2y all",2479,,1489,,60.1,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,B,X,"2y all",6017,2777,3357,46.2,55.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,F,A,"2y all",27,,20,,74.1,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,F,Ai,"2y all",12,,10,,83.3,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,F,B,"2y all",1874,,908,,48.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,F,H,"2y all",66,,38,,57.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,F,W,"2y all",1358,,801,,59.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,F,X,"2y all",3564,,1917,,53.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,M,A,"2y all",22,,14,,63.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,M,Ai,"2y all",9,,5,,55.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,M,B,"2y all",704,,338,,48.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,M,H,"2y all",50,,30,,60.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,M,W,"2y all",1121,,688,,61.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2009,M,X,"2y all",2453,,1440,,58.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,B,A,"2y all",44,,28,,63.6,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,B,Ai,"2y all",18,,11,,61.1,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,B,B,"2y all",3080,,1664,,54.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,B,H,"2y all",119,,77,,64.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,B,W,"2y all",2851,,1778,,62.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,B,X,"2y all",6504,3166,3796,48.7,58.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,F,A,"2y all",28,,17,,60.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,F,Ai,"2y all",10,,8,,80.0,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,F,B,"2y all",2261,,1248,,55.2,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,F,H,"2y all",65,,46,,70.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,F,W,"2y all",1473,,935,,63.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,F,X,"2y all",4044,,2375,,58.7,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,M,A,"2y all",16,,11,,68.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,M,Ai,"2y all",8,,3,,37.5,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,M,B,"2y all",819,,416,,50.8,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,M,H,"2y all",54,,31,,57.4,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,M,W,"2y all",1378,,843,,61.2,15
+47,Tennessee,TN,"Private for-profit",2-year,2010,M,X,"2y all",2460,,1421,,57.8,15
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,B,A,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,B,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,B,B,"2y all",32,,15,,46.9,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,B,H,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,B,W,"2y all",74,,41,,55.4,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,B,X,"2y all",108,,56,,51.9,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,F,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,F,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,F,B,"2y all",5,,2,,40.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,F,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,F,W,"2y all",11,,9,,81.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,F,X,"2y all",16,,11,,68.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,M,A,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,M,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,M,B,"2y all",27,,13,,48.1,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,M,H,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,M,W,"2y all",63,,32,,50.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2002,M,X,"2y all",92,,45,,48.9,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,B,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,B,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,B,B,"2y all",22,,5,,22.7,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,B,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,B,W,"2y all",34,,25,,73.5,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,B,X,"2y all",56,,30,,53.6,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,F,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,F,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,F,B,"2y all",8,,1,,12.5,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,F,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,F,W,"2y all",10,,9,,90.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,F,X,"2y all",18,,10,,55.6,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,M,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,M,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,M,B,"2y all",14,,4,,28.6,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,M,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,M,W,"2y all",24,,16,,66.7,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2003,M,X,"2y all",38,,20,,52.6,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,B,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,B,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,B,B,"2y all",23,,17,,73.9,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,B,H,"2y all",1,,1,,100.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,B,W,"2y all",29,,20,,69.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,B,X,"2y all",53,,38,,71.7,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,F,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,F,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,F,B,"2y all",2,,2,,100.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,F,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,F,W,"2y all",6,,1,,16.7,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,F,X,"2y all",8,,3,,37.5,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,M,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,M,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,M,B,"2y all",21,,15,,71.4,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,M,H,"2y all",1,,1,,100.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,M,W,"2y all",23,,19,,82.6,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2004,M,X,"2y all",45,,35,,77.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,B,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,B,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,B,B,"2y all",26,,12,,46.2,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,B,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,B,W,"2y all",39,,28,,71.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,B,X,"2y all",65,,40,,61.5,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,F,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,F,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,F,B,"2y all",6,,3,,50.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,F,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,F,W,"2y all",20,,9,,45.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,F,X,"2y all",26,,12,,46.2,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,M,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,M,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,M,B,"2y all",20,,9,,45.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,M,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,M,W,"2y all",19,,19,,100.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2005,M,X,"2y all",39,,28,,71.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,B,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,B,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,B,B,"2y all",21,,9,,42.9,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,B,H,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,B,W,"2y all",42,,26,,61.9,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,B,X,"2y all",64,,35,,54.7,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,F,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,F,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,F,B,"2y all",6,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,F,H,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,F,W,"2y all",10,,4,,40.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,F,X,"2y all",17,,4,,23.5,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,M,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,M,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,M,B,"2y all",15,,9,,60.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,M,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,M,W,"2y all",32,,22,,68.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2006,M,X,"2y all",47,,31,,66.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,B,A,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,B,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,B,B,"2y all",20,,14,,70.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,B,H,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,B,W,"2y all",45,,26,,57.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,B,X,"2y all",67,,40,,59.7,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,F,A,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,F,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,F,B,"2y all",6,,4,,66.7,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,F,H,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,F,W,"2y all",8,,6,,75.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,F,X,"2y all",16,,10,,62.5,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,M,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,M,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,M,B,"2y all",14,,10,,71.4,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,M,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,M,W,"2y all",37,,20,,54.1,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2007,M,X,"2y all",51,,30,,58.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,B,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,B,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,B,B,"2y all",13,,9,,69.2,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,B,H,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,B,W,"2y all",48,,31,,64.6,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,B,X,"2y all",62,,40,,64.5,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,F,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,F,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,F,B,"2y all",2,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,F,H,"2y all",1,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,F,W,"2y all",19,,10,,52.6,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,F,X,"2y all",22,,10,,45.5,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,M,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,M,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,M,B,"2y all",11,,9,,81.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,M,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,M,W,"2y all",29,,21,,72.4,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2008,M,X,"2y all",40,,30,,75.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,B,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,B,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,B,B,"2y all",11,,5,,45.5,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,B,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,B,W,"2y all",49,,23,,46.9,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,B,X,"2y all",60,22,28,36.7,46.7,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,F,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,F,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,F,B,"2y all",5,,0,,0.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,F,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,F,W,"2y all",27,,9,,33.3,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,F,X,"2y all",32,,9,,28.1,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,M,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,M,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,M,B,"2y all",6,,5,,83.3,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,M,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,M,W,"2y all",22,,14,,63.6,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2009,M,X,"2y all",28,,19,,67.9,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,B,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,B,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,B,B,"2y all",14,,7,,50.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,B,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,B,W,"2y all",44,,25,,56.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,B,X,"2y all",58,32,32,55.2,55.2,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,F,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,F,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,F,B,"2y all",7,,1,,14.3,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,F,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,F,W,"2y all",20,,8,,40.0,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,F,X,"2y all",27,,9,,33.3,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,M,A,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,M,Ai,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,M,B,"2y all",7,,6,,85.7,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,M,H,"2y all",0,,0,,,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,M,W,"2y all",24,,17,,70.8,2
+47,Tennessee,TN,"Private not-for-profit",2-year,2010,M,X,"2y all",31,,23,,74.2,2
+47,Tennessee,TN,Public,2-year,2002,B,A,"2y all",106,,10,,9.4,13
+47,Tennessee,TN,Public,2-year,2002,B,Ai,"2y all",38,,4,,10.5,13
+47,Tennessee,TN,Public,2-year,2002,B,B,"2y all",1564,,66,,4.2,13
+47,Tennessee,TN,Public,2-year,2002,B,H,"2y all",89,,7,,7.9,13
+47,Tennessee,TN,Public,2-year,2002,B,W,"2y all",7275,,935,,12.9,13
+47,Tennessee,TN,Public,2-year,2002,B,X,"2y all",9137,,1026,,11.2,13
+47,Tennessee,TN,Public,2-year,2002,F,A,"2y all",51,,8,,15.7,13
+47,Tennessee,TN,Public,2-year,2002,F,Ai,"2y all",20,,3,,15.0,13
+47,Tennessee,TN,Public,2-year,2002,F,B,"2y all",977,,45,,4.6,13
+47,Tennessee,TN,Public,2-year,2002,F,H,"2y all",53,,7,,13.2,13
+47,Tennessee,TN,Public,2-year,2002,F,W,"2y all",4078,,617,,15.1,13
+47,Tennessee,TN,Public,2-year,2002,F,X,"2y all",5209,,682,,13.1,13
+47,Tennessee,TN,Public,2-year,2002,M,A,"2y all",55,,2,,3.6,13
+47,Tennessee,TN,Public,2-year,2002,M,Ai,"2y all",18,,1,,5.6,13
+47,Tennessee,TN,Public,2-year,2002,M,B,"2y all",587,,21,,3.6,13
+47,Tennessee,TN,Public,2-year,2002,M,H,"2y all",36,,0,,0.0,13
+47,Tennessee,TN,Public,2-year,2002,M,W,"2y all",3197,,318,,9.9,13
+47,Tennessee,TN,Public,2-year,2002,M,X,"2y all",3928,,344,,8.8,13
+47,Tennessee,TN,Public,2-year,2003,B,A,"2y all",105,,6,,5.7,13
+47,Tennessee,TN,Public,2-year,2003,B,Ai,"2y all",29,,1,,3.4,13
+47,Tennessee,TN,Public,2-year,2003,B,B,"2y all",1460,,64,,4.4,13
+47,Tennessee,TN,Public,2-year,2003,B,H,"2y all",92,,13,,14.1,13
+47,Tennessee,TN,Public,2-year,2003,B,W,"2y all",7310,,994,,13.6,13
+47,Tennessee,TN,Public,2-year,2003,B,X,"2y all",9105,,1088,,11.9,13
+47,Tennessee,TN,Public,2-year,2003,F,A,"2y all",58,,3,,5.2,13
+47,Tennessee,TN,Public,2-year,2003,F,Ai,"2y all",17,,0,,0.0,13
+47,Tennessee,TN,Public,2-year,2003,F,B,"2y all",878,,37,,4.2,13
+47,Tennessee,TN,Public,2-year,2003,F,H,"2y all",60,,9,,15.0,13
+47,Tennessee,TN,Public,2-year,2003,F,W,"2y all",4111,,636,,15.5,13
+47,Tennessee,TN,Public,2-year,2003,F,X,"2y all",5180,,693,,13.4,13
+47,Tennessee,TN,Public,2-year,2003,M,A,"2y all",47,,3,,6.4,13
+47,Tennessee,TN,Public,2-year,2003,M,Ai,"2y all",12,,1,,8.3,13
+47,Tennessee,TN,Public,2-year,2003,M,B,"2y all",582,,27,,4.6,13
+47,Tennessee,TN,Public,2-year,2003,M,H,"2y all",32,,4,,12.5,13
+47,Tennessee,TN,Public,2-year,2003,M,W,"2y all",3199,,358,,11.2,13
+47,Tennessee,TN,Public,2-year,2003,M,X,"2y all",3925,,395,,10.1,13
+47,Tennessee,TN,Public,2-year,2004,B,A,"2y all",105,,12,,11.4,13
+47,Tennessee,TN,Public,2-year,2004,B,Ai,"2y all",45,,5,,11.1,13
+47,Tennessee,TN,Public,2-year,2004,B,B,"2y all",1819,,85,,4.7,13
+47,Tennessee,TN,Public,2-year,2004,B,H,"2y all",90,,8,,8.9,13
+47,Tennessee,TN,Public,2-year,2004,B,W,"2y all",8103,,1156,,14.3,13
+47,Tennessee,TN,Public,2-year,2004,B,X,"2y all",10298,,1278,,12.4,13
+47,Tennessee,TN,Public,2-year,2004,F,A,"2y all",52,,9,,17.3,13
+47,Tennessee,TN,Public,2-year,2004,F,Ai,"2y all",27,,4,,14.8,13
+47,Tennessee,TN,Public,2-year,2004,F,B,"2y all",1137,,59,,5.2,13
+47,Tennessee,TN,Public,2-year,2004,F,H,"2y all",51,,5,,9.8,13
+47,Tennessee,TN,Public,2-year,2004,F,W,"2y all",4678,,747,,16.0,13
+47,Tennessee,TN,Public,2-year,2004,F,X,"2y all",6010,,830,,13.8,13
+47,Tennessee,TN,Public,2-year,2004,M,A,"2y all",53,,3,,5.7,13
+47,Tennessee,TN,Public,2-year,2004,M,Ai,"2y all",18,,1,,5.6,13
+47,Tennessee,TN,Public,2-year,2004,M,B,"2y all",682,,26,,3.8,13
+47,Tennessee,TN,Public,2-year,2004,M,H,"2y all",39,,3,,7.7,13
+47,Tennessee,TN,Public,2-year,2004,M,W,"2y all",3425,,409,,11.9,13
+47,Tennessee,TN,Public,2-year,2004,M,X,"2y all",4288,,448,,10.4,13
+47,Tennessee,TN,Public,2-year,2005,B,A,"2y all",111,,13,,11.7,13
+47,Tennessee,TN,Public,2-year,2005,B,Ai,"2y all",42,,7,,16.7,13
+47,Tennessee,TN,Public,2-year,2005,B,B,"2y all",1793,,73,,4.1,13
+47,Tennessee,TN,Public,2-year,2005,B,H,"2y all",120,,17,,14.2,13
+47,Tennessee,TN,Public,2-year,2005,B,W,"2y all",8134,,1111,,13.7,13
+47,Tennessee,TN,Public,2-year,2005,B,X,"2y all",10315,,1227,,11.9,13
+47,Tennessee,TN,Public,2-year,2005,F,A,"2y all",57,,7,,12.3,13
+47,Tennessee,TN,Public,2-year,2005,F,Ai,"2y all",17,,5,,29.4,13
+47,Tennessee,TN,Public,2-year,2005,F,B,"2y all",1162,,53,,4.6,13
+47,Tennessee,TN,Public,2-year,2005,F,H,"2y all",65,,8,,12.3,13
+47,Tennessee,TN,Public,2-year,2005,F,W,"2y all",4747,,702,,14.8,13
+47,Tennessee,TN,Public,2-year,2005,F,X,"2y all",6114,,779,,12.7,13
+47,Tennessee,TN,Public,2-year,2005,M,A,"2y all",54,,6,,11.1,13
+47,Tennessee,TN,Public,2-year,2005,M,Ai,"2y all",25,,2,,8.0,13
+47,Tennessee,TN,Public,2-year,2005,M,B,"2y all",631,,20,,3.2,13
+47,Tennessee,TN,Public,2-year,2005,M,H,"2y all",55,,9,,16.4,13
+47,Tennessee,TN,Public,2-year,2005,M,W,"2y all",3387,,409,,12.1,13
+47,Tennessee,TN,Public,2-year,2005,M,X,"2y all",4201,,448,,10.7,13
+47,Tennessee,TN,Public,2-year,2006,B,A,"2y all",133,,28,,21.1,13
+47,Tennessee,TN,Public,2-year,2006,B,Ai,"2y all",48,,6,,12.5,13
+47,Tennessee,TN,Public,2-year,2006,B,B,"2y all",1848,,115,,6.2,13
+47,Tennessee,TN,Public,2-year,2006,B,H,"2y all",145,,21,,14.5,13
+47,Tennessee,TN,Public,2-year,2006,B,W,"2y all",8582,,1539,,17.9,13
+47,Tennessee,TN,Public,2-year,2006,B,X,"2y all",10878,,1726,,15.9,13
+47,Tennessee,TN,Public,2-year,2006,F,A,"2y all",80,,18,,22.5,13
+47,Tennessee,TN,Public,2-year,2006,F,Ai,"2y all",26,,4,,15.4,13
+47,Tennessee,TN,Public,2-year,2006,F,B,"2y all",1211,,70,,5.8,13
+47,Tennessee,TN,Public,2-year,2006,F,H,"2y all",88,,8,,9.1,13
+47,Tennessee,TN,Public,2-year,2006,F,W,"2y all",4932,,880,,17.8,13
+47,Tennessee,TN,Public,2-year,2006,F,X,"2y all",6411,,989,,15.4,13
+47,Tennessee,TN,Public,2-year,2006,M,A,"2y all",53,,10,,18.9,13
+47,Tennessee,TN,Public,2-year,2006,M,Ai,"2y all",22,,2,,9.1,13
+47,Tennessee,TN,Public,2-year,2006,M,B,"2y all",637,,45,,7.1,13
+47,Tennessee,TN,Public,2-year,2006,M,H,"2y all",57,,13,,22.8,13
+47,Tennessee,TN,Public,2-year,2006,M,W,"2y all",3650,,659,,18.1,13
+47,Tennessee,TN,Public,2-year,2006,M,X,"2y all",4467,,737,,16.5,13
+47,Tennessee,TN,Public,2-year,2007,B,A,"2y all",134,,12,,9.0,13
+47,Tennessee,TN,Public,2-year,2007,B,Ai,"2y all",42,,4,,9.5,13
+47,Tennessee,TN,Public,2-year,2007,B,B,"2y all",2050,,75,,3.7,13
+47,Tennessee,TN,Public,2-year,2007,B,H,"2y all",126,,9,,7.1,13
+47,Tennessee,TN,Public,2-year,2007,B,W,"2y all",8865,,1250,,14.1,13
+47,Tennessee,TN,Public,2-year,2007,B,X,"2y all",11430,,1370,,12.0,13
+47,Tennessee,TN,Public,2-year,2007,F,A,"2y all",77,,7,,9.1,13
+47,Tennessee,TN,Public,2-year,2007,F,Ai,"2y all",29,,3,,10.3,13
+47,Tennessee,TN,Public,2-year,2007,F,B,"2y all",1294,,46,,3.6,13
+47,Tennessee,TN,Public,2-year,2007,F,H,"2y all",76,,6,,7.9,13
+47,Tennessee,TN,Public,2-year,2007,F,W,"2y all",5092,,762,,15.0,13
+47,Tennessee,TN,Public,2-year,2007,F,X,"2y all",6702,,836,,12.5,13
+47,Tennessee,TN,Public,2-year,2007,M,A,"2y all",57,,5,,8.8,13
+47,Tennessee,TN,Public,2-year,2007,M,Ai,"2y all",13,,1,,7.7,13
+47,Tennessee,TN,Public,2-year,2007,M,B,"2y all",756,,29,,3.8,13
+47,Tennessee,TN,Public,2-year,2007,M,H,"2y all",50,,3,,6.0,13
+47,Tennessee,TN,Public,2-year,2007,M,W,"2y all",3773,,488,,12.9,13
+47,Tennessee,TN,Public,2-year,2007,M,X,"2y all",4728,,534,,11.3,13
+47,Tennessee,TN,Public,2-year,2008,B,A,"2y all",130,,8,,6.2,13
+47,Tennessee,TN,Public,2-year,2008,B,Ai,"2y all",55,,8,,14.5,13
+47,Tennessee,TN,Public,2-year,2008,B,B,"2y all",2155,,71,,3.3,13
+47,Tennessee,TN,Public,2-year,2008,B,H,"2y all",183,,17,,9.3,13
+47,Tennessee,TN,Public,2-year,2008,B,W,"2y all",8725,,1142,,13.1,13
+47,Tennessee,TN,Public,2-year,2008,B,X,"2y all",11517,,1283,,11.1,13
+47,Tennessee,TN,Public,2-year,2008,F,A,"2y all",75,,3,,4.0,13
+47,Tennessee,TN,Public,2-year,2008,F,Ai,"2y all",26,,7,,26.9,13
+47,Tennessee,TN,Public,2-year,2008,F,B,"2y all",1352,,46,,3.4,13
+47,Tennessee,TN,Public,2-year,2008,F,H,"2y all",91,,8,,8.8,13
+47,Tennessee,TN,Public,2-year,2008,F,W,"2y all",4972,,700,,14.1,13
+47,Tennessee,TN,Public,2-year,2008,F,X,"2y all",6655,,780,,11.7,13
+47,Tennessee,TN,Public,2-year,2008,M,A,"2y all",55,,5,,9.1,13
+47,Tennessee,TN,Public,2-year,2008,M,Ai,"2y all",29,,1,,3.4,13
+47,Tennessee,TN,Public,2-year,2008,M,B,"2y all",803,,25,,3.1,13
+47,Tennessee,TN,Public,2-year,2008,M,H,"2y all",92,,9,,9.8,13
+47,Tennessee,TN,Public,2-year,2008,M,W,"2y all",3753,,442,,11.8,13
+47,Tennessee,TN,Public,2-year,2008,M,X,"2y all",4862,,503,,10.3,13
+47,Tennessee,TN,Public,2-year,2009,B,A,"2y all",134,,12,,9.0,13
+47,Tennessee,TN,Public,2-year,2009,B,Ai,"2y all",48,,3,,6.3,13
+47,Tennessee,TN,Public,2-year,2009,B,B,"2y all",2289,,63,,2.8,13
+47,Tennessee,TN,Public,2-year,2009,B,H,"2y all",217,,25,,11.5,13
+47,Tennessee,TN,Public,2-year,2009,B,W,"2y all",9219,,1185,,12.9,13
+47,Tennessee,TN,Public,2-year,2009,B,X,"2y all",12122,538,1313,4.4,10.8,13
+47,Tennessee,TN,Public,2-year,2009,F,A,"2y all",66,,7,,10.6,13
+47,Tennessee,TN,Public,2-year,2009,F,Ai,"2y all",19,,2,,10.5,13
+47,Tennessee,TN,Public,2-year,2009,F,B,"2y all",1406,,39,,2.8,13
+47,Tennessee,TN,Public,2-year,2009,F,H,"2y all",122,,18,,14.8,13
+47,Tennessee,TN,Public,2-year,2009,F,W,"2y all",5291,,721,,13.6,13
+47,Tennessee,TN,Public,2-year,2009,F,X,"2y all",7029,,805,,11.5,13
+47,Tennessee,TN,Public,2-year,2009,M,A,"2y all",68,,5,,7.4,13
+47,Tennessee,TN,Public,2-year,2009,M,Ai,"2y all",29,,1,,3.4,13
+47,Tennessee,TN,Public,2-year,2009,M,B,"2y all",883,,24,,2.7,13
+47,Tennessee,TN,Public,2-year,2009,M,H,"2y all",95,,7,,7.4,13
+47,Tennessee,TN,Public,2-year,2009,M,W,"2y all",3928,,464,,11.8,13
+47,Tennessee,TN,Public,2-year,2009,M,X,"2y all",5093,,508,,10.0,13
+47,Tennessee,TN,Public,2-year,2010,B,A,"2y all",127,,10,,7.9,13
+47,Tennessee,TN,Public,2-year,2010,B,Ai,"2y all",47,,5,,10.6,13
+47,Tennessee,TN,Public,2-year,2010,B,B,"2y all",2062,,88,,4.3,13
+47,Tennessee,TN,Public,2-year,2010,B,H,"2y all",202,,22,,10.9,13
+47,Tennessee,TN,Public,2-year,2010,B,W,"2y all",9049,,1172,,13.0,13
+47,Tennessee,TN,Public,2-year,2010,B,X,"2y all",11933,955,1353,8.0,11.3,13
+47,Tennessee,TN,Public,2-year,2010,F,A,"2y all",62,,7,,11.3,13
+47,Tennessee,TN,Public,2-year,2010,F,Ai,"2y all",23,,3,,13.0,13
+47,Tennessee,TN,Public,2-year,2010,F,B,"2y all",1247,,60,,4.8,13
+47,Tennessee,TN,Public,2-year,2010,F,H,"2y all",112,,12,,10.7,13
+47,Tennessee,TN,Public,2-year,2010,F,W,"2y all",5061,,727,,14.4,13
+47,Tennessee,TN,Public,2-year,2010,F,X,"2y all",6743,,837,,12.4,13
+47,Tennessee,TN,Public,2-year,2010,M,A,"2y all",65,,3,,4.6,13
+47,Tennessee,TN,Public,2-year,2010,M,Ai,"2y all",24,,2,,8.3,13
+47,Tennessee,TN,Public,2-year,2010,M,B,"2y all",815,,28,,3.4,13
+47,Tennessee,TN,Public,2-year,2010,M,H,"2y all",90,,10,,11.1,13
+47,Tennessee,TN,Public,2-year,2010,M,W,"2y all",3988,,445,,11.2,13
+47,Tennessee,TN,Public,2-year,2010,M,X,"2y all",5190,,516,,9.9,13
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,A,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,A,"4y other",8,,4,,50.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,Ai,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,Ai,"4y other",1,,1,,100.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,B,"4y bach",12,1,2,8.3,16.7,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,B,"4y other",226,,98,,43.4,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,H,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,H,"4y other",10,,4,,40.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,W,"4y bach",45,4,9,8.9,20.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,W,"4y other",314,,177,,56.4,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,X,"4y bach",57,5,11,8.8,19.3,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,B,X,"4y other",566,,290,,51.2,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,A,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,A,"4y other",2,,1,,50.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,Ai,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,Ai,"4y other",1,,1,,100.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,B,"4y bach",10,1,2,10.0,20.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,B,"4y other",94,,49,,52.1,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,H,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,H,"4y other",4,,3,,75.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,W,"4y bach",30,3,6,10.0,20.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,W,"4y other",88,,60,,68.2,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,X,"4y bach",40,4,8,10.0,20.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,F,X,"4y other",189,,114,,60.3,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,A,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,A,"4y other",6,,3,,50.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,Ai,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,Ai,"4y other",0,,0,,,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,B,"4y bach",2,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,B,"4y other",132,,49,,37.1,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,H,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,H,"4y other",6,,1,,16.7,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,W,"4y bach",15,1,3,6.7,20.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,W,"4y other",226,,117,,51.8,8
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,X,"4y bach",17,1,3,5.9,17.6,1
+47,Tennessee,TN,"Private for-profit",4-year,2002,M,X,"4y other",377,,176,,46.7,8
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,A,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,A,"4y other",7,,4,,57.1,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,Ai,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,Ai,"4y other",1,,0,,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,B,"4y bach",20,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,B,"4y other",315,,206,,65.4,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,H,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,H,"4y other",14,,5,,35.7,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,W,"4y bach",31,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,W,"4y other",369,,168,,45.5,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,X,"4y bach",51,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,B,X,"4y other",720,,387,,53.8,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,A,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,A,"4y other",1,,0,,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,Ai,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,Ai,"4y other",0,,0,,,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,B,"4y bach",13,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,B,"4y other",134,,90,,67.2,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,H,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,H,"4y other",5,,2,,40.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,W,"4y bach",21,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,W,"4y other",118,,43,,36.4,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,X,"4y bach",34,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,F,X,"4y other",265,,137,,51.7,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,A,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,A,"4y other",6,,4,,66.7,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,Ai,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,Ai,"4y other",1,,0,,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,B,"4y bach",7,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,B,"4y other",181,,116,,64.1,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,H,"4y bach",0,0,0,,,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,H,"4y other",9,,3,,33.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,W,"4y bach",10,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,W,"4y other",251,,125,,49.8,10
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,X,"4y bach",17,0,0,0.0,0.0,1
+47,Tennessee,TN,"Private for-profit",4-year,2003,M,X,"4y other",455,,250,,54.9,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,A,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,A,"4y other",10,,3,,30.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,Ai,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,Ai,"4y other",3,,0,,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,B,"4y bach",36,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,B,"4y other",258,,136,,52.7,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,H,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,H,"4y other",14,,9,,64.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,W,"4y bach",25,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,W,"4y other",438,,215,,49.1,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,X,"4y bach",63,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,B,X,"4y other",729,,367,,50.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,A,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,A,"4y other",2,,1,,50.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,Ai,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,Ai,"4y other",3,,0,,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,B,"4y bach",21,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,B,"4y other",126,,68,,54.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,H,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,H,"4y other",5,,2,,40.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,W,"4y bach",14,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,W,"4y other",159,,68,,42.8,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,X,"4y bach",35,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,F,X,"4y other",298,,141,,47.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,A,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,A,"4y other",8,,2,,25.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,Ai,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,Ai,"4y other",0,,0,,,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,B,"4y bach",15,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,B,"4y other",132,,68,,51.5,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,H,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,H,"4y other",9,,7,,77.8,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,W,"4y bach",11,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,W,"4y other",279,,147,,52.7,10
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,X,"4y bach",28,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2004,M,X,"4y other",431,,226,,52.4,10
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,A,"4y bach",1,0,1,0.0,100.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,A,"4y other",4,,3,,75.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,Ai,"4y bach",1,0,0,0.0,0.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,Ai,"4y other",5,,2,,40.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,B,"4y bach",49,17,19,34.7,38.8,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,B,"4y other",800,,294,,36.8,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,H,"4y bach",0,0,0,,,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,H,"4y other",20,,5,,25.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,W,"4y bach",70,3,7,4.3,10.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,W,"4y other",472,,207,,43.9,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,X,"4y bach",124,20,28,16.1,22.6,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,B,X,"4y other",1338,,517,,38.6,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,A,"4y bach",1,0,1,0.0,100.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,A,"4y other",3,,2,,66.7,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,Ai,"4y bach",0,0,0,,,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,Ai,"4y other",3,,1,,33.3,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,B,"4y bach",31,8,9,25.8,29.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,B,"4y other",447,,156,,34.9,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,H,"4y bach",0,0,0,,,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,H,"4y other",14,,2,,14.3,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,W,"4y bach",21,2,5,9.5,23.8,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,W,"4y other",192,,82,,42.7,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,X,"4y bach",53,10,15,18.9,28.3,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,F,X,"4y other",667,,246,,36.9,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,A,"4y bach",0,0,0,,,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,A,"4y other",1,,1,,100.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,Ai,"4y bach",1,0,0,0.0,0.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,Ai,"4y other",2,,1,,50.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,B,"4y bach",18,9,10,50.0,55.6,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,B,"4y other",353,,138,,39.1,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,H,"4y bach",0,0,0,,,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,H,"4y other",6,,3,,50.0,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,W,"4y bach",49,1,2,2.0,4.1,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,W,"4y other",280,,125,,44.6,8
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,X,"4y bach",71,10,13,14.1,18.3,3
+47,Tennessee,TN,"Private for-profit",4-year,2005,M,X,"4y other",671,,271,,40.4,8
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,A,"4y bach",1,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,A,"4y other",8,,3,,37.5,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,Ai,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,Ai,"4y other",2,,1,,50.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,B,"4y bach",32,7,10,21.9,31.3,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,B,"4y other",547,,266,,48.6,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,H,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,H,"4y other",21,,8,,38.1,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,W,"4y bach",30,2,7,6.7,23.3,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,W,"4y other",520,,230,,44.2,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,X,"4y bach",65,9,17,13.8,26.2,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,B,X,"4y other",1121,,516,,46.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,A,"4y bach",1,0,0,0.0,0.0,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,A,"4y other",3,,1,,33.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,Ai,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,Ai,"4y other",0,,0,,,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,B,"4y bach",21,3,6,14.3,28.6,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,B,"4y other",300,,147,,49.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,H,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,H,"4y other",15,,6,,40.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,W,"4y bach",16,2,5,12.5,31.3,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,W,"4y other",238,,100,,42.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,X,"4y bach",38,5,11,13.2,28.9,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,F,X,"4y other",566,,257,,45.4,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,A,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,A,"4y other",5,,2,,40.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,Ai,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,Ai,"4y other",2,,1,,50.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,B,"4y bach",11,4,4,36.4,36.4,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,B,"4y other",247,,119,,48.2,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,H,"4y bach",0,0,0,,,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,H,"4y other",6,,2,,33.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,W,"4y bach",14,0,2,0.0,14.3,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,W,"4y other",282,,130,,46.1,10
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,X,"4y bach",27,4,6,14.8,22.2,2
+47,Tennessee,TN,"Private for-profit",4-year,2006,M,X,"4y other",555,,259,,46.7,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,A,"4y bach",0,0,0,,,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,A,"4y other",11,,7,,63.6,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,Ai,"4y bach",0,0,0,,,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,Ai,"4y other",2,,0,,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,B,"4y bach",29,5,6,17.2,20.7,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,B,"4y other",726,,413,,56.9,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,H,"4y bach",3,2,2,66.7,66.7,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,H,"4y other",22,,13,,59.1,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,W,"4y bach",65,30,34,46.2,52.3,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,W,"4y other",631,,320,,50.7,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,X,"4y bach",105,39,44,37.1,41.9,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,B,X,"4y other",1441,,763,,52.9,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,A,"4y bach",0,0,0,,,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,A,"4y other",7,,3,,42.9,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,Ai,"4y bach",0,0,0,,,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,Ai,"4y other",2,,0,,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,B,"4y bach",16,3,4,18.8,25.0,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,B,"4y other",456,,294,,64.5,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,H,"4y bach",1,0,0,0.0,0.0,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,H,"4y other",16,,11,,68.8,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,W,"4y bach",15,6,8,40.0,53.3,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,W,"4y other",247,,119,,48.2,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,X,"4y bach",35,9,12,25.7,34.3,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,F,X,"4y other",743,,432,,58.1,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,A,"4y bach",0,0,0,,,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,A,"4y other",4,,4,,100.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,Ai,"4y bach",0,0,0,,,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,Ai,"4y other",0,,0,,,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,B,"4y bach",13,2,2,15.4,15.4,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,B,"4y other",270,,119,,44.1,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,H,"4y bach",2,2,2,100.0,100.0,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,H,"4y other",6,,2,,33.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,W,"4y bach",50,24,26,48.0,52.0,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,W,"4y other",384,,201,,52.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,X,"4y bach",70,30,32,42.9,45.7,5
+47,Tennessee,TN,"Private for-profit",4-year,2007,M,X,"4y other",698,,331,,47.4,10
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,A,"4y bach",2,0,0,0.0,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,A,"4y other",19,,11,,57.9,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,Ai,"4y bach",1,0,0,0.0,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,Ai,"4y other",5,,2,,40.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,B,"4y bach",74,0,6,0.0,8.1,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,B,"4y other",806,,449,,55.7,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,H,"4y bach",3,0,0,0.0,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,H,"4y other",26,,9,,34.6,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,W,"4y bach",167,16,21,9.6,12.6,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,W,"4y other",533,,253,,47.5,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,X,"4y bach",272,16,28,5.9,10.3,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,B,X,"4y other",1406,,731,,52.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,A,"4y bach",0,0,0,,,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,A,"4y other",7,,4,,57.1,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,Ai,"4y bach",1,0,0,0.0,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,Ai,"4y other",2,,1,,50.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,B,"4y bach",39,0,5,0.0,12.8,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,B,"4y other",612,,367,,60.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,H,"4y bach",2,0,0,0.0,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,H,"4y other",18,,8,,44.4,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,W,"4y bach",76,4,5,5.3,6.6,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,W,"4y other",284,,137,,48.2,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,X,"4y bach",137,4,11,2.9,8.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,F,X,"4y other",928,,519,,55.9,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,A,"4y bach",2,0,0,0.0,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,A,"4y other",12,,7,,58.3,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,Ai,"4y bach",0,0,0,,,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,Ai,"4y other",3,,1,,33.3,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,B,"4y bach",35,0,1,0.0,2.9,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,B,"4y other",194,,82,,42.3,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,H,"4y bach",1,0,0,0.0,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,H,"4y other",8,,1,,12.5,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,W,"4y bach",91,12,16,13.2,17.6,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,W,"4y other",249,,116,,46.6,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,X,"4y bach",135,12,17,8.9,12.6,9
+47,Tennessee,TN,"Private for-profit",4-year,2008,M,X,"4y other",478,,212,,44.4,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,A,"4y bach",2,0,1,0.0,50.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,A,"4y other",6,,2,,33.3,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,Ai,"4y bach",1,0,1,0.0,100.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,Ai,"4y other",2,,1,,50.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,B,"4y bach",153,9,20,5.9,13.1,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,B,"4y other",134,,60,,44.8,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,H,"4y bach",9,1,1,11.1,11.1,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,H,"4y other",7,,2,,28.6,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,W,"4y bach",151,10,21,6.6,13.9,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,W,"4y other",171,,82,,48.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,X,"4y bach",345,20,45,5.8,13.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,B,X,"4y other",326,112,148,34.4,45.4,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,A,"4y bach",1,0,0,0.0,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,A,"4y other",6,,2,,33.3,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,Ai,"4y bach",0,0,0,,,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,Ai,"4y other",2,,1,,50.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,B,"4y bach",105,7,16,6.7,15.2,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,B,"4y other",95,,42,,44.2,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,H,"4y bach",4,0,0,0.0,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,H,"4y other",6,,2,,33.3,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,W,"4y bach",71,7,14,9.9,19.7,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,W,"4y other",144,,62,,43.1,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,X,"4y bach",196,14,31,7.1,15.8,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,F,X,"4y other",259,,110,,42.5,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,A,"4y bach",1,0,1,0.0,100.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,A,"4y other",0,,0,,,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,Ai,"4y bach",1,0,1,0.0,100.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,Ai,"4y other",0,,0,,,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,B,"4y bach",48,2,4,4.2,8.3,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,B,"4y other",39,,18,,46.2,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,H,"4y bach",5,1,1,20.0,20.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,H,"4y other",1,,0,,0.0,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,W,"4y bach",80,3,7,3.8,8.8,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,W,"4y other",27,,20,,74.1,3
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,X,"4y bach",149,6,14,4.0,9.4,9
+47,Tennessee,TN,"Private for-profit",4-year,2009,M,X,"4y other",67,,38,,56.7,3
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,A,"4y bach",5,0,0,0.0,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,A,"4y other",8,,4,,50.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,Ai,"4y bach",3,0,0,0.0,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,Ai,"4y other",4,,1,,25.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,B,"4y bach",164,3,21,1.8,12.8,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,B,"4y other",1205,,492,,40.8,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,H,"4y bach",10,2,3,20.0,30.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,H,"4y other",21,,7,,33.3,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,W,"4y bach",236,16,39,6.8,16.5,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,W,"4y other",455,,169,,37.1,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,X,"4y bach",453,22,65,4.9,14.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,B,X,"4y other",1699,,675,,39.7,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,A,"4y bach",3,0,0,0.0,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,A,"4y other",2,,1,,50.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,Ai,"4y bach",2,0,0,0.0,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,Ai,"4y other",2,,0,,0.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,B,"4y bach",109,1,13,0.9,11.9,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,B,"4y other",879,,384,,43.7,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,H,"4y bach",6,1,2,16.7,33.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,H,"4y other",13,,6,,46.2,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,W,"4y bach",109,4,19,3.7,17.4,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,W,"4y other",254,,99,,39.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,X,"4y bach",250,7,36,2.8,14.4,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,F,X,"4y other",1155,,491,,42.5,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,A,"4y bach",2,0,0,0.0,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,A,"4y other",6,,3,,50.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,Ai,"4y bach",1,0,0,0.0,0.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,Ai,"4y other",2,,1,,50.0,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,B,"4y bach",55,2,8,3.6,14.5,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,B,"4y other",326,,108,,33.1,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,H,"4y bach",4,1,1,25.0,25.0,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,H,"4y other",8,,1,,12.5,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,W,"4y bach",127,12,20,9.4,15.7,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,W,"4y other",201,,70,,34.8,9
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,X,"4y bach",203,15,29,7.4,14.3,10
+47,Tennessee,TN,"Private for-profit",4-year,2010,M,X,"4y other",544,,184,,33.8,9
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,A,"4y bach",146,24,112,16.4,76.7,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,A,"4y other",11,,6,,54.5,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,Ai,"4y bach",25,5,13,20.0,52.0,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,Ai,"4y other",3,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,B,"4y bach",1064,211,385,19.8,36.2,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,B,"4y other",57,,8,,14.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,H,"4y bach",116,18,76,15.5,65.5,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,H,"4y other",31,,19,,61.3,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,W,"4y bach",6337,2056,3748,32.4,59.1,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,W,"4y other",898,,459,,51.1,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,X,"4y bach",8061,2374,4560,29.5,56.6,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,B,X,"4y other",1033,,500,,48.4,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,A,"4y bach",63,11,45,17.5,71.4,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,A,"4y other",8,,5,,62.5,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,Ai,"4y bach",11,2,6,18.2,54.5,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,Ai,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,B,"4y bach",602,148,241,24.6,40.0,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,B,"4y other",32,,3,,9.4,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,H,"4y bach",56,12,41,21.4,73.2,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,H,"4y other",22,,17,,77.3,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,W,"4y bach",3557,1285,2148,36.1,60.4,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,W,"4y other",535,,232,,43.4,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,X,"4y bach",4457,1491,2595,33.5,58.2,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,F,X,"4y other",616,,261,,42.4,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,A,"4y bach",83,13,67,15.7,80.7,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,A,"4y other",3,,1,,33.3,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,Ai,"4y bach",14,3,7,21.4,50.0,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,Ai,"4y other",3,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,B,"4y bach",462,63,144,13.6,31.2,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,B,"4y other",25,,5,,20.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,H,"4y bach",60,6,35,10.0,58.3,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,H,"4y other",9,,2,,22.2,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,W,"4y bach",2780,771,1600,27.7,57.6,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,W,"4y other",363,,227,,62.5,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,X,"4y bach",3604,883,1965,24.5,54.5,33
+47,Tennessee,TN,"Private not-for-profit",4-year,2002,M,X,"4y other",417,,239,,57.3,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,A,"4y bach",134,67,83,50.0,61.9,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,A,"4y other",6,,2,,33.3,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,Ai,"4y bach",13,5,6,38.5,46.2,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,Ai,"4y other",0,,0,,,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,B,"4y bach",833,214,374,25.7,44.9,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,B,"4y other",32,,13,,40.6,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,H,"4y bach",121,53,75,43.8,62.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,H,"4y other",10,,2,,20.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,W,"4y bach",6834,3082,4010,45.1,58.7,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,W,"4y other",228,,67,,29.4,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,X,"4y bach",8330,3595,4768,43.2,57.2,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,B,X,"4y other",281,,85,,30.2,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,A,"4y bach",69,34,45,49.3,65.2,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,A,"4y other",4,,1,,25.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,Ai,"4y bach",8,3,4,37.5,50.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,Ai,"4y other",0,,0,,,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,B,"4y bach",451,145,241,32.2,53.4,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,B,"4y other",19,,7,,36.8,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,H,"4y bach",65,28,39,43.1,60.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,H,"4y other",8,,1,,12.5,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,W,"4y bach",3850,1879,2350,48.8,61.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,W,"4y other",126,,38,,30.2,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,X,"4y bach",4611,2174,2776,47.1,60.2,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,F,X,"4y other",159,,47,,29.6,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,A,"4y bach",65,33,38,50.8,58.5,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,A,"4y other",2,,1,,50.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,Ai,"4y bach",5,2,2,40.0,40.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,Ai,"4y other",0,,0,,,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,B,"4y bach",382,69,133,18.1,34.8,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,B,"4y other",13,,6,,46.2,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,H,"4y bach",56,25,36,44.6,64.3,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,H,"4y other",2,,1,,50.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,W,"4y bach",2984,1203,1660,40.3,55.6,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,W,"4y other",102,,29,,28.4,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,X,"4y bach",3719,1421,1992,38.2,53.6,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2003,M,X,"4y other",122,,38,,31.1,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,A,"4y bach",167,102,122,61.1,73.1,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,A,"4y other",3,,1,,33.3,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,Ai,"4y bach",28,10,15,35.7,53.6,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,Ai,"4y other",2,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,B,"4y bach",998,278,407,27.9,40.8,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,B,"4y other",25,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,H,"4y bach",174,72,97,41.4,55.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,H,"4y other",5,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,W,"4y bach",7053,3256,4206,46.2,59.6,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,W,"4y other",185,,72,,38.9,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,X,"4y bach",8849,3905,5079,44.1,57.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,B,X,"4y other",237,,79,,33.3,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,A,"4y bach",89,58,67,65.2,75.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,A,"4y other",2,,1,,50.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,Ai,"4y bach",9,3,4,33.3,44.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,Ai,"4y other",1,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,B,"4y bach",524,190,254,36.3,48.5,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,B,"4y other",11,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,H,"4y bach",103,44,56,42.7,54.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,H,"4y other",2,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,W,"4y bach",3953,1964,2433,49.7,61.5,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,W,"4y other",106,,46,,43.4,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,X,"4y bach",4880,2355,2921,48.3,59.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,F,X,"4y other",128,,50,,39.1,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,A,"4y bach",78,44,55,56.4,70.5,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,A,"4y other",1,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,Ai,"4y bach",19,7,11,36.8,57.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,Ai,"4y other",1,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,B,"4y bach",474,88,153,18.6,32.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,B,"4y other",14,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,H,"4y bach",71,28,41,39.4,57.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,H,"4y other",3,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,W,"4y bach",3100,1292,1773,41.7,57.2,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,W,"4y other",79,,26,,32.9,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,X,"4y bach",3969,1550,2158,39.1,54.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2004,M,X,"4y other",109,,29,,26.6,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,A,"4y bach",186,130,146,69.9,78.5,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,A,"4y other",2,,1,,50.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,Ai,"4y bach",29,8,12,27.6,41.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,Ai,"4y other",3,,1,,33.3,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,B,"4y bach",1186,292,447,24.6,37.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,B,"4y other",50,,12,,24.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,H,"4y bach",168,79,100,47.0,59.5,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,H,"4y other",5,,1,,20.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,W,"4y bach",7307,3579,4465,49.0,61.1,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,W,"4y other",201,,51,,25.4,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,X,"4y bach",9294,4277,5404,46.0,58.1,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,B,X,"4y other",279,,72,,25.8,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,A,"4y bach",93,71,74,76.3,79.6,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,A,"4y other",0,,0,,,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,Ai,"4y bach",20,8,12,40.0,60.0,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,Ai,"4y other",1,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,B,"4y bach",695,193,281,27.8,40.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,B,"4y other",21,,7,,33.3,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,H,"4y bach",91,41,54,45.1,59.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,H,"4y other",2,,0,,0.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,W,"4y bach",4181,2181,2634,52.2,63.0,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,W,"4y other",120,,30,,25.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,X,"4y bach",5289,2592,3169,49.0,59.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,F,X,"4y other",148,,39,,26.4,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,A,"4y bach",93,59,72,63.4,77.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,A,"4y other",2,,1,,50.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,Ai,"4y bach",9,0,0,0.0,0.0,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,Ai,"4y other",2,,1,,50.0,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,B,"4y bach",491,99,166,20.2,33.8,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,B,"4y other",29,,5,,17.2,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,H,"4y bach",77,38,46,49.4,59.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,H,"4y other",3,,1,,33.3,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,W,"4y bach",3126,1398,1831,44.7,58.6,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,W,"4y other",81,,21,,25.9,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,X,"4y bach",4005,1685,2235,42.1,55.8,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2005,M,X,"4y other",131,,33,,25.2,8
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,A,"4y bach",184,112,133,60.9,72.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,A,"4y other",1,,0,,0.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,Ai,"4y bach",51,10,20,19.6,39.2,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,Ai,"4y other",0,,0,,,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,B,"4y bach",1141,201,487,17.6,42.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,B,"4y other",35,,3,,8.6,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,H,"4y bach",193,81,107,42.0,55.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,H,"4y other",8,,2,,25.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,W,"4y bach",7458,3591,4491,48.1,60.2,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,W,"4y other",235,,75,,31.9,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,X,"4y bach",9516,4219,5518,44.3,58.0,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,B,X,"4y other",300,,88,,29.3,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,A,"4y bach",86,54,64,62.8,74.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,A,"4y other",1,,0,,0.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,Ai,"4y bach",25,7,12,28.0,48.0,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,Ai,"4y other",0,,0,,,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,B,"4y bach",650,135,318,20.8,48.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,B,"4y other",22,,2,,9.1,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,H,"4y bach",103,50,65,48.5,63.1,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,H,"4y other",5,,2,,40.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,W,"4y bach",4242,2175,2598,51.3,61.2,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,W,"4y other",157,,54,,34.4,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,X,"4y bach",5336,2531,3191,47.4,59.8,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,F,X,"4y other",196,,62,,31.6,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,A,"4y bach",98,58,69,59.2,70.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,A,"4y other",0,,0,,,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,Ai,"4y bach",26,3,8,11.5,30.8,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,Ai,"4y other",0,,0,,,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,B,"4y bach",491,66,169,13.4,34.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,B,"4y other",13,,1,,7.7,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,H,"4y bach",90,31,42,34.4,46.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,H,"4y other",3,,0,,0.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,W,"4y bach",3216,1416,1893,44.0,58.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,W,"4y other",78,,21,,26.9,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,X,"4y bach",4180,1688,2327,40.4,55.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2006,M,X,"4y other",104,,26,,25.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,A,"4y bach",204,124,149,60.8,73.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,A,"4y other",0,,0,,,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,Ai,"4y bach",29,9,11,31.0,37.9,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,Ai,"4y other",4,,0,,0.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,B,"4y bach",1105,247,453,22.4,41.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,B,"4y other",21,,1,,4.8,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,H,"4y bach",177,90,100,50.8,56.5,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,H,"4y other",2,,0,,0.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,W,"4y bach",7207,3529,4509,49.0,62.6,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,W,"4y other",137,,38,,27.7,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,X,"4y bach",9145,4179,5462,45.7,59.7,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,B,X,"4y other",190,,56,,29.5,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,A,"4y bach",118,77,90,65.3,76.3,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,A,"4y other",0,,0,,,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,Ai,"4y bach",14,4,5,28.6,35.7,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,Ai,"4y other",3,,0,,0.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,B,"4y bach",577,166,271,28.8,47.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,B,"4y other",8,,0,,0.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,H,"4y bach",101,51,57,50.5,56.4,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,H,"4y other",0,,0,,,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,W,"4y bach",4112,2111,2674,51.3,65.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,W,"4y other",70,,20,,28.6,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,X,"4y bach",5113,2490,3201,48.7,62.6,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,F,X,"4y other",96,,29,,30.2,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,A,"4y bach",86,47,59,54.7,68.6,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,A,"4y other",0,,0,,,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,Ai,"4y bach",15,5,6,33.3,40.0,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,Ai,"4y other",1,,0,,0.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,B,"4y bach",528,81,182,15.3,34.5,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,B,"4y other",13,,1,,7.7,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,H,"4y bach",76,39,43,51.3,56.6,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,H,"4y other",2,,0,,0.0,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,W,"4y bach",3095,1418,1835,45.8,59.3,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,W,"4y other",67,,18,,26.9,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,X,"4y bach",4032,1689,2261,41.9,56.1,34
+47,Tennessee,TN,"Private not-for-profit",4-year,2007,M,X,"4y other",94,,27,,28.7,5
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,A,"4y bach",209,129,151,61.7,72.2,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,A,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,Ai,"4y bach",40,14,20,35.0,50.0,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,Ai,"4y other",1,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,B,"4y bach",1161,314,501,27.0,43.2,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,B,"4y other",34,,1,,2.9,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,H,"4y bach",209,84,113,40.2,54.1,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,H,"4y other",1,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,W,"4y bach",7167,3534,4462,49.3,62.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,W,"4y other",196,,59,,30.1,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,X,"4y bach",9263,4291,5522,46.3,59.6,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,B,X,"4y other",248,,62,,25.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,A,"4y bach",96,60,70,62.5,72.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,A,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,Ai,"4y bach",23,11,14,47.8,60.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,Ai,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,B,"4y bach",615,205,300,33.3,48.8,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,B,"4y other",12,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,H,"4y bach",116,47,57,40.5,49.1,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,H,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,W,"4y bach",4105,2174,2644,53.0,64.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,W,"4y other",124,,35,,28.2,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,X,"4y bach",5170,2601,3214,50.3,62.2,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,F,X,"4y other",142,,36,,25.4,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,A,"4y bach",113,69,81,61.1,71.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,A,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,Ai,"4y bach",17,3,6,17.6,35.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,Ai,"4y other",1,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,B,"4y bach",546,109,201,20.0,36.8,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,B,"4y other",22,,1,,4.5,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,H,"4y bach",93,37,56,39.8,60.2,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,H,"4y other",1,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,W,"4y bach",3062,1360,1818,44.4,59.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,W,"4y other",72,,24,,33.3,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,X,"4y bach",4093,1690,2308,41.3,56.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2008,M,X,"4y other",106,,26,,24.5,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,B,A,"4y bach",202,118,153,58.4,75.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,B,Ai,"4y bach",24,9,14,37.5,58.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,B,B,"4y bach",1216,293,470,24.1,38.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,B,H,"4y bach",230,98,140,42.6,60.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,B,W,"4y bach",7112,3405,4366,47.9,61.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,B,X,"4y bach",9269,4136,5415,44.6,58.4,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,F,A,"4y bach",114,69,91,60.5,79.8,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,F,Ai,"4y bach",15,8,11,53.3,73.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,F,B,"4y bach",691,211,310,30.5,44.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,F,H,"4y bach",121,52,65,43.0,53.7,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,F,W,"4y bach",4106,2090,2584,50.9,62.9,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,F,X,"4y bach",5300,2552,3211,48.2,60.6,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,M,A,"4y bach",88,49,62,55.7,70.5,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,M,Ai,"4y bach",9,1,3,11.1,33.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,M,B,"4y bach",525,82,160,15.6,30.5,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,M,H,"4y bach",109,46,75,42.2,68.8,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,M,W,"4y bach",3006,1315,1782,43.7,59.3,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2009,M,X,"4y bach",3969,1584,2204,39.9,55.5,35
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,A,"4y bach",226,137,161,60.6,71.2,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,A,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,Ai,"4y bach",26,9,13,34.6,50.0,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,Ai,"4y other",4,,2,,50.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,B,"4y bach",1334,373,528,28.0,39.6,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,B,"4y other",18,,2,,11.1,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,H,"4y bach",245,105,152,42.9,62.0,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,H,"4y other",2,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,W,"4y bach",7579,3757,4652,49.6,61.4,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,W,"4y other",107,,41,,38.3,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,X,"4y bach",10058,4674,5859,46.5,58.3,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,B,X,"4y other",150,,50,,33.3,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,A,"4y bach",116,73,85,62.9,73.3,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,A,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,Ai,"4y bach",15,5,8,33.3,53.3,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,Ai,"4y other",3,,1,,33.3,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,B,"4y bach",629,240,293,38.2,46.6,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,B,"4y other",3,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,H,"4y bach",126,58,81,46.0,64.3,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,H,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,W,"4y bach",4250,2206,2693,51.9,63.4,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,W,"4y other",55,,22,,40.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,X,"4y bach",5450,2735,3341,50.2,61.3,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,F,X,"4y other",77,,28,,36.4,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,A,"4y bach",110,64,76,58.2,69.1,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,A,"4y other",0,,0,,,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,Ai,"4y bach",11,4,5,36.4,45.5,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,Ai,"4y other",1,,1,,100.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,B,"4y bach",705,133,235,18.9,33.3,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,B,"4y other",15,,2,,13.3,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,H,"4y bach",119,47,71,39.5,59.7,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,H,"4y other",2,,0,,0.0,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,W,"4y bach",3329,1551,1959,46.6,58.8,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,W,"4y other",52,,19,,36.5,7
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,X,"4y bach",4608,1939,2518,42.1,54.6,36
+47,Tennessee,TN,"Private not-for-profit",4-year,2010,M,X,"4y other",73,,22,,30.1,7
+47,Tennessee,TN,Public,4-year,2002,B,A,"4y bach",228,68,121,29.8,53.1,9
+47,Tennessee,TN,Public,4-year,2002,B,A,"4y other",1,,1,,100.0,5
+47,Tennessee,TN,Public,4-year,2002,B,Ai,"4y bach",56,3,12,5.4,21.4,9
+47,Tennessee,TN,Public,4-year,2002,B,Ai,"4y other",0,,0,,,5
+47,Tennessee,TN,Public,4-year,2002,B,B,"4y bach",2431,470,992,19.3,40.8,9
+47,Tennessee,TN,Public,4-year,2002,B,B,"4y other",20,,1,,5.0,5
+47,Tennessee,TN,Public,4-year,2002,B,H,"4y bach",116,27,42,23.3,36.2,9
+47,Tennessee,TN,Public,4-year,2002,B,H,"4y other",1,,1,,100.0,5
+47,Tennessee,TN,Public,4-year,2002,B,W,"4y bach",10755,2339,4845,21.7,45.0,9
+47,Tennessee,TN,Public,4-year,2002,B,W,"4y other",91,,21,,23.1,5
+47,Tennessee,TN,Public,4-year,2002,B,X,"4y bach",13713,2925,6063,21.3,44.2,9
+47,Tennessee,TN,Public,4-year,2002,B,X,"4y other",122,,25,,20.5,5
+47,Tennessee,TN,Public,4-year,2002,F,A,"4y bach",128,54,76,42.2,59.4,9
+47,Tennessee,TN,Public,4-year,2002,F,A,"4y other",1,,1,,100.0,5
+47,Tennessee,TN,Public,4-year,2002,F,Ai,"4y bach",26,3,6,11.5,23.1,9
+47,Tennessee,TN,Public,4-year,2002,F,Ai,"4y other",0,,0,,,5
+47,Tennessee,TN,Public,4-year,2002,F,B,"4y bach",1523,366,709,24.0,46.6,9
+47,Tennessee,TN,Public,4-year,2002,F,B,"4y other",14,,1,,7.1,5
+47,Tennessee,TN,Public,4-year,2002,F,H,"4y bach",59,18,28,30.5,47.5,9
+47,Tennessee,TN,Public,4-year,2002,F,H,"4y other",1,,1,,100.0,5
+47,Tennessee,TN,Public,4-year,2002,F,W,"4y bach",5755,1578,2810,27.4,48.8,9
+47,Tennessee,TN,Public,4-year,2002,F,W,"4y other",73,,18,,24.7,5
+47,Tennessee,TN,Public,4-year,2002,F,X,"4y bach",7544,2033,3654,26.9,48.4,9
+47,Tennessee,TN,Public,4-year,2002,F,X,"4y other",92,,22,,23.9,5
+47,Tennessee,TN,Public,4-year,2002,M,A,"4y bach",100,14,45,14.0,45.0,9
+47,Tennessee,TN,Public,4-year,2002,M,A,"4y other",0,,0,,,5
+47,Tennessee,TN,Public,4-year,2002,M,Ai,"4y bach",30,0,6,0.0,20.0,9
+47,Tennessee,TN,Public,4-year,2002,M,Ai,"4y other",0,,0,,,5
+47,Tennessee,TN,Public,4-year,2002,M,B,"4y bach",908,104,283,11.5,31.2,9
+47,Tennessee,TN,Public,4-year,2002,M,B,"4y other",6,,0,,0.0,5
+47,Tennessee,TN,Public,4-year,2002,M,H,"4y bach",57,9,14,15.8,24.6,9
+47,Tennessee,TN,Public,4-year,2002,M,H,"4y other",0,,0,,,5
+47,Tennessee,TN,Public,4-year,2002,M,W,"4y bach",5000,761,2035,15.2,40.7,9
+47,Tennessee,TN,Public,4-year,2002,M,W,"4y other",18,,3,,16.7,5
+47,Tennessee,TN,Public,4-year,2002,M,X,"4y bach",6169,892,2409,14.5,39.1,9
+47,Tennessee,TN,Public,4-year,2002,M,X,"4y other",30,,3,,10.0,5
+47,Tennessee,TN,Public,4-year,2003,B,A,"4y bach",267,59,126,22.1,47.2,9
+47,Tennessee,TN,Public,4-year,2003,B,A,"4y other",3,,1,,33.3,4
+47,Tennessee,TN,Public,4-year,2003,B,Ai,"4y bach",53,8,19,15.1,35.8,9
+47,Tennessee,TN,Public,4-year,2003,B,Ai,"4y other",2,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2003,B,B,"4y bach",2747,461,1111,16.8,40.4,9
+47,Tennessee,TN,Public,4-year,2003,B,B,"4y other",8,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2003,B,H,"4y bach",145,20,56,13.8,38.6,9
+47,Tennessee,TN,Public,4-year,2003,B,H,"4y other",2,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2003,B,W,"4y bach",11217,1755,5055,15.6,45.1,9
+47,Tennessee,TN,Public,4-year,2003,B,W,"4y other",60,,19,,31.7,4
+47,Tennessee,TN,Public,4-year,2003,B,X,"4y bach",14571,2330,6414,16.0,44.0,9
+47,Tennessee,TN,Public,4-year,2003,B,X,"4y other",77,,20,,26.0,4
+47,Tennessee,TN,Public,4-year,2003,F,A,"4y bach",125,32,64,25.6,51.2,9
+47,Tennessee,TN,Public,4-year,2003,F,A,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2003,F,Ai,"4y bach",26,3,11,11.5,42.3,9
+47,Tennessee,TN,Public,4-year,2003,F,Ai,"4y other",2,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2003,F,B,"4y bach",1743,364,792,20.9,45.4,9
+47,Tennessee,TN,Public,4-year,2003,F,B,"4y other",3,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2003,F,H,"4y bach",73,13,32,17.8,43.8,9
+47,Tennessee,TN,Public,4-year,2003,F,H,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2003,F,W,"4y bach",6027,1164,2909,19.3,48.3,9
+47,Tennessee,TN,Public,4-year,2003,F,W,"4y other",47,,16,,34.0,4
+47,Tennessee,TN,Public,4-year,2003,F,X,"4y bach",8056,1590,3829,19.7,47.5,9
+47,Tennessee,TN,Public,4-year,2003,F,X,"4y other",55,,16,,29.1,4
+47,Tennessee,TN,Public,4-year,2003,M,A,"4y bach",142,27,62,19.0,43.7,9
+47,Tennessee,TN,Public,4-year,2003,M,A,"4y other",2,,1,,50.0,4
+47,Tennessee,TN,Public,4-year,2003,M,Ai,"4y bach",27,5,8,18.5,29.6,9
+47,Tennessee,TN,Public,4-year,2003,M,Ai,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2003,M,B,"4y bach",1004,97,319,9.7,31.8,9
+47,Tennessee,TN,Public,4-year,2003,M,B,"4y other",5,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2003,M,H,"4y bach",72,7,24,9.7,33.3,9
+47,Tennessee,TN,Public,4-year,2003,M,H,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2003,M,W,"4y bach",5190,591,2146,11.4,41.3,9
+47,Tennessee,TN,Public,4-year,2003,M,W,"4y other",13,,3,,23.1,4
+47,Tennessee,TN,Public,4-year,2003,M,X,"4y bach",6515,740,2585,11.4,39.7,9
+47,Tennessee,TN,Public,4-year,2003,M,X,"4y other",22,,4,,18.2,4
+47,Tennessee,TN,Public,4-year,2004,B,A,"4y bach",239,61,120,25.5,50.2,9
+47,Tennessee,TN,Public,4-year,2004,B,A,"4y other",2,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2004,B,Ai,"4y bach",56,8,17,14.3,30.4,9
+47,Tennessee,TN,Public,4-year,2004,B,Ai,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2004,B,B,"4y bach",3013,275,1186,9.1,39.4,9
+47,Tennessee,TN,Public,4-year,2004,B,B,"4y other",9,,3,,33.3,3
+47,Tennessee,TN,Public,4-year,2004,B,H,"4y bach",143,24,57,16.8,39.9,9
+47,Tennessee,TN,Public,4-year,2004,B,H,"4y other",1,,1,,100.0,3
+47,Tennessee,TN,Public,4-year,2004,B,W,"4y bach",11220,2245,4912,20.0,43.8,9
+47,Tennessee,TN,Public,4-year,2004,B,W,"4y other",79,,27,,34.2,3
+47,Tennessee,TN,Public,4-year,2004,B,X,"4y bach",14814,2635,6332,17.8,42.7,9
+47,Tennessee,TN,Public,4-year,2004,B,X,"4y other",98,,34,,34.7,3
+47,Tennessee,TN,Public,4-year,2004,F,A,"4y bach",136,36,70,26.5,51.5,9
+47,Tennessee,TN,Public,4-year,2004,F,A,"4y other",1,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2004,F,Ai,"4y bach",28,2,9,7.1,32.1,9
+47,Tennessee,TN,Public,4-year,2004,F,Ai,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2004,F,B,"4y bach",1929,212,835,11.0,43.3,9
+47,Tennessee,TN,Public,4-year,2004,F,B,"4y other",7,,2,,28.6,3
+47,Tennessee,TN,Public,4-year,2004,F,H,"4y bach",79,19,39,24.1,49.4,9
+47,Tennessee,TN,Public,4-year,2004,F,H,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2004,F,W,"4y bach",6042,1544,2873,25.6,47.6,9
+47,Tennessee,TN,Public,4-year,2004,F,W,"4y other",62,,22,,35.5,3
+47,Tennessee,TN,Public,4-year,2004,F,X,"4y bach",8279,1826,3847,22.1,46.5,9
+47,Tennessee,TN,Public,4-year,2004,F,X,"4y other",74,,26,,35.1,3
+47,Tennessee,TN,Public,4-year,2004,M,A,"4y bach",103,25,50,24.3,48.5,9
+47,Tennessee,TN,Public,4-year,2004,M,A,"4y other",1,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2004,M,Ai,"4y bach",28,6,8,21.4,28.6,9
+47,Tennessee,TN,Public,4-year,2004,M,Ai,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2004,M,B,"4y bach",1084,63,351,5.8,32.4,9
+47,Tennessee,TN,Public,4-year,2004,M,B,"4y other",2,,1,,50.0,3
+47,Tennessee,TN,Public,4-year,2004,M,H,"4y bach",64,5,18,7.8,28.1,9
+47,Tennessee,TN,Public,4-year,2004,M,H,"4y other",1,,1,,100.0,3
+47,Tennessee,TN,Public,4-year,2004,M,W,"4y bach",5178,701,2039,13.5,39.4,9
+47,Tennessee,TN,Public,4-year,2004,M,W,"4y other",17,,5,,29.4,3
+47,Tennessee,TN,Public,4-year,2004,M,X,"4y bach",6535,809,2485,12.4,38.0,9
+47,Tennessee,TN,Public,4-year,2004,M,X,"4y other",24,,8,,33.3,3
+47,Tennessee,TN,Public,4-year,2005,B,A,"4y bach",328,80,170,24.4,51.8,9
+47,Tennessee,TN,Public,4-year,2005,B,A,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2005,B,Ai,"4y bach",50,6,13,12.0,26.0,9
+47,Tennessee,TN,Public,4-year,2005,B,Ai,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2005,B,B,"4y bach",3113,650,1245,20.9,40.0,9
+47,Tennessee,TN,Public,4-year,2005,B,B,"4y other",2,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2005,B,H,"4y bach",165,31,71,18.8,43.0,9
+47,Tennessee,TN,Public,4-year,2005,B,H,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2005,B,W,"4y bach",11361,2444,5213,21.5,45.9,9
+47,Tennessee,TN,Public,4-year,2005,B,W,"4y other",37,,12,,32.4,4
+47,Tennessee,TN,Public,4-year,2005,B,X,"4y bach",15186,3237,6766,21.3,44.6,9
+47,Tennessee,TN,Public,4-year,2005,B,X,"4y other",43,,13,,30.2,4
+47,Tennessee,TN,Public,4-year,2005,F,A,"4y bach",177,50,93,28.2,52.5,9
+47,Tennessee,TN,Public,4-year,2005,F,A,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2005,F,Ai,"4y bach",26,4,5,15.4,19.2,9
+47,Tennessee,TN,Public,4-year,2005,F,Ai,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2005,F,B,"4y bach",1889,475,858,25.1,45.4,9
+47,Tennessee,TN,Public,4-year,2005,F,B,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2005,F,H,"4y bach",96,24,48,25.0,50.0,9
+47,Tennessee,TN,Public,4-year,2005,F,H,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2005,F,W,"4y bach",6015,1595,3005,26.5,50.0,9
+47,Tennessee,TN,Public,4-year,2005,F,W,"4y other",31,,12,,38.7,4
+47,Tennessee,TN,Public,4-year,2005,F,X,"4y bach",8294,2163,4040,26.1,48.7,9
+47,Tennessee,TN,Public,4-year,2005,F,X,"4y other",33,,12,,36.4,4
+47,Tennessee,TN,Public,4-year,2005,M,A,"4y bach",151,30,77,19.9,51.0,9
+47,Tennessee,TN,Public,4-year,2005,M,A,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2005,M,Ai,"4y bach",24,2,8,8.3,33.3,9
+47,Tennessee,TN,Public,4-year,2005,M,Ai,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2005,M,B,"4y bach",1224,175,387,14.3,31.6,9
+47,Tennessee,TN,Public,4-year,2005,M,B,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2005,M,H,"4y bach",69,7,23,10.1,33.3,9
+47,Tennessee,TN,Public,4-year,2005,M,H,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2005,M,W,"4y bach",5346,849,2208,15.9,41.3,9
+47,Tennessee,TN,Public,4-year,2005,M,W,"4y other",6,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2005,M,X,"4y bach",6892,1074,2726,15.6,39.6,9
+47,Tennessee,TN,Public,4-year,2005,M,X,"4y other",10,,1,,10.0,4
+47,Tennessee,TN,Public,4-year,2006,B,A,"4y bach",281,85,147,30.2,52.3,9
+47,Tennessee,TN,Public,4-year,2006,B,A,"4y other",2,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2006,B,Ai,"4y bach",52,7,15,13.5,28.8,9
+47,Tennessee,TN,Public,4-year,2006,B,Ai,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2006,B,B,"4y bach",2941,562,1160,19.1,39.4,9
+47,Tennessee,TN,Public,4-year,2006,B,B,"4y other",105,,13,,12.4,3
+47,Tennessee,TN,Public,4-year,2006,B,H,"4y bach",151,33,72,21.9,47.7,9
+47,Tennessee,TN,Public,4-year,2006,B,H,"4y other",1,,1,,100.0,3
+47,Tennessee,TN,Public,4-year,2006,B,W,"4y bach",11587,2766,5451,23.9,47.0,9
+47,Tennessee,TN,Public,4-year,2006,B,W,"4y other",49,,14,,28.6,3
+47,Tennessee,TN,Public,4-year,2006,B,X,"4y bach",15195,3481,6911,22.9,45.5,9
+47,Tennessee,TN,Public,4-year,2006,B,X,"4y other",165,,28,,17.0,3
+47,Tennessee,TN,Public,4-year,2006,F,A,"4y bach",159,52,86,32.7,54.1,9
+47,Tennessee,TN,Public,4-year,2006,F,A,"4y other",1,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2006,F,Ai,"4y bach",26,6,11,23.1,42.3,9
+47,Tennessee,TN,Public,4-year,2006,F,Ai,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2006,F,B,"4y bach",1804,424,787,23.5,43.6,9
+47,Tennessee,TN,Public,4-year,2006,F,B,"4y other",65,,13,,20.0,3
+47,Tennessee,TN,Public,4-year,2006,F,H,"4y bach",87,27,46,31.0,52.9,9
+47,Tennessee,TN,Public,4-year,2006,F,H,"4y other",1,,1,,100.0,3
+47,Tennessee,TN,Public,4-year,2006,F,W,"4y bach",6191,1805,3132,29.2,50.6,9
+47,Tennessee,TN,Public,4-year,2006,F,W,"4y other",37,,14,,37.8,3
+47,Tennessee,TN,Public,4-year,2006,F,X,"4y bach",8356,2331,4096,27.9,49.0,9
+47,Tennessee,TN,Public,4-year,2006,F,X,"4y other",108,,28,,25.9,3
+47,Tennessee,TN,Public,4-year,2006,M,A,"4y bach",122,33,61,27.0,50.0,9
+47,Tennessee,TN,Public,4-year,2006,M,A,"4y other",1,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2006,M,Ai,"4y bach",26,1,4,3.8,15.4,9
+47,Tennessee,TN,Public,4-year,2006,M,Ai,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2006,M,B,"4y bach",1137,138,373,12.1,32.8,9
+47,Tennessee,TN,Public,4-year,2006,M,B,"4y other",40,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2006,M,H,"4y bach",64,6,26,9.4,40.6,9
+47,Tennessee,TN,Public,4-year,2006,M,H,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2006,M,W,"4y bach",5396,961,2319,17.8,43.0,9
+47,Tennessee,TN,Public,4-year,2006,M,W,"4y other",12,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2006,M,X,"4y bach",6839,1150,2815,16.8,41.2,9
+47,Tennessee,TN,Public,4-year,2006,M,X,"4y other",57,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2007,B,A,"4y bach",327,76,146,23.2,44.6,9
+47,Tennessee,TN,Public,4-year,2007,B,A,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2007,B,Ai,"4y bach",52,4,16,7.7,30.8,9
+47,Tennessee,TN,Public,4-year,2007,B,Ai,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2007,B,B,"4y bach",3065,531,1118,17.3,36.5,9
+47,Tennessee,TN,Public,4-year,2007,B,B,"4y other",19,,2,,10.5,4
+47,Tennessee,TN,Public,4-year,2007,B,H,"4y bach",179,34,73,19.0,40.8,9
+47,Tennessee,TN,Public,4-year,2007,B,H,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2007,B,W,"4y bach",11762,2855,5481,24.3,46.6,9
+47,Tennessee,TN,Public,4-year,2007,B,W,"4y other",34,,9,,26.5,4
+47,Tennessee,TN,Public,4-year,2007,B,X,"4y bach",15615,3526,6898,22.6,44.2,9
+47,Tennessee,TN,Public,4-year,2007,B,X,"4y other",57,,12,,21.1,4
+47,Tennessee,TN,Public,4-year,2007,F,A,"4y bach",148,43,77,29.1,52.0,9
+47,Tennessee,TN,Public,4-year,2007,F,A,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2007,F,Ai,"4y bach",23,2,9,8.7,39.1,9
+47,Tennessee,TN,Public,4-year,2007,F,Ai,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2007,F,B,"4y bach",1950,409,807,21.0,41.4,9
+47,Tennessee,TN,Public,4-year,2007,F,B,"4y other",18,,2,,11.1,4
+47,Tennessee,TN,Public,4-year,2007,F,H,"4y bach",82,17,36,20.7,43.9,9
+47,Tennessee,TN,Public,4-year,2007,F,H,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2007,F,W,"4y bach",6182,1797,3097,29.1,50.1,9
+47,Tennessee,TN,Public,4-year,2007,F,W,"4y other",23,,7,,30.4,4
+47,Tennessee,TN,Public,4-year,2007,F,X,"4y bach",8496,2283,4063,26.9,47.8,9
+47,Tennessee,TN,Public,4-year,2007,F,X,"4y other",42,,9,,21.4,4
+47,Tennessee,TN,Public,4-year,2007,M,A,"4y bach",179,33,69,18.4,38.5,9
+47,Tennessee,TN,Public,4-year,2007,M,A,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2007,M,Ai,"4y bach",29,2,7,6.9,24.1,9
+47,Tennessee,TN,Public,4-year,2007,M,Ai,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2007,M,B,"4y bach",1115,122,311,10.9,27.9,9
+47,Tennessee,TN,Public,4-year,2007,M,B,"4y other",1,,0,,0.0,4
+47,Tennessee,TN,Public,4-year,2007,M,H,"4y bach",97,17,37,17.5,38.1,9
+47,Tennessee,TN,Public,4-year,2007,M,H,"4y other",0,,0,,,4
+47,Tennessee,TN,Public,4-year,2007,M,W,"4y bach",5580,1058,2384,19.0,42.7,9
+47,Tennessee,TN,Public,4-year,2007,M,W,"4y other",11,,2,,18.2,4
+47,Tennessee,TN,Public,4-year,2007,M,X,"4y bach",7119,1243,2835,17.5,39.8,9
+47,Tennessee,TN,Public,4-year,2007,M,X,"4y other",15,,3,,20.0,4
+47,Tennessee,TN,Public,4-year,2008,B,A,"4y bach",341,53,158,15.5,46.3,9
+47,Tennessee,TN,Public,4-year,2008,B,A,"4y other",0,,0,,,2
+47,Tennessee,TN,Public,4-year,2008,B,Ai,"4y bach",54,5,12,9.3,22.2,9
+47,Tennessee,TN,Public,4-year,2008,B,Ai,"4y other",1,,0,,0.0,2
+47,Tennessee,TN,Public,4-year,2008,B,B,"4y bach",3180,409,1208,12.9,38.0,9
+47,Tennessee,TN,Public,4-year,2008,B,B,"4y other",10,,0,,0.0,2
+47,Tennessee,TN,Public,4-year,2008,B,H,"4y bach",221,38,81,17.2,36.7,9
+47,Tennessee,TN,Public,4-year,2008,B,H,"4y other",0,,0,,,2
+47,Tennessee,TN,Public,4-year,2008,B,W,"4y bach",11711,2449,5656,20.9,48.3,9
+47,Tennessee,TN,Public,4-year,2008,B,W,"4y other",23,,8,,34.8,2
+47,Tennessee,TN,Public,4-year,2008,B,X,"4y bach",15767,3011,7224,19.1,45.8,9
+47,Tennessee,TN,Public,4-year,2008,B,X,"4y other",41,,8,,19.5,2
+47,Tennessee,TN,Public,4-year,2008,F,A,"4y bach",175,40,84,22.9,48.0,9
+47,Tennessee,TN,Public,4-year,2008,F,A,"4y other",0,,0,,,2
+47,Tennessee,TN,Public,4-year,2008,F,Ai,"4y bach",32,2,7,6.3,21.9,9
+47,Tennessee,TN,Public,4-year,2008,F,Ai,"4y other",0,,0,,,2
+47,Tennessee,TN,Public,4-year,2008,F,B,"4y bach",1942,318,832,16.4,42.8,9
+47,Tennessee,TN,Public,4-year,2008,F,B,"4y other",6,,0,,0.0,2
+47,Tennessee,TN,Public,4-year,2008,F,H,"4y bach",123,21,42,17.1,34.1,9
+47,Tennessee,TN,Public,4-year,2008,F,H,"4y other",0,,0,,,2
+47,Tennessee,TN,Public,4-year,2008,F,W,"4y bach",6243,1616,3227,25.9,51.7,9
+47,Tennessee,TN,Public,4-year,2008,F,W,"4y other",16,,6,,37.5,2
+47,Tennessee,TN,Public,4-year,2008,F,X,"4y bach",8662,2031,4252,23.4,49.1,9
+47,Tennessee,TN,Public,4-year,2008,F,X,"4y other",28,,6,,21.4,2
+47,Tennessee,TN,Public,4-year,2008,M,A,"4y bach",166,13,74,7.8,44.6,9
+47,Tennessee,TN,Public,4-year,2008,M,A,"4y other",0,,0,,,2
+47,Tennessee,TN,Public,4-year,2008,M,Ai,"4y bach",22,3,5,13.6,22.7,9
+47,Tennessee,TN,Public,4-year,2008,M,Ai,"4y other",1,,0,,0.0,2
+47,Tennessee,TN,Public,4-year,2008,M,B,"4y bach",1238,91,376,7.4,30.4,9
+47,Tennessee,TN,Public,4-year,2008,M,B,"4y other",4,,0,,0.0,2
+47,Tennessee,TN,Public,4-year,2008,M,H,"4y bach",98,17,39,17.3,39.8,9
+47,Tennessee,TN,Public,4-year,2008,M,H,"4y other",0,,0,,,2
+47,Tennessee,TN,Public,4-year,2008,M,W,"4y bach",5468,833,2429,15.2,44.4,9
+47,Tennessee,TN,Public,4-year,2008,M,W,"4y other",7,,2,,28.6,2
+47,Tennessee,TN,Public,4-year,2008,M,X,"4y bach",7105,980,2972,13.8,41.8,9
+47,Tennessee,TN,Public,4-year,2008,M,X,"4y other",13,,2,,15.4,2
+47,Tennessee,TN,Public,4-year,2009,B,A,"4y bach",324,72,165,22.2,50.9,9
+47,Tennessee,TN,Public,4-year,2009,B,Ai,"4y bach",65,11,19,16.9,29.2,9
+47,Tennessee,TN,Public,4-year,2009,B,B,"4y bach",3275,409,1239,12.5,37.8,9
+47,Tennessee,TN,Public,4-year,2009,B,H,"4y bach",202,28,93,13.9,46.0,9
+47,Tennessee,TN,Public,4-year,2009,B,W,"4y bach",11641,2679,5762,23.0,49.5,9
+47,Tennessee,TN,Public,4-year,2009,B,X,"4y bach",15772,3238,7375,20.5,46.8,9
+47,Tennessee,TN,Public,4-year,2009,F,A,"4y bach",164,45,85,27.4,51.8,9
+47,Tennessee,TN,Public,4-year,2009,F,Ai,"4y bach",41,8,12,19.5,29.3,9
+47,Tennessee,TN,Public,4-year,2009,F,B,"4y bach",2068,304,822,14.7,39.7,9
+47,Tennessee,TN,Public,4-year,2009,F,H,"4y bach",117,18,58,15.4,49.6,9
+47,Tennessee,TN,Public,4-year,2009,F,W,"4y bach",6141,1713,3194,27.9,52.0,9
+47,Tennessee,TN,Public,4-year,2009,F,X,"4y bach",8664,2110,4227,24.4,48.8,9
+47,Tennessee,TN,Public,4-year,2009,M,A,"4y bach",160,27,80,16.9,50.0,9
+47,Tennessee,TN,Public,4-year,2009,M,Ai,"4y bach",24,3,7,12.5,29.2,9
+47,Tennessee,TN,Public,4-year,2009,M,B,"4y bach",1207,105,417,8.7,34.5,9
+47,Tennessee,TN,Public,4-year,2009,M,H,"4y bach",85,10,35,11.8,41.2,9
+47,Tennessee,TN,Public,4-year,2009,M,W,"4y bach",5500,966,2568,17.6,46.7,9
+47,Tennessee,TN,Public,4-year,2009,M,X,"4y bach",7108,1128,3148,15.9,44.3,9
+47,Tennessee,TN,Public,4-year,2010,B,A,"4y bach",348,75,167,21.6,48.0,9
+47,Tennessee,TN,Public,4-year,2010,B,A,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2010,B,Ai,"4y bach",53,6,15,11.3,28.3,9
+47,Tennessee,TN,Public,4-year,2010,B,Ai,"4y other",1,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2010,B,B,"4y bach",3547,351,1185,9.9,33.4,9
+47,Tennessee,TN,Public,4-year,2010,B,B,"4y other",3,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2010,B,H,"4y bach",255,45,98,17.6,38.4,9
+47,Tennessee,TN,Public,4-year,2010,B,H,"4y other",4,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2010,B,W,"4y bach",12868,2899,6349,22.5,49.3,9
+47,Tennessee,TN,Public,4-year,2010,B,W,"4y other",24,,3,,12.5,3
+47,Tennessee,TN,Public,4-year,2010,B,X,"4y bach",17500,3442,7959,19.7,45.5,9
+47,Tennessee,TN,Public,4-year,2010,B,X,"4y other",40,,4,,10.0,3
+47,Tennessee,TN,Public,4-year,2010,F,A,"4y bach",178,40,83,22.5,46.6,9
+47,Tennessee,TN,Public,4-year,2010,F,A,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2010,F,Ai,"4y bach",27,3,7,11.1,25.9,9
+47,Tennessee,TN,Public,4-year,2010,F,Ai,"4y other",1,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2010,F,B,"4y bach",2272,259,820,11.4,36.1,9
+47,Tennessee,TN,Public,4-year,2010,F,B,"4y other",1,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2010,F,H,"4y bach",149,36,61,24.2,40.9,9
+47,Tennessee,TN,Public,4-year,2010,F,H,"4y other",3,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2010,F,W,"4y bach",6755,1860,3542,27.5,52.4,9
+47,Tennessee,TN,Public,4-year,2010,F,W,"4y other",7,,2,,28.6,3
+47,Tennessee,TN,Public,4-year,2010,F,X,"4y bach",9578,2236,4585,23.3,47.9,9
+47,Tennessee,TN,Public,4-year,2010,F,X,"4y other",15,,2,,13.3,3
+47,Tennessee,TN,Public,4-year,2010,M,A,"4y bach",170,35,84,20.6,49.4,9
+47,Tennessee,TN,Public,4-year,2010,M,A,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2010,M,Ai,"4y bach",26,3,8,11.5,30.8,9
+47,Tennessee,TN,Public,4-year,2010,M,Ai,"4y other",0,,0,,,3
+47,Tennessee,TN,Public,4-year,2010,M,B,"4y bach",1275,92,365,7.2,28.6,9
+47,Tennessee,TN,Public,4-year,2010,M,B,"4y other",2,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2010,M,H,"4y bach",106,9,37,8.5,34.9,9
+47,Tennessee,TN,Public,4-year,2010,M,H,"4y other",1,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2010,M,W,"4y bach",6113,1039,2807,17.0,45.9,9
+47,Tennessee,TN,Public,4-year,2010,M,W,"4y other",17,,1,,5.9,3
+47,Tennessee,TN,Public,4-year,2010,M,X,"4y bach",7922,1206,3374,15.2,42.6,9
+47,Tennessee,TN,Public,4-year,2010,M,X,"4y other",25,,2,,8.0,3
