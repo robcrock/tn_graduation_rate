@@ -30,11 +30,12 @@ d3.csv('tn_four_year_bach.csv', function(error, data) {
 
   stack.keys(['perc_grad_in_4', 'perc_grad_in_6']);
 
-  const series = stack(white);
-
-  console.log(series);
+  const stacked = stack(white);
+  console.log(JSON.stringify(stacked, null, 2))
 
   // Complete x-scale
-  xScale.domain([0, d3.max(white)])
+  xScale.domain([0, d3.max(stacked, series => d3.max(series, d => d[1]))])
+
+  console.log(xScale.domain());
 
 })
